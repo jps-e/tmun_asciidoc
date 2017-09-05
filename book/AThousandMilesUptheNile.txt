@@ -1,3 +1,8 @@
+= A THOUSAND MILES UP THE NILE
+:author: AMELIA B. EDWARDS
+:doctype: book
+:toc:
+
 [[titlepage.xhtml]]
 
 [[A_Thousand_M-es_Up_the_Nile_split_000.html]]
@@ -15,6 +20,7 @@ GREAT ROCK-CUT TEMPLE, ABOU SIMBEL, NUBIA.
 [[A_Thousand_M-es_Up_the_Nile_split_000.html#calibre_pb_0]][[A_Thousand_M-es_Up_the_Nile_split_001.html]]
 
 [[A_Thousand_M-es_Up_the_Nile_split_001.html#filepos600]][[A_Thousand_M-es_Up_the_Nile_split_001.html#calibre_pb_1]]
+////
 A THOUSAND MILES UP THE NILE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -29,7 +35,7 @@ BY
 [[A_Thousand_M-es_Up_the_Nile_split_002.html#calibre_pb_2]]
 AMELIA B. EDWARDS
 ~~~~~~~~~~~~~~~~~
-
+////
 AUTHOR OF 'UNTRODDEN PEAKS AND UNFREQUENTED VALLEYS,' 'LORD
 BRACKENBURY,' 'BARBARA'S HISTORY,' ETC.
 
@@ -5967,7 +5973,7 @@ Amen.[link:#A_Thousand_M-es_Up_the_Nile_split_035.html#filepos1019077[43]]
 He erected obelisks of granite. He made golden flagstaffs. He added
 very, very great colonnades."
 
-M. Deveria suggests that the Temple of Gournah may here be indicated ;
+&#77;. Deveria suggests that the Temple of Gournah may here be indicated ;
 but to this it might be objected that Gournah is situated in the lower
 and not the upper part of Thebes ; that at Gournah there are no great
 colonnades and no obelisks ; and that, moreover, for some reason at
@@ -7248,8 +7254,8 @@ was intended to taper towards the top. Another shows where it was to be
 reduced at the side. Had it been finished, this would have been the
 largest obelisk in the world. The great obelisk of Queen Hatshepsu at
 Karnak, which, as its inscriptions record, came also from Assûan, stands
-ninety-two feet high, and measures eight feet square at the base ;
-[link:#A_Thousand_M-es_Up_the_Nile_split_035.html#filepos1024209[51]]
+ninety-two feet high, and measures eight feet square at the
+base ; [link:#A_Thousand_M-es_Up_the_Nile_split_035.html#filepos1024209[51]]
 but this which lies sleeping in the desert would have stood ninety-five
 feet in the shaft, and have measured over eleven feet square at the
 base. We can never know now why it was left here, nor guess with what
@@ -10531,8 +10537,7 @@ answered, or a vow fulfilled. We see, at all events, that Rameses and
 Nefertari desired to leave behind them an imperishable record of the
 affection which united them on earth, and which they hoped would reunite
 them in Amenti. What more do we need to know? We see that the Queen was
-fair ;
-[link:#A_Thousand_M-es_Up_the_Nile_split_035.html#filepos1076880[116]]
+fair ; [link:#A_Thousand_M-es_Up_the_Nile_split_035.html#filepos1076880[116]]
 that the King was in his prime. We divine the rest ; and the poetry of
 the place at all events is ours. Even in these barren solitudes there is
 wafted to us a breath from the shores of old romance. We feel that Love
