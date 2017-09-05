@@ -92,11 +92,11 @@ A MIDSUMMER RAMBLE IN THE DOLOMITES.
 
 {nbsp}
 
-[[A_Thousand_M-es_Up_the_Nile_split_003.html#calibre_pb_4]][[A_Thousand_M-es_Up_the_Nile_split_004.html]]
+[[A_Thousand_M-es_Up_the_Nile_split_003.html#calibre_pb_4]][[preface2]]
 
 {nbsp}
-
-PREFACE TO THE SECOND EDITION.
+[preface]
+== PREFACE TO THE SECOND EDITION.
 
 {nbsp}
 
@@ -127,11 +127,11 @@ WESTBURY-ON-TRYM,
 
 {nbsp}
 
-[[A_Thousand_M-es_Up_the_Nile_split_004.html#calibre_pb_5]][[A_Thousand_M-es_Up_the_Nile_split_005.html]]
+[[preface2#calibre_pb_5]][[preface1]]
 
 {nbsp}
-
-PREFACE TO THE FIRST EDITION.
+[preface]
+== PREFACE TO THE FIRST EDITION.
 
 {nbsp}
 
@@ -397,18 +397,18 @@ The Secret of The Sphinx.
 
 {nbsp}
 
-[[A_Thousand_M-es_Up_the_Nile_split_005.html#calibre_pb_6]][[A_Thousand_M-es_Up_the_Nile_split_006.html]]
+[[preface1#calibre_pb_6]][[contents]]
 
-[[A_Thousand_M-es_Up_the_Nile_split_006.html#filepos19033]]
+[[contents#filepos19033]]
 {nbsp}
 
-CONTENTS.
+== CONTENTS.
 
 {nbsp}
 
 {nbsp}
 
-link:#A_Thousand_M-es_Up_the_Nile_split_008.html#filepos33851[CHAPTER
+link:#chapter_01#filepos33851[CHAPTER
 I.]
 
 CAIRO AND THE GREAT PYRAMID.
@@ -418,7 +418,7 @@ Bazaars—Dahabeeyahs—Ghizeh—The Pyramids.
 
 {nbsp}
 
-link:#A_Thousand_M-es_Up_the_Nile_split_009.html#filepos66490[CHAPTER
+link:#chapter_02#filepos66490[CHAPTER
 II.]
 
 CAIRO AND THE MECCA PILGRIMAGE.
@@ -430,7 +430,7 @@ Road.
 
 {nbsp}
 
-link:#A_Thousand_M-es_Up_the_Nile_split_010.html#filepos104226[CHAPTER
+link:#chapter_03#filepos104226[CHAPTER
 III.]
 
 CAIRO TO BEDRESHAYN.
@@ -685,11 +685,11 @@ Contemporary Chronology of Egypt, Mesopotamia, and Babylon
 
 {nbsp}
 
-[[A_Thousand_M-es_Up_the_Nile_split_006.html#calibre_pb_7]][[A_Thousand_M-es_Up_the_Nile_split_007.html]]
+[[contents#calibre_pb_7]][[illustrations]]
 
 {nbsp}
 
-LIST OF ILLUSTRATIONS.
+== LIST OF ILLUSTRATIONS.
 
 {nbsp}
 
@@ -859,13 +859,13 @@ BROKEN SISTRUM
 
 {nbsp}
 
-[[A_Thousand_M-es_Up_the_Nile_split_007.html#calibre_pb_8]][[A_Thousand_M-es_Up_the_Nile_split_008.html]]
+[[illustrations#calibre_pb_8]][[chapter_01]]
 
 {nbsp}
 
-[[A_Thousand_M-es_Up_the_Nile_split_008.html#filepos33851]]
+[[chapter_01#filepos33851]]
 
-CHAPTER I.
+== CHAPTER I.
 
 {nbsp}
 
@@ -1401,13 +1401,13 @@ said to have been built with the casing-stones of the Great Pyramid.
 
 {nbsp}
 
-[[A_Thousand_M-es_Up_the_Nile_split_008.html#calibre_pb_9]][[A_Thousand_M-es_Up_the_Nile_split_009.html]]
+[[chapter_01#calibre_pb_9]][[chapter_02]]
 
 {nbsp}
 
-[[A_Thousand_M-es_Up_the_Nile_split_009.html#filepos66490]]
+[[chapter_02#filepos66490]]
 
-CHAPTER II.
+== CHAPTER II.
 
 {nbsp}
 
@@ -2013,13 +2013,13 @@ irrelevant.
 
 {nbsp}
 
-[[A_Thousand_M-es_Up_the_Nile_split_009.html#calibre_pb_10]][[A_Thousand_M-es_Up_the_Nile_split_010.html]]
+[[chapter_02#calibre_pb_10]][[chapter_03]]
 
 {nbsp}
 
-[[A_Thousand_M-es_Up_the_Nile_split_010.html#filepos104226]]
+[[chapter_03#filepos104226]]
 
-CHAPTER III.
+== CHAPTER III.
 
 {nbsp}
 
@@ -2434,13 +2434,13 @@ strangers in a strange land.
 
 {nbsp}
 
-[[A_Thousand_M-es_Up_the_Nile_split_010.html#calibre_pb_11]][[A_Thousand_M-es_Up_the_Nile_split_011.html]]
+[[chapter_03#calibre_pb_11]][[A_Thousand_M-es_Up_the_Nile_split_011.html]]
 
 {nbsp}
 
 [[A_Thousand_M-es_Up_the_Nile_split_011.html#filepos129731]]
 
-CHAPTER IV.
+== CHAPTER IV.
 
 {nbsp}
 
@@ -3224,7 +3224,7 @@ MITRÂHÎNEH.
 
 [[A_Thousand_M-es_Up_the_Nile_split_012.html#filepos177943]]
 
-CHAPTER V.
+== CHAPTER V.
 
 {nbsp}
 
@@ -3886,7 +3886,7 @@ MARKET BOAT MINIEH.
 
 [[A_Thousand_M-es_Up_the_Nile_split_013.html#filepos218365]]
 
-CHAPTER VI.
+== CHAPTER VI.
 
 {nbsp}
 
@@ -4522,7 +4522,7 @@ sanctuaries of the ancient worship that have passed away.
 
 [[A_Thousand_M-es_Up_the_Nile_split_014.html#filepos257015]]
 
-CHAPTER VII.
+== CHAPTER VII.
 
 {nbsp}
 
@@ -5329,7 +5329,7 @@ my life.
 
 [[A_Thousand_M-es_Up_the_Nile_split_015.html#filepos306291]]
 
-CHAPTER VIII.
+== CHAPTER VIII.
 
 {nbsp}
 
@@ -6025,7 +6025,7 @@ bewildered. Have I not said that it was like a dream?
 
 [[A_Thousand_M-es_Up_the_Nile_split_016.html#filepos348331]]
 
-CHAPTER IX.
+== CHAPTER IX.
 
 {nbsp}
 
@@ -6696,7 +6696,7 @@ NATIVE BOAT, ASSÛAN.
 
 [[A_Thousand_M-es_Up_the_Nile_split_017.html#filepos387813]]
 
-CHAPTER X.
+== CHAPTER X.
 
 {nbsp}
 
@@ -7427,7 +7427,7 @@ CAMEL AT ASSÛAN.
 
 [[A_Thousand_M-es_Up_the_Nile_split_018.html#filepos430988]]
 
-CHAPTER XI.
+== CHAPTER XI.
 
 {nbsp}
 
@@ -7853,7 +7853,7 @@ PHARAOH'S BED, PHILÆ.
 
 [[A_Thousand_M-es_Up_the_Nile_split_019.html#filepos456598]]
 
-CHAPTER XII.
+== CHAPTER XII.
 
 {nbsp}
 
@@ -8556,7 +8556,7 @@ at best no better than a catalogue raisonnée.
 
 [[A_Thousand_M-es_Up_the_Nile_split_020.html#filepos497756]]
 
-CHAPTER XIII.
+== CHAPTER XIII.
 
 {nbsp}
 
@@ -8911,7 +8911,7 @@ NUBIAN JEWELLERY.
 
 [[A_Thousand_M-es_Up_the_Nile_split_021.html#filepos518547]]
 
-CHAPTER XIV.
+== CHAPTER XIV.
 
 {nbsp}
 
@@ -9537,7 +9537,7 @@ and vanish before morning.
 
 [[A_Thousand_M-es_Up_the_Nile_split_022.html#filepos555307]]
 
-CHAPTER XV.
+== CHAPTER XV.
 
 {nbsp}
 
@@ -10128,7 +10128,7 @@ himself a god?
 
 [[A_Thousand_M-es_Up_the_Nile_split_023.html#filepos590468]]
 
-CHAPTER XVI.
+== CHAPTER XVI.
 
 {nbsp}
 
@@ -11007,7 +11007,7 @@ two, and be off to Wady Halfeh.
 
 [[A_Thousand_M-es_Up_the_Nile_split_024.html#filepos641444]]
 
-CHAPTER XVII.
+== CHAPTER XVII.
 
 {nbsp}
 
@@ -11459,7 +11459,7 @@ THE ROCK OF ABUSÎR.
 
 [[A_Thousand_M-es_Up_the_Nile_split_025.html#filepos667524]]
 
-CHAPTER XVIII.
+== CHAPTER XVIII.
 
 {nbsp}
 
@@ -12525,7 +12525,7 @@ leads the way, is it wonderful that ignorance should follow?{nbsp}{nbsp}{nbsp}{n
 
 [[A_Thousand_M-es_Up_the_Nile_split_026.html#filepos725357]]
 
-CHAPTER XIX.
+== CHAPTER XIX.
 
 {nbsp}
 
@@ -13665,7 +13665,7 @@ NUBIAN WOMAN AND CHILD.
 
 [[A_Thousand_M-es_Up_the_Nile_split_027.html#filepos789155]]
 
-CHAPTER XX.
+== CHAPTER XX.
 
 {nbsp}
 
@@ -14276,7 +14276,7 @@ image:images/00072.jpg[image]
 
 [[A_Thousand_M-es_Up_the_Nile_split_028.html#filepos826410]]
 
-CHAPTER XXI.
+== CHAPTER XXI.
 
 {nbsp}
 
@@ -15975,7 +15975,7 @@ no more.
 
 [[A_Thousand_M-es_Up_the_Nile_split_029.html#filepos925552]]
 
-CHAPTER XXII.
+== CHAPTER XXII.
 
 {nbsp}
 
