@@ -5973,7 +5973,7 @@ Amen.[link:#notes#filepos1019077[43]]
 He erected obelisks of granite. He made golden flagstaffs. He added
 very, very great colonnades."
 
-&#77;. Deveria suggests that the Temple of Gournah may here be indicated ;
++++M.+++ Deveria suggests that the Temple of Gournah may here be indicated ;
 but to this it might be objected that Gournah is situated in the lower
 and not the upper part of Thebes ; that at Gournah there are no great
 colonnades and no obelisks ; and that, moreover, for some reason at
@@ -12242,13 +12242,13 @@ image:images/00057.jpg[image]
 
 HIERATIC INSCRIPTION,
 
-&#78;. WALL OF SPEOS.
++++N+++. WALL OF SPEOS.
 
 Translated by S. Birch, Esq., LL.D. &c., &c.
 
 {nbsp}
 
----------------------
++++---------------------+++
 
 . . . . thy son having . . . . . . thou hast conquered the worlds
 
@@ -12273,7 +12273,7 @@ of transport boats, Giver of instructions to his Lord
 
 {nbsp}
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
++++~~~~~~~~~~~~~~~~~~~~~~~~~~~~~+++
 
 {nbsp}
 
@@ -14420,9 +14420,9 @@ outline of something buried. The men, throwing spades and picks aside,
 now began scraping up the dust with their hands, and a mummy-case came
 gradually to light. It was shaped to represent a body lying at length
 with the hands crossed upon the breast. Both hands and face were carved
-in high relief. The ground-colour of the sarcophagus was white ;
-[link:#notes#filepos1113549[194]]
-the surface covered with hieroglyphed legends and somewhat coarsely
+in high relief. The ground-colour of the sarcophagus was
+white ; [link:#notes#filepos1113549[194]] the surface covered with
+hieroglyphed legends and somewhat coarsely
 painted figures of the four lesser Gods of the Dead. The face, like the
 hands, was coloured a brownish yellow and highly varnished. But for a
 little dimness of the gaudy hues, and a little flaking off of the
@@ -15300,8 +15300,7 @@ feverish sleep troubled by gruesome dreams, and broken by momentary
 wakings.
 
 These tombs in a general way are very much alike. Some are longer than
-others ;
-[link:#notes#filepos1132012[223]]
+others ; [link:#notes#filepos1132012[223]]
 some loftier. In some the descent is gradual ; in others it is steep and
 sudden. Certain leading features are common to all. The great
 serpent,[link:#notes#filepos1132844[224]]
@@ -17382,7 +17381,7 @@ habitations for the incorporeal ghost, or "Ka," which it was supposed
 needed a body, food, and drink, and must perish everlastingly if not
 duly supplied with these necessaries. Hence the whole system of burying
 food-offerings, furniture, stuffs, etc., in ancient Egyptian sepulchres.
-[Note to Second Edition.]
++++[Note to Second Edition.]+++
 
 {nbsp}
 
@@ -18317,7 +18316,7 @@ Burton, all of the Royal Engineers, "render it certain that this valley
 discharged its waters into the Red Sea" (see chap. iii. p. 55) ; and in
 such case, if that branch were not already navigable, Queen Hatshepsu
 would only have needed to canalise it, which is what she probably did.
-[Note to Second Edition.]
++++[Note to Second Edition.]+++
 
 {nbsp}
 
@@ -18471,7 +18470,7 @@ them go and gather straw for themselves.
 lay upon them : ye shall not diminish ought thereof."—Exodus, chap. v.
 7,8.
 
-M. Chabas says : "Ces détails sont complètement conformes aux habitudes
++++M+++. Chabas says : "Ces détails sont complètement conformes aux habitudes
 Egyptiennes. Le mélange de paille et d'argile dans les briques antiques
 a été parfaitement reconnu. D'un autre côté, le travail à la tâche est
 mentionné dans un texte écrit au revers d'un papyrus célébrant la
@@ -18572,11 +18571,11 @@ et de la Basse Egypte, maître des deux pays, Ra-User-Ma Setp-en-Ra,
 vivificateur, éternel comme le soleil.'" Catalogue de la Salle
 Historique. P. PIERRET. Paris, 1873, p. 8.
 
-M. Maspero is of opinion that this one fragment establishes the disputed
++++M+++. Maspero is of opinion that this one fragment establishes the disputed
 fact of his actual sovereignty from early childhood, and so disposes of
 the entire question. See L'Inscription dédicatoire du Temple d'Abydos,
 suivi d'un Essai sur la jeunesse de Sesostris. G. MASPERO. 4{nbsp} Paris,
-1867. See also
++++1867.+++ See also
 link:#notes#filepos1014781[chap.
 viii. (footnote), p. 140].
 
@@ -18722,7 +18721,7 @@ définitive. Ce procédé a toujours été employé dans les grandes époques
 de l'art ; et il ne nous a pas semblé qu'il ait jamais été en usage en
 Egypte."—Ibid. p. 82.
 
-M. Soldi is also of opinion that the Egyptian sculptors were ignorant of
++++M+++. Soldi is also of opinion that the Egyptian sculptors were ignorant of
 many of the most useful tools known to the Greek, Roman, and modern
 sculptors, such as the emery-tube, the diamond-point, etc. etc.
 
@@ -19090,7 +19089,7 @@ found in the form of right eyes and left eyes, and they symbolise the
 eyes of Horus, as he looks to the N. and S. horizons in his passage from
 E. to W., i.e. from sunrise to sunset."
 
-M. Grebaut, in his translation of a hymn to Amen-Ra, observes : "Le
++++M+++. Grebaut, in his translation of a hymn to Amen-Ra, observes : "Le
 soleil marchant d'Orient en Occident éclaire de ses deux yeux les deux
 régions du Nord et du Midi."—Révue Arch. vol. xxv. 1873 ; p. 387.
 
@@ -20162,7 +20161,7 @@ of part of the colonnade surrounding the sanctuary, over which the old
 French House was built. These particular columns, if I am not much
 mistaken, bounded the west side of the courtyard through which one
 passed to the flight of steps leading up to Lady Duff Gordon's rooms.
-[Note to Second Edition.]
++++[Note to Second Edition.]+++
 
 {nbsp}
 
@@ -20443,9 +20442,9 @@ Itinéraire de la Haute Egypte : A. MARIETTE BEY: p. 147 Alex. 1872.
 {nbsp}
 
 [[notes#filepos1155204]][263] Ibid.
-p. 148, The hope here expressed was, however, not fulfilled ; tombs of
++++p+++. 148, The hope here expressed was, however, not fulfilled ; tombs of
 the IVth or Vth Dynasties being, I believe, the earliest discovered.
-[Note to Second Edition.]
++++[Note to Second Edition.]+++
 
 {nbsp}
 
@@ -20471,7 +20470,7 @@ Edition.]
 [[notes#filepos1156275]][266] See
 Egypt of the Pharaohs and the Khedive, J. B. ZINCKE, chap. ix: p. 72.
 Lond. 1873. Also La Sculpture Egyptienne, par E. SOLDI, p. 57. Paris,
-1876. Also The Ethnology of Egypt, by PROFESSOR OWEN, C.B. Journal of
++++1876+++. Also The Ethnology of Egypt, by PROFESSOR OWEN, C.B. Journal of
 Anthropological Institute, vol. iv. 1874, p. 227. The name of this
 personage was Ra-em-ka.
 
