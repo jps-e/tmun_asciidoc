@@ -620,9 +620,10 @@ Princess Nefer-t—Early drive to Ghizeh—Ascent of the Great Pyramid—The
 Sphinx—The view from the Top—The end.
 
 {nbsp}
-link:#_APPENDIX[APPENDIX.]
 
-APPENDIX.
+link:#_appendices[APPENDICES.]
+
+APPENDICES.
 
 // link:#A_Thousand_M-es_Up_the_Nile_split_030.html#filepos973892[I.] A.  M'Callum, Esq., to the Editor of 'THE TIMES'
 
