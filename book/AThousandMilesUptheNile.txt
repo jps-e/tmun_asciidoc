@@ -17,9 +17,6 @@ GREAT ROCK-CUT TEMPLE, ABOU SIMBEL, NUBIA.
 
 {nbsp}
 
-[[A_Thousand_M-es_Up_the_Nile_split_000.html#calibre_pb_0]][[A_Thousand_M-es_Up_the_Nile_split_001.html]]
-
-[[A_Thousand_M-es_Up_the_Nile_split_001.html#filepos600]][[A_Thousand_M-es_Up_the_Nile_split_001.html#calibre_pb_1]]
 ////
 A THOUSAND MILES UP THE NILE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -70,10 +67,6 @@ GLASGOW, MANCHESTER, AND NEW YORK
 
 {nbsp}
 
-[[A_Thousand_M-es_Up_the_Nile_split_002.html#calibre_pb_3]][[A_Thousand_M-es_Up_the_Nile_split_003.html]]
-
-{nbsp}
-
 BY THE SAME AUTHOR,
 
 {nbsp}
@@ -89,10 +82,6 @@ AND UNFREQUENTED VALLEYS:
 A MIDSUMMER RAMBLE IN THE DOLOMITES.
 
 {nbsp}
-
-{nbsp}
-
-[[A_Thousand_M-es_Up_the_Nile_split_003.html#calibre_pb_4]][[preface2]]
 
 {nbsp}
 [preface]
@@ -125,11 +114,6 @@ WESTBURY-ON-TRYM,
 
 {nbsp}
 
-{nbsp}
-
-[[preface2#calibre_pb_5]][[preface1]]
-
-{nbsp}
 [preface]
 == PREFACE TO THE FIRST EDITION.
 
@@ -395,21 +379,13 @@ The Secret of The Sphinx.
 
 {nbsp}
 
-{nbsp}
-
-[[preface1#calibre_pb_6]][[contents]]
-
-[[contents#filepos19033]]
-{nbsp}
-
 == CONTENTS.
 
 {nbsp}
 
 {nbsp}
 
-link:#chapter_01#filepos33851[CHAPTER
-I.]
+link:#_chapter_i[CHAPTER I.]
 
 CAIRO AND THE GREAT PYRAMID.
 
@@ -418,8 +394,8 @@ Bazaars—Dahabeeyahs—Ghizeh—The Pyramids.
 
 {nbsp}
 
-link:#chapter_02#filepos66490[CHAPTER
-II.]
+// link:#chapter_02#filepos66490[CHAPTER II.]
+link:#_chapter_ii[CHAPTER II.]
 
 CAIRO AND THE MECCA PILGRIMAGE.
 
@@ -430,8 +406,8 @@ Road.
 
 {nbsp}
 
-link:#chapter_03#filepos104226[CHAPTER
-III.]
+// link:#chapter_03#filepos104226[CHAPTER III.]
+link:#_chapter_iii[CHAPTER III.]
 
 CAIRO TO BEDRESHAYN.
 
@@ -440,8 +416,7 @@ crew—The Dahabeeyah and the Nile sailor—Native music—Bedreshayn.
 
 {nbsp}
 
-link:#A_Thousand_M-es_Up_the_Nile_split_011.html#filepos129731[CHAPTER
-IV.]
+link:#_chapter_iv[CHAPTER IV.]
 
 SAKKÂRAH AND MEMPHIS.
 
@@ -451,8 +426,7 @@ raid—The Tomb of Ti—The Fallen Colossus—Memphis.
 
 {nbsp}
 
-link:#A_Thousand_M-es_Up_the_Nile_split_012.html#filepos177943[CHAPTER
-V.]
+link:#_chapter_v[CHAPTER V.]
 
 BEDRESHAYN TO MINIEH.
 
@@ -463,8 +437,7 @@ provisions—The Dôm palm—Fortune-telling—Ophthalmia.
 
 {nbsp}
 
-link:#A_Thousand_M-es_Up_the_Nile_split_013.html#filepos218365[CHAPTER
-VI.]
+link:#_chapter_vi[CHAPTER VI.]
 
 MINIEH TO SIÛT.
 
@@ -475,8 +448,7 @@ pottery—Ancient tombs—View over the plain—Biblical legend.
 
 {nbsp}
 
-link:#A_Thousand_M-es_Up_the_Nile_split_014.html#filepos257015[CHAPTER
-VII.]
+link:#_chapter_vii[CHAPTER VII.]
 
 SIÛT TO DENDERAH.
 
@@ -485,8 +457,7 @@ Syad—Forced labour—Temple of Denderah—Cleopatra—Benighted.
 
 {nbsp}
 
-link:#A_Thousand_M-es_Up_the_Nile_split_015.html#filepos306291[CHAPTER
-VIII.]
+link:#_chapter_viii[CHAPTER VIII.]
 
 THEBES AND KARNAK.
 
@@ -497,8 +468,7 @@ world of ruins.
 
 {nbsp}
 
-link:#A_Thousand_M-es_Up_the_Nile_split_016.html#filepos348331[CHAPTER
-IX.]
+link:#_chapter_ix[CHAPTER IX.]
 
 THEBES TO ASSÛAN.
 
@@ -508,8 +478,7 @@ Fellâh—The pylons of Edfu—An exciting race—The Philæ wins by a length.
 
 {nbsp}
 
-link:#A_Thousand_M-es_Up_the_Nile_split_017.html#filepos387813[CHAPTER
-X.]
+link:#_chapter_x[CHAPTER X.]
 
 ASSÛAN AND ELEPHANTINE.
 
@@ -520,8 +489,7 @@ the Quarry—A death in the town.
 
 {nbsp}
 
-link:#A_Thousand_M-es_Up_the_Nile_split_018.html#filepos430988[CHAPTER
-XI.]
+link:#_chapter_xi[CHAPTER XI.]
 
 THE CATARACT AND THE DESERT.
 
@@ -530,8 +498,7 @@ Painter's vocabulary—Mahatta—Ancient bed of the Nile—Abyssinian Caravan.
 
 {nbsp}
 
-link:#A_Thousand_M-es_Up_the_Nile_split_019.html#filepos456598[CHAPTER
-XII.]
+link:#_chapter_xii[CHAPTER XII.]
 
 PHILÆ.
 
@@ -541,8 +508,7 @@ Rock—View from the roof of the Temple.
 
 {nbsp}
 
-link:#A_Thousand_M-es_Up_the_Nile_split_020.html#filepos497756[CHAPTER
-XIII.]
+link:#_chapter_xiii[CHAPTER XIII.]
 
 PHILÆ TO KOROSKO.
 
@@ -551,8 +517,7 @@ views—Volcanic cones—Dakkeh—Korosko—Letters from home.
 
 {nbsp}
 
-link:#A_Thousand_M-es_Up_the_Nile_split_021.html#filepos518547[CHAPTER
-XIV.]
+link:#_chapter_iv[CHAPTER XIV.]
 
 KOROSKO TO ABOU SIMBEL.
 
@@ -562,8 +527,7 @@ Sakkieh—Arrival at Abou Simbel by moonlight.
 
 {nbsp}
 
-link:#A_Thousand_M-es_Up_the_Nile_split_022.html#filepos555307[CHAPTER
-XV.]
+link:#_chapter_xv[CHAPTER XV.]
 
 RAMESES THE GREAT.
 
@@ -573,8 +537,7 @@ Moses—Tomb of Osymandias—Character of Rameses the Great.
 
 {nbsp}
 
-link:#A_Thousand_M-es_Up_the_Nile_split_023.html#filepos590468[CHAPTER
-XVI.]
+link:#_chapter_xvi[CHAPTER XVI.]
 
 ABOU SIMBEL.
 
@@ -585,8 +548,7 @@ Colossus—The sufferings of the sketcher.
 
 {nbsp}
 
-link:#A_Thousand_M-es_Up_the_Nile_split_024.html#filepos641444[CHAPTER
-XVII.]
+link:#_chapter_xvii[CHAPTER XVII.]
 
 THE SECOND CATARACT.
 
@@ -597,8 +559,7 @@ Nile.
 
 {nbsp}
 
-link:#A_Thousand_M-es_Up_the_Nile_split_025.html#filepos667524[CHAPTER
-XVIII.]
+link:#_chapter_xviii[CHAPTER XVIII.]
 
 DISCOVERIES AT ABOU SIMBEL.
 
@@ -609,8 +570,7 @@ Chamber—Inscriptions.
 
 {nbsp}
 
-link:#A_Thousand_M-es_Up_the_Nile_split_026.html#filepos725357[CHAPTER
-XIX.]
+link:#_chapter_xix[CHAPTER XIX.]
 
 BACK THROUGH NUBIA.
 
@@ -623,8 +583,7 @@ of Philæ.
 
 {nbsp}
 
-link:#A_Thousand_M-es_Up_the_Nile_split_027.html#filepos789155[CHAPTER
-XX.]
+link:#_chapter_xx[CHAPTER XX.]
 
 SILSILIS AND EDFU.
 
@@ -633,8 +592,7 @@ perfect of Egyptian temples—View from the pylons—Sand columns.
 
 {nbsp}
 
-link:#A_Thousand_M-es_Up_the_Nile_split_028.html#filepos826410[CHAPTER
-XXI.]
+link:#_chapter_xxi[CHAPTER XXI.]
 
 THEBES.
 
@@ -647,8 +605,7 @@ fantasia—The Coptic Church at Luxor—A Coptic service—A Coptic Bishop.
 
 {nbsp}
 
-link:#A_Thousand_M-es_Up_the_Nile_split_029.html#filepos925552[CHAPTER
-XXII.]
+link:#_chapter_xxii[CHAPTER XXII.]
 
 ABYDUS AND CAIRO.
 
@@ -663,29 +620,25 @@ Princess Nefer-t—Early drive to Ghizeh—Ascent of the Great Pyramid—The
 Sphinx—The view from the Top—The end.
 
 {nbsp}
+link:#_APPENDIX[APPENDIX.]
 
 APPENDIX.
 
-link:#A_Thousand_M-es_Up_the_Nile_split_030.html#filepos973892[I.] A.
-M'Callum, Esq., to the Editor of 'THE TIMES'
+// link:#A_Thousand_M-es_Up_the_Nile_split_030.html#filepos973892[I.] A.  M'Callum, Esq., to the Editor of 'THE TIMES'
 
-link:#A_Thousand_M-es_Up_the_Nile_split_031.html#filepos975964[II.] The
-Egyptian Pantheon
+// link:#A_Thousand_M-es_Up_the_Nile_split_031.html#filepos975964[II.] The Egyptian Pantheon
 
-link:#A_Thousand_M-es_Up_the_Nile_split_032.html#filepos982952[III.] The
-Religious Belief of the Egyptians
+// link:#A_Thousand_M-es_Up_the_Nile_split_032.html#filepos982952[III.] The Religious Belief of the Egyptians
 
-link:#A_Thousand_M-es_Up_the_Nile_split_033.html#filepos991833[IV.]
-Egyptian Chronology
+// link:#A_Thousand_M-es_Up_the_Nile_split_033.html#filepos991833[IV.] Egyptian Chronology
 
-link:#A_Thousand_M-es_Up_the_Nile_split_034.html#filepos995107[V.]
-Contemporary Chronology of Egypt, Mesopotamia, and Babylon
+// link:#A_Thousand_M-es_Up_the_Nile_split_034.html#filepos995107[V.] Contemporary Chronology of Egypt, Mesopotamia, and Babylon
 
 {nbsp}
 
 {nbsp}
 
-[[contents#calibre_pb_7]][[illustrations]]
+// [[contents#calibre_pb_7]][[illustrations]]
 
 {nbsp}
 
@@ -859,11 +812,11 @@ BROKEN SISTRUM
 
 {nbsp}
 
-[[illustrations#calibre_pb_8]][[chapter_01]]
+// [[illustrations#calibre_pb_8]][[chapter_01]]
 
 {nbsp}
 
-[[chapter_01#filepos33851]]
+// [[chapter_01#filepos33851]]
 
 == CHAPTER I.
 
@@ -1399,13 +1352,6 @@ said to have been built with the casing-stones of the Great Pyramid.
 
 {nbsp}
 
-{nbsp}
-
-[[chapter_01#calibre_pb_9]][[chapter_02]]
-
-{nbsp}
-
-[[chapter_02#filepos66490]]
 
 == CHAPTER II.
 
@@ -2013,12 +1959,6 @@ irrelevant.
 
 {nbsp}
 
-[[chapter_02#calibre_pb_10]][[chapter_03]]
-
-{nbsp}
-
-[[chapter_03#filepos104226]]
-
 == CHAPTER III.
 
 {nbsp}
@@ -2431,14 +2371,6 @@ river gleamed below. The stars shone overhead. We felt we were indeed
 strangers in a strange land.
 
 {nbsp}
-
-{nbsp}
-
-[[chapter_03#calibre_pb_11]][[A_Thousand_M-es_Up_the_Nile_split_011.html]]
-
-{nbsp}
-
-[[A_Thousand_M-es_Up_the_Nile_split_011.html#filepos129731]]
 
 == CHAPTER IV.
 
@@ -3216,14 +3148,6 @@ MITRÂHÎNEH.
 
 {nbsp}
 
-{nbsp}
-
-[[A_Thousand_M-es_Up_the_Nile_split_011.html#calibre_pb_12]][[A_Thousand_M-es_Up_the_Nile_split_012.html]]
-
-{nbsp}
-
-[[A_Thousand_M-es_Up_the_Nile_split_012.html#filepos177943]]
-
 == CHAPTER V.
 
 {nbsp}
@@ -3878,14 +3802,6 @@ MARKET BOAT MINIEH.
 
 {nbsp}
 
-{nbsp}
-
-[[A_Thousand_M-es_Up_the_Nile_split_012.html#calibre_pb_13]][[A_Thousand_M-es_Up_the_Nile_split_013.html]]
-
-{nbsp}
-
-[[A_Thousand_M-es_Up_the_Nile_split_013.html#filepos218365]]
-
 == CHAPTER VI.
 
 {nbsp}
@@ -4515,12 +4431,6 @@ only the Moslem minarets that are new. It is only the pylons and
 sanctuaries of the ancient worship that have passed away.
 
 {nbsp}
-
-[[A_Thousand_M-es_Up_the_Nile_split_013.html#calibre_pb_14]][[A_Thousand_M-es_Up_the_Nile_split_014.html]]
-
-{nbsp}
-
-[[A_Thousand_M-es_Up_the_Nile_split_014.html#filepos257015]]
 
 == CHAPTER VII.
 
@@ -5321,14 +5231,6 @@ my life.
 
 {nbsp}
 
-{nbsp}
-
-[[A_Thousand_M-es_Up_the_Nile_split_014.html#calibre_pb_15]][[A_Thousand_M-es_Up_the_Nile_split_015.html]]
-
-{nbsp}
-
-[[A_Thousand_M-es_Up_the_Nile_split_015.html#filepos306291]]
-
 == CHAPTER VIII.
 
 {nbsp}
@@ -6019,12 +5921,6 @@ bewildered. Have I not said that it was like a dream?
 
 {nbsp}
 
-[[A_Thousand_M-es_Up_the_Nile_split_015.html#calibre_pb_16]][[A_Thousand_M-es_Up_the_Nile_split_016.html]]
-
-{nbsp}
-
-[[A_Thousand_M-es_Up_the_Nile_split_016.html#filepos348331]]
-
 == CHAPTER IX.
 
 {nbsp}
@@ -6687,14 +6583,6 @@ image:images/00025.jpg[image]
 NATIVE BOAT, ASSÛAN.
 
 {nbsp}
-
-{nbsp}
-
-[[A_Thousand_M-es_Up_the_Nile_split_016.html#calibre_pb_17]][[A_Thousand_M-es_Up_the_Nile_split_017.html]]
-
-{nbsp}
-
-[[A_Thousand_M-es_Up_the_Nile_split_017.html#filepos387813]]
 
 == CHAPTER X.
 
@@ -7421,12 +7309,6 @@ CAMEL AT ASSÛAN.
 
 {nbsp}
 
-[[A_Thousand_M-es_Up_the_Nile_split_017.html#calibre_pb_18]][[A_Thousand_M-es_Up_the_Nile_split_018.html]]
-
-{nbsp}
-
-[[A_Thousand_M-es_Up_the_Nile_split_018.html#filepos430988]]
-
 == CHAPTER XI.
 
 {nbsp}
@@ -7844,14 +7726,6 @@ image:images/00028.jpg[image]
 PHARAOH'S BED, PHILÆ.
 
 {nbsp}
-
-{nbsp}
-
-[[A_Thousand_M-es_Up_the_Nile_split_018.html#calibre_pb_19]][[A_Thousand_M-es_Up_the_Nile_split_019.html]]
-
-{nbsp}
-
-[[A_Thousand_M-es_Up_the_Nile_split_019.html#filepos456598]]
 
 == CHAPTER XII.
 
@@ -8547,14 +8421,6 @@ at best no better than a catalogue raisonnée.
 
 {nbsp}
 
-{nbsp}
-
-[[A_Thousand_M-es_Up_the_Nile_split_019.html#calibre_pb_20]][[A_Thousand_M-es_Up_the_Nile_split_020.html]]
-
-{nbsp}
-
-[[A_Thousand_M-es_Up_the_Nile_split_020.html#filepos497756]]
-
 == CHAPTER XIII.
 
 {nbsp}
@@ -8903,12 +8769,6 @@ image:images/00037.jpg[image]
 NUBIAN JEWELLERY.
 
 {nbsp}
-
-[[A_Thousand_M-es_Up_the_Nile_split_020.html#calibre_pb_21]][[A_Thousand_M-es_Up_the_Nile_split_021.html]]
-
-{nbsp}
-
-[[A_Thousand_M-es_Up_the_Nile_split_021.html#filepos518547]]
 
 == CHAPTER XIV.
 
@@ -9528,14 +9388,6 @@ and vanish before morning.
 
 {nbsp}
 
-{nbsp}
-
-[[A_Thousand_M-es_Up_the_Nile_split_021.html#calibre_pb_22]][[A_Thousand_M-es_Up_the_Nile_split_022.html]]
-
-{nbsp}
-
-[[A_Thousand_M-es_Up_the_Nile_split_022.html#filepos555307]]
-
 == CHAPTER XV.
 
 {nbsp}
@@ -10120,12 +9972,6 @@ adoration before him. What wonder, then, if the man so deified believed
 himself a god?
 
 {nbsp}
-
-[[A_Thousand_M-es_Up_the_Nile_split_022.html#calibre_pb_23]][[A_Thousand_M-es_Up_the_Nile_split_023.html]]
-
-{nbsp}
-
-[[A_Thousand_M-es_Up_the_Nile_split_023.html#filepos590468]]
 
 == CHAPTER XVI.
 
@@ -10998,14 +10844,6 @@ two, and be off to Wady Halfeh.
 
 {nbsp}
 
-{nbsp}
-
-[[A_Thousand_M-es_Up_the_Nile_split_023.html#calibre_pb_24]][[A_Thousand_M-es_Up_the_Nile_split_024.html]]
-
-{nbsp}
-
-[[A_Thousand_M-es_Up_the_Nile_split_024.html#filepos641444]]
-
 == CHAPTER XVII.
 
 {nbsp}
@@ -11451,12 +11289,6 @@ image:images/00049.jpg[image]
 THE ROCK OF ABUSÎR.
 
 {nbsp}
-
-[[A_Thousand_M-es_Up_the_Nile_split_024.html#calibre_pb_25]][[A_Thousand_M-es_Up_the_Nile_split_025.html]]
-
-{nbsp}
-
-[[A_Thousand_M-es_Up_the_Nile_split_025.html#filepos667524]]
 
 == CHAPTER XVIII.
 
@@ -12517,12 +12349,6 @@ are rich in spoils which tell their own lamentable tale. When science
 leads the way, is it wonderful that ignorance should follow?{nbsp}{nbsp}{nbsp}{nbsp}
 
 {nbsp}
-
-[[A_Thousand_M-es_Up_the_Nile_split_025.html#calibre_pb_26]][[A_Thousand_M-es_Up_the_Nile_split_026.html]]
-
-{nbsp}
-
-[[A_Thousand_M-es_Up_the_Nile_split_026.html#filepos725357]]
 
 == CHAPTER XIX.
 
@@ -13656,14 +13482,6 @@ NUBIAN WOMAN AND CHILD.
 
 {nbsp}
 
-{nbsp}
-
-[[A_Thousand_M-es_Up_the_Nile_split_026.html#calibre_pb_27]][[A_Thousand_M-es_Up_the_Nile_split_027.html]]
-
-{nbsp}
-
-[[A_Thousand_M-es_Up_the_Nile_split_027.html#filepos789155]]
-
 == CHAPTER XX.
 
 {nbsp}
@@ -14268,12 +14086,6 @@ them looks like rich plum-cake.
 image:images/00072.jpg[image]
 
 {nbsp}
-
-[[A_Thousand_M-es_Up_the_Nile_split_027.html#calibre_pb_28]][[A_Thousand_M-es_Up_the_Nile_split_028.html]]
-
-{nbsp}
-
-[[A_Thousand_M-es_Up_the_Nile_split_028.html#filepos826410]]
 
 == CHAPTER XXI.
 
@@ -15967,12 +15779,6 @@ no more.
 
 {nbsp}
 
-[[A_Thousand_M-es_Up_the_Nile_split_028.html#calibre_pb_29]][[A_Thousand_M-es_Up_the_Nile_split_029.html]]
-
-{nbsp}
-
-[[A_Thousand_M-es_Up_the_Nile_split_029.html#filepos925552]]
-
 == CHAPTER XXII.
 
 {nbsp}
@@ -16768,21 +16574,15 @@ image:images/00084.jpg[image]
 
 {nbsp}
 
-{nbsp}
-
-[[A_Thousand_M-es_Up_the_Nile_split_029.html#calibre_pb_30]][[A_Thousand_M-es_Up_the_Nile_split_030.html]]
+= APPENDICES
 
 {nbsp}
 
-[[A_Thousand_M-es_Up_the_Nile_split_030.html#filepos973892]]
-
-APPENDIX I.
+== APPENDIX I.
 
 {nbsp}
 
 A. M'CALLUM, Esq., to the EDITOR of 'THE TIMES.'
-
-{nbsp}
 
 {nbsp}
 
@@ -16817,15 +16617,7 @@ KOROSKO, NUBIA, Feb. 16th, 1874.
 
 {nbsp}
 
-{nbsp}
-
-[[A_Thousand_M-es_Up_the_Nile_split_030.html#calibre_pb_31]][[A_Thousand_M-es_Up_the_Nile_split_031.html]]
-
-{nbsp}
-
-[[A_Thousand_M-es_Up_the_Nile_split_031.html#filepos975964]]
-
-APPENDIX II.
+== APPENDIX II.
 
 {nbsp}
 
@@ -16952,15 +16744,7 @@ at Bubastis.
 
 {nbsp}
 
-{nbsp}
-
-[[A_Thousand_M-es_Up_the_Nile_split_031.html#calibre_pb_32]][[A_Thousand_M-es_Up_the_Nile_split_032.html]]
-
-{nbsp}
-
-[[A_Thousand_M-es_Up_the_Nile_split_032.html#filepos982952]]
-
-APPENDIX III.
+== APPENDIX III.
 
 {nbsp}
 
@@ -17101,15 +16885,7 @@ chap. i. pp. 50-51.
 
 {nbsp}
 
-{nbsp}
-
-[[A_Thousand_M-es_Up_the_Nile_split_032.html#calibre_pb_33]][[A_Thousand_M-es_Up_the_Nile_split_033.html]]
-
-{nbsp}
-
-[[A_Thousand_M-es_Up_the_Nile_split_033.html#filepos991833]]
-
-APPENDIX IV.
+== APPENDIX IV.
 
 {nbsp}
 
@@ -17174,15 +16950,7 @@ image:images/00087.jpg[image]
 
 {nbsp}
 
-{nbsp}
-
-[[A_Thousand_M-es_Up_the_Nile_split_033.html#calibre_pb_34]][[A_Thousand_M-es_Up_the_Nile_split_034.html]]
-
-{nbsp}
-
-[[A_Thousand_M-es_Up_the_Nile_split_034.html#filepos995107]]
-
-APPENDIX V.
+== APPENDIX V.
 
 {nbsp}
 
@@ -17233,11 +17001,9 @@ Printed by R. & R. CLARK, Edinburgh.
 
 {nbsp}{nbsp}{nbsp}{nbsp}
 
-[[A_Thousand_M-es_Up_the_Nile_split_034.html#calibre_pb_35]][[notes]]
-
 {nbsp}
 
-NOTES
+= NOTES
 
 {nbsp}
 
@@ -17320,8 +17086,7 @@ Tewfik Pasha. [Note to Second Edition.]
 
 {nbsp}
 
-[[notes#filepos1000940]][8]
-Arabic—Kemengeh.
+[[notes#filepos1000940]][8] Arabic—Kemengeh.
 
 {nbsp}
 
@@ -17340,8 +17105,7 @@ sepulchral chamber, see Maspero's Archæologie Egyptienne, Fig. 230, p.
 
 {nbsp}
 
-[[notes#filepos1001622]][11]
-Nectanebo I and Nectanebo II were the last native Pharaohs of ancient
+[[notes#filepos1001622]][11] Nectanebo I and Nectanebo II were the last native Pharaohs of ancient
 Egypt, and flourished between B.C. 378 and B.C. 340. An earlier temple
 must have preceded the Serapeum built by Nectanebo I.
 
@@ -17420,8 +17184,7 @@ etc. Tell and Kóm are synonymous terms.
 
 {nbsp}
 
-[[notes#filepos1004973]][21]
-Sorghum vulgare.
+[[notes#filepos1004973]][21] Sorghum vulgare.
 
 {nbsp}
 
@@ -17452,8 +17215,7 @@ irrigation."—Egypt of the Pharoahs and the Khedive, p. 445 et seq.
 
 {nbsp}
 
-[[notes#filepos1006751]][23]
-Beled—village.
+[[notes#filepos1006751]][23] Beled—village.
 
 {nbsp}
 
@@ -17471,8 +17233,8 @@ miracle."—Le Fellah, p. 165.
 
 {nbsp}
 
-[[notes#filepos1007583]][25]
-Arabic—shoghool : a rope by which the mainsail is regulated.
+[[notes#filepos1007583]][25] Arabic—shoghool : a
+rope by which the mainsail is regulated.
 
 {nbsp}
 
@@ -17512,8 +17274,8 @@ adopted the civil names.
 
 {nbsp}
 
-[[notes#filepos1008965]][31]
-According to the account given in her letters by Lady Duff Gordon, this
+[[notes#filepos1008965]][31] According to the account given in her
+letters by Lady Duff Gordon, this
 dervish, who had acquired a reputation for unusual sanctity by repeating
 the name of Allah 3000 times every night for three years, believed that
 he had by these means rendered himself invulnerable ; and so,
@@ -17599,8 +17361,8 @@ sense unknown to the Egyptians of pre-Ptolemaic times.
 
 {nbsp}
 
-[[notes#filepos1013941]][36]
-Arabic, "kharûf," pronounced "haroof"—English, sheep.
+[[notes#filepos1013941]][36] Arabic, "kharûf," pronounced
+"haroof"—English, sheep.
 
 {nbsp}
 
@@ -17613,15 +17375,15 @@ given to it the more appropriate name of the Ramesseum.
 
 {nbsp}
 
-[[notes#filepos1014486]][38]
-Translated into French by the late Vicomte de Rougé under the title of
+[[notes#filepos1014486]][38] Translated
+into French by the late Vicomte de Rougé under the title of
 Le Poëme de Pentaour, 1856 ; into English by Mr. Goodwin, 1858 ; and
 again by Professor Lushington in 1874. See Records of the Past, vol. ii.
 
 {nbsp}
 
-[[notes#filepos1014781]][39]
-According to the great inscription of Abydos translated by Professor
+[[notes#filepos1014781]][39] According
+to the great inscription of Abydos translated by Professor
 Maspero, Rameses II would seem to have been in some sense King from his
 birth, as if the throne of Egypt came to him through his mother, and as
 if his father, Seti I, had reigned for him during his infancy as
@@ -17745,8 +17507,8 @@ same."—Journal of Researches, by Charles Darwin, chap. i. p. 12, ed.
 
 {nbsp}
 
-[[notes#filepos1021615]][47]
-Keffîyeh : A square head-shawl, made of silk or woollen. European
+[[notes#filepos1021615]][47] Keffîyeh : A square head-shawl, made
+of silk or woollen. European
 travellers wear them as puggarees.
 
 {nbsp}
@@ -17864,8 +17626,8 @@ Flinders Petrie's latest volume, entitled A Season's Work in Egypt,
 
 {nbsp}
 
-[[notes#filepos1027711]][56]
-Mariette, at the end of his Aperçu de l'histoire d'Egypte, gives the
+[[notes#filepos1027711]][56] Mariette, at the
+end of his Aperçu de l'histoire d'Egypte, gives the
 following succinct account of the Rosetta Stone, and the discovery of
 Champollion:—
 
@@ -18159,8 +17921,8 @@ RECORDS OF THE PAST, vol. ii. p. 117 et seq.
 
 {nbsp}
 
-[[notes#filepos1044966]][69]
-Operations carried on at the Pyramids of Ghizeh—COL. HOWARD VYSE,
+[[notes#filepos1044966]][69] Operations
+carried on at the Pyramids of Ghizeh—COL. HOWARD VYSE,
 London, 1840, vol. i. p. 63.
 
 {nbsp}
@@ -18180,8 +17942,8 @@ far as Korosko.
 
 {nbsp}
 
-[[notes#filepos1045723]][72]
-Lepsius's Letters from Egypt, Ethiopia, etc., Letter xviii. p. 184.
+[[notes#filepos1045723]][72] Lepsius's Letters
+from Egypt, Ethiopia, etc., Letter xviii. p. 184.
 Bohn's ed. A.D. 1853.
 
 {nbsp}
@@ -18193,8 +17955,8 @@ woodcuts Nos. 493 and 494 in the same chapter of the same work.
 
 {nbsp}
 
-[[notes#filepos1046159]][74]
-Rendered thus into Latin by M. Chabas : Sol dominus veritatis electus a
+[[notes#filepos1046159]][74] Rendered
+thus into Latin by M. Chabas : Sol dominus veritatis electus a
 Sole, Sol genuit eum ; amans Ammonem. Anglice—Sun Lord of Truth, Chosen
 of the Sun, Son of the Sun, Ammon-loving. The following is an extract
 translation of the hieroglyphs:—
@@ -18399,8 +18161,8 @@ published by order of the Committee of the Egypt Exploration Fund, 1887.
 
 {nbsp}
 
-[[notes#filepos1056820]][88]
-Kadesh, otherwise Katesh or Kades. A town on the Orontes. See a paper
+[[notes#filepos1056820]][88] Kadesh, otherwise
+Katesh or Kades. A town on the Orontes. See a paper
 entitled, "The Campaign of Rameses the Second, in his Vth year, against
 Kadesh on the Orontes," by the Rev. G. H. Tomkins, in the Proceedings of
 the Society of Biblical Archæology, 1881, 1882 ; also in the
@@ -18408,8 +18170,7 @@ Transactions of the Society, vol. viii.
 
 {nbsp}
 
-[[notes#filepos1057210]][89]
-Anastasi Papyri, No. III, Brit. Mus.
+[[notes#filepos1057210]][89] Anastasi Papyri, No. III, Brit. Mus.
 
 {nbsp}
 
@@ -18609,9 +18370,8 @@ v. p. 220 4eme edition, 1886.
 
 {nbsp}
 
-[[notes#filepos1067549]][103]
-"Comme Ramsès II regna 66 ans, le règne de son successeur sous lequel la
-sortie des Juifs eut lieu, embrassa la durée de 20 ans ; et comme Moïse
+[[notes#filepos1067549]][103] "Comme Ramsès II
+regna 66 ans, le règne de son successeur sous lequel la sortie des Juifs eut lieu, embrassa la durée de 20 ans ; et comme Moïse
 avait l'age de 80 ans au temps de la sortie, il en résulte évidemment
 que les enfants d'Israël quittèrent l'Egypte une des ces dernières six
 années du règne de Menepthah ; c'est à dire entre 1327 et 1321 avant
@@ -18640,13 +18400,12 @@ Kings (Tomb, No. 8).
 
 {nbsp}
 
-[[notes#filepos1069279]][105]
-HERODOTUS, Bk. ii.
+[[notes#filepos1069279]][105] HERODOTUS, Bk. ii.
 
 {nbsp}
 
-[[notes#filepos1069365]][106]
-Rosellini, for instance, carries hero-worship to its extreme limit when
+[[notes#filepos1069365]][106] Rosellini, for
+instance, carries hero-worship to its extreme limit when
 he not only states that Rameses the Great had, by his conquests, filled
 Egypt with luxuries that contributed alike to the graces of every-day
 life and the security of the state, but (accepting as sober fact the
@@ -18664,8 +18423,8 @@ iii. bk. iv. part ii. p. 184.
 
 {nbsp}
 
-[[notes#filepos1070464]][107]
-"Souvent il s'introduit lui-même dans les triades divines auxquelles il
+[[notes#filepos1070464]][107] "Souvent
+il s'introduit lui-même dans les triades divines auxquelles il
 dédie les temples. Le soliel de Ramsès Meïamoun qu'on aperçoit sur leur
 murailles, n'est autre chose que le roi lui-même déifié de son vivant."
 Notice des Monuments Egyptiennes au Musée du Louvre. DE ROUGÉ ; Paris,
@@ -18705,8 +18464,8 @@ resided.
 
 {nbsp}
 
-[[notes#filepos1072594]][110]
-"L'absence de points fouillés, la simplification voulue, la restriction
+[[notes#filepos1072594]][110] "L'absence
+de points fouillés, la simplification voulue, la restriction
 des détails et des ornements à quelques sillons plus ou moins hardis,
 l'engorgement de toutes les parties délicates, démontrent que les
 Egyptiens étaient loin d'avoir des procédés et des facilités
@@ -18774,8 +18533,8 @@ the Frontispiece.
 
 {nbsp}
 
-[[notes#filepos1076131]][115]
-Though dedicated by Rameses to Nefertari, and by Nefertari to Rameses,
+[[notes#filepos1076131]][115] Though
+dedicated by Rameses to Nefertari, and by Nefertari to Rameses,
 this Temple was placed, primarily, under the patronage of Hathor, the
 supreme type of divine maternity. She is represented by Queen Nefertari,
 who appears on the façade as the mother of six children, and adorned
@@ -18999,8 +18758,7 @@ the greater part of the staircase, in order to preserve the former.
 
 {nbsp}
 
-[[notes#filepos1087808]][131]
-Commonly known as Belzoni's Tomb.
+[[notes#filepos1087808]][131] Commonly known as Belzoni's Tomb.
 
 {nbsp}
 
@@ -19108,13 +18866,11 @@ courtesy of E. A. Wallis Budge, Esq.
 
 {nbsp}
 
-[[notes#filepos1093083]][140]
-Sesennu—Eshmoon or Hermopolis.
+[[notes#filepos1093083]][140] Sesennu—Eshmoon or Hermopolis.
 
 {nbsp}
 
-[[notes#filepos1093190]][141]
-Amenheri—Gebel Addeh.
+[[notes#filepos1093190]][141] Amenheri—Gebel Addeh.
 
 {nbsp}
 
@@ -19133,8 +18889,7 @@ white and yellow.
 
 {nbsp}
 
-[[notes#filepos1093833]][144]
-Kenus—Nubia.
+[[notes#filepos1093833]][144] Kenus—Nubia.
 
 {nbsp}
 
@@ -19154,13 +18909,12 @@ place, or Sanctuary.
 
 {nbsp}
 
-[[notes#filepos1094298]][148]
-Ethiopia.
+[[notes#filepos1094298]][148] Ethiopia.
 
 {nbsp}
 
-[[notes#filepos1094375]][149]
-Governors of Ethiopia bore this title, even though they did not
+[[notes#filepos1094375]][149] Governors
+of Ethiopia bore this title, even though they did not
 themselves belong to the family of the Pharaoh.
 
 It is a curious fact that one of the Governors of Ethiopia during the
@@ -19187,8 +18941,7 @@ the sand-heap.
 
 {nbsp}
 
-[[notes#filepos1095555]][152]
-Letter XIV. p. 235. Nouvelle Ed. Paris, 1868.
+[[notes#filepos1095555]][152] Letter XIV. p. 235. Nouvelle Ed. Paris, 1868.
 
 {nbsp}
 
@@ -19344,8 +19097,8 @@ working of the gold mines of those parts.
 
 {nbsp}
 
-[[notes#filepos1102855]][166]
-"According to Ptolemy, Metachompso should be opposite Pselcis, where
+[[notes#filepos1102855]][166] "According
+to Ptolemy, Metachompso should be opposite Pselcis, where
 there are extensive brick ruins. If so, Metachompso and Contra Pselcis
 must be the same town."—Topography of Thebes, etc ; Sir G. Wilkinson.
 Ed. 1835, p. 488. M. Vivien de St. Martin is, however, of opinion that
@@ -19378,8 +19131,8 @@ name of the island.
 
 {nbsp}
 
-[[notes#filepos1105022]][167]
-"C'est un ouvrage non achevé du temps de l'empereur Auguste. Quoique peu
+[[notes#filepos1105022]][167] "C'est un
+ouvrage non achevé du temps de l'empereur Auguste. Quoique peu
 important par son étendue, ce monument m'a beaucoup interessé, puisqu'il
 est entièrement relatif à l'incarnation d'Osiris sous forme humaine, sur
 la terre."—Lettres écrites d'Egypte, etc. : CHAMPOLLION. Paris, 1868, p.
@@ -19399,18 +19152,16 @@ xii. p. 221].
 
 {nbsp}
 
-[[notes#filepos1105728]][170]
-TALMIS : (Kalabsheh).
+[[notes#filepos1105728]][170] TALMIS : (Kalabsheh).
 
 {nbsp}
 
-[[notes#filepos1105817]][171]
-TAPHIS : (Tafah).
+[[notes#filepos1105817]][171] TAPHIS : (Tafah).
 
 {nbsp}
 
-[[notes#filepos1105902]][172]
-Blemyes:— The Blemyes were a nomadic race of Berbers, supposed to be
+[[notes#filepos1105902]][172] Blemyes:— The
+Blemyes were a nomadic race of Berbers, supposed to be
 originally of the tribes of Bilmas of Tibbous in the central desert, and
 settled as early as the time of Erastosthenes in that part of the Valley
 of the Nile which lies between the First and Second Cataracts. See Le
@@ -19471,8 +19222,8 @@ Tambooshy—i.e. saloon sky-light.
 
 {nbsp}
 
-[[notes#filepos1108759]][178]
-"Sebek est un dieu solaire. Dans un papyrus de Boulak, il est appelé
+[[notes#filepos1108759]][178] "Sebek
+est un dieu solaire. Dans un papyrus de Boulak, il est appelé
 fils d'Isis, et il combat les ennemis d'Osiris ; c'est une assimilation
 complète à Horus, et c'est à ce titre qu'il était adoré à Ombos."—Dic.
 Arch. P. PIERRET. Paris, 1875.
@@ -19509,8 +19260,8 @@ Paris, 1868.
 
 {nbsp}
 
-[[notes#filepos1110213]][183]
-Ta-ur-t, or Apet the Great. "Cettes Déesse à corps d'hippopotame debout
+[[notes#filepos1110213]][183] Ta-ur-t, or
+Apet the Great. "Cettes Déesse à corps d'hippopotame debout
 et à mamelles pendantes, paraît être une sorte de déesse nourrice. Elle
 semble, dans le bas temps, je ne dirai pas se substituer à Maut, mais
 compléter le rôle de cette déesse. Elle est nommée la grande nourrice ;
@@ -19531,8 +19282,8 @@ entitled A Season's Work in Egypt, 1877.
 
 {nbsp}
 
-[[notes#filepos1111264]][185]
-Letter of M. Mariette to Vte E. DE ROUGÉ : Révue Archéologique, vol. ii.
+[[notes#filepos1111264]][185] Letter
+of M. Mariette to Vte E. DE ROUGÉ : Révue Archéologique, vol. ii.
 p. 33, 1860.
 
 {nbsp}
@@ -19553,22 +19304,22 @@ est appelé Horus le Justicier."—Dict. Arch. P. PIERRET, article "Horus."
 
 {nbsp}
 
-[[notes#filepos1112160]][188]
-Hathor :—"Elle est, comme Neith, Muat, et Nout, la personnification de
+[[notes#filepos1112160]][188] Hathor :—"Elle est, comme
+Neith, Muat, et Nout, la personnification de
 l'espace dans lequel se meut le soleil, dont Horus symbolise le lever ;
 aussi son nom, Hat-hor, signifie-t-il litteralement, l'habitation
 d'Horus."—Ibid. article "Hathor."
 
 {nbsp}
 
-[[notes#filepos1112502]][189]
-Rapport sur une Mission en Egypte. VICOMTE E. DE ROUGÉ. See Révue Arch.
+[[notes#filepos1112502]][189] Rapport
+sur une Mission en Egypte. VICOMTE E. DE ROUGÉ. See Révue Arch.
 Nouvelle Série, vol. x. p. 63.
 
 {nbsp}
 
-[[notes#filepos1112689]][190]
-Textes Géographiques du Temple d'Edfou, by M. J. DE ROUGÉ. Révue Arch.
+[[notes#filepos1112689]][190] Textes
+Géographiques du Temple d'Edfou, by M. J. DE ROUGÉ. Révue Arch.
 vol. xii. p. 209.
 
 {nbsp}
@@ -19606,15 +19357,15 @@ de couleurs tranchantes."—Notice des Monuments à Boulak, p. 46. Paris,
 
 {nbsp}
 
-[[notes#filepos1114198]][195]
-Diodorus, Biblioth. Hist., Bk. i. chap. iv. The fault of inaccuracy
+[[notes#filepos1114198]][195] Diodorus, Biblioth.
+Hist., Bk. i. chap. iv. The fault of inaccuracy
 ought, however, to be charged to Hecatæus, who was the authority
 followed here by Diodorus.
 
 {nbsp}
 
-[[notes#filepos1114433]][196]
-Possibly the Smendes of Manetho, and the Ba-en-Ded whose cartouche is
+[[notes#filepos1114433]][196] Possibly
+the Smendes of Manetho, and the Ba-en-Ded whose cartouche is
 found by Brugsch on a sarcophagus in the museum at Vienna ; see Hist.
 d'Egypt, chap. x. p. 213, ed. 1859. Another claimant to this
 identification is found in a King named Se-Mentu, whose cartouches were
@@ -19622,8 +19373,8 @@ found by Mariette on some small gold tablets at Tanis.
 
 {nbsp}
 
-[[notes#filepos1114835]][197]
-Letter XIV. p. 235, Letters d'Egypte ; Paris, 1868. See also chapter
+[[notes#filepos1114835]][197] Letter XIV. p. 235,
+Letters d'Egypte ; Paris, 1868. See also chapter
 xviii. of the present work ; p.
 link:#A_Thousand_M-es_Up_the_Nile_split_025.html#filepos715791[349].
 
@@ -19708,8 +19459,8 @@ first person, the list excepted." Introduction to Annals of Rameses III
 
 {nbsp}
 
-[[notes#filepos1119260]][204]
-"Rameses III was one of the most remarkable monarchs in the annals of
+[[notes#filepos1119260]][204] "Rameses III was
+one of the most remarkable monarchs in the annals of
 Egypt. A period of political confusion and foreign conquest of the
 country preceded his advent to the throne. His father, Setnecht, had
 indeed succeeded in driving out the foreign invaders, and
@@ -19744,8 +19495,8 @@ BIRCH, LL.D., Cambridge, 1876.
 
 {nbsp}
 
-[[notes#filepos1121554]][205]
-"There is reason to believe that this is only a fragment of the
+[[notes#filepos1121554]][205] "There is
+reason to believe that this is only a fragment of the
 building, and foundations exist which render it probable that the whole
 was originally a square of the width of the front, and had other
 chambers, probably in wood or brick, besides those we now find. This
@@ -19757,8 +19508,8 @@ FERGUSSON, Bk. i., ch. iv., p. 118, Lond. 1865.
 
 {nbsp}
 
-[[notes#filepos1122229]][206]
-Medinet Habu continued up to the period of the Arab invasion to be
+[[notes#filepos1122229]][206] Medinet
+Habu continued up to the period of the Arab invasion to be
 inhabited by the Coptic descendants of its ancient builders. They fled,
 however, before Amr and his army, since which time the place has been
 deserted. It is not known whether the siege took place at the time of
@@ -19770,8 +19521,7 @@ place where the bar was placed across the door.
 
 {nbsp}
 
-[[notes#filepos1122903]][207]
-Herodotus, Bk. ii. chap. 122.
+[[notes#filepos1122903]][207] Herodotus, Bk. ii. chap. 122.
 
 {nbsp}
 
@@ -19833,8 +19583,8 @@ specimen of polychrome ornamentation on a gold-coloured ground.
 
 {nbsp}
 
-[[notes#filepos1125856]][213]
-Inscriptions at Medinet Habu. See Chabas' Antiquité Historique, chap.
+[[notes#filepos1125856]][213] Inscriptions
+at Medinet Habu. See Chabas' Antiquité Historique, chap.
 iv. Paris: 1876.
 
 {nbsp}
@@ -19973,22 +19723,20 @@ name of the occupant was Petamunap, a priest of uncertain date.
 
 {nbsp}
 
-[[notes#filepos1132844]][224]
-Apophis, in Egyptian Apap ; the great serpent of darkness, over whom Ra
+[[notes#filepos1132844]][224] Apophis, in
+Egyptian Apap ; the great serpent of darkness, over whom Ra
 must triumph after he sets in the west, and before he again rises in the
 east.
 
 {nbsp}
 
-[[notes#filepos1133076]][225]
-Kheper, the scarab deity. See
+[[notes#filepos1133076]][225] Kheper, the scarab deity. See
 link:#A_Thousand_M-es_Up_the_Nile_split_013.html#filepos236284[chap. vi.
 p. 96].
 
 {nbsp}
 
-[[notes#filepos1133218]][226]
-Symbolical of darkness.
+[[notes#filepos1133218]][226] Symbolical of darkness.
 
 {nbsp}
 
@@ -20125,8 +19873,8 @@ chap. 121.
 
 {nbsp}
 
-[[notes#filepos1140607]][235]
-Impossible from the Egyptian point of view. "That the body should not
+[[notes#filepos1140607]][235] Impossible
+from the Egyptian point of view. "That the body should not
 waste or decay was an object of anxious solicitude ; and for this
 purpose various bandlets and amulets, prepared with certain magical
 preparations, and sanctified with certain spells or prayers, or even
@@ -20165,8 +19913,8 @@ passed to the flight of steps leading up to Lady Duff Gordon's rooms.
 
 {nbsp}
 
-[[notes#filepos1142544]][238]
-Mehemet Ali gave this house to the French, and to the French it belonged
+[[notes#filepos1142544]][238] Mehemet Ali
+gave this house to the French, and to the French it belonged
 till pulled down three years ago by Professor Maspero. [Note to Second
 Edition.]
 
@@ -20182,29 +19930,27 @@ Edition.]
 
 {nbsp}
 
-[[notes#filepos1142992]][241]
-Kebobs : small lumps of meat grilled on skewers.
+[[notes#filepos1142992]][241] Kebobs : small
+lumps of meat grilled on skewers.
 
 {nbsp}
 
-[[notes#filepos1143115]][242]
-Kuftah : broiled mutton.
+[[notes#filepos1143115]][242] Kuftah : broiled mutton.
 
 {nbsp}
 
-[[notes#filepos1143214]][243]
-Pilaff : boiled rice, mixed with a little butter, and seasoned with salt
+[[notes#filepos1143214]][243] Pilaff : boiled
+rice, mixed with a little butter, and seasoned with salt
 and pepper.
 
 {nbsp}
 
-[[notes#filepos1143373]][244]
-Mish-mish : apricots (preserved).
+[[notes#filepos1143373]][244] Mish-mish : apricots (preserved).
 
 {nbsp}
 
-[[notes#filepos1143481]][245]
-Kunáfah : a rich pudding made of rice, almonds, cream, cinnamon, etc.
+[[notes#filepos1143481]][245] Kunáfah : a
+rich pudding made of rice, almonds, cream, cinnamon, etc.
 etc.
 
 {nbsp}
@@ -20214,8 +19960,8 @@ Blebban : rice cream.
 
 {nbsp}
 
-[[notes#filepos1143731]][247]
-Totleh : sweet jelly, encrusted with blanched almonds.
+[[notes#filepos1143731]][247] Totleh : sweet
+jelly, encrusted with blanched almonds.
 
 {nbsp}
 
@@ -20329,8 +20075,8 @@ Black Land ; in allusion to the colour of the soil.
 
 {nbsp}
 
-[[notes#filepos1149297]][256]
-"Mena, tel que nous le presente la tradition, est le type le plus
+[[notes#filepos1149297]][256] "Mena, tel que
+nous le presente la tradition, est le type le plus
 complet du monarque égyptien. Il est à la fois constructeur et
 législateur : il fonde le grande temple de Phtah à Memphis et régle le
 culte des dieux. Il est guerrier, et conduit les expéditions hors de ses
@@ -20407,8 +20153,8 @@ stands in this connection as only a deified symbol.
 
 {nbsp}
 
-[[notes#filepos1153569]][260]
-Rameses II is here shown with the side-lock of youth. This Temple,
+[[notes#filepos1153569]][260] Rameses II is
+here shown with the side-lock of youth. This Temple,
 founded by Seti I, was carried on through the time when Rameses the
 prince was associated with his father upon the throne, and was completed
 by Rameses the King, after the death of Seti I. The building is strictly
@@ -20488,8 +20234,8 @@ are older than the IVth Dynasty.
 
 {nbsp}
 
-[[notes#filepos1157028]][269]
-"Enfin nous signalerons l'importance des statues de Meydoum au point de
+[[notes#filepos1157028]][269] "Enfin nous
+signalerons l'importance des statues de Meydoum au point de
 vue ethnographique. Si la race Egyptienne était à cette époque celle
 dont les deux statues nous offrent le type, il faut convenir qu'elle ne
 ressemblait en rien à la race qui habitait le nord de l'Egypte quelques
