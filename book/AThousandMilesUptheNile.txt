@@ -623,17 +623,16 @@ Sphinx—The view from the Top—The end.
 
 link:#_appendices[APPENDICES.]
 
-APPENDICES.
+- link:#_appendix_i[I.] A.  M'Callum, Esq., to the Editor of 'THE TIMES'
 
-// link:#A_Thousand_M-es_Up_the_Nile_split_030.html#filepos973892[I.] A.  M'Callum, Esq., to the Editor of 'THE TIMES'
+- link:#_appendix_ii[II.] The Egyptian Pantheon
 
-// link:#A_Thousand_M-es_Up_the_Nile_split_031.html#filepos975964[II.] The Egyptian Pantheon
+- link:#_appendix_iii[III.] The Religious Belief of the Egyptians
 
-// link:#A_Thousand_M-es_Up_the_Nile_split_032.html#filepos982952[III.] The Religious Belief of the Egyptians
+- link:#_appendix_iv[IV.] Egyptian Chronology
 
-// link:#A_Thousand_M-es_Up_the_Nile_split_033.html#filepos991833[IV.] Egyptian Chronology
-
-// link:#A_Thousand_M-es_Up_the_Nile_split_034.html#filepos995107[V.] Contemporary Chronology of Egypt, Mesopotamia, and Babylon
+- link:#_appendix_v[V.] Contemporary Chronology of Egypt, Mesopotamia, and
+  Babylon
 
 {nbsp}
 
