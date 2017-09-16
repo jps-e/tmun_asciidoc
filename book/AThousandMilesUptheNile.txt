@@ -2,8 +2,9 @@
 :author: AMELIA B. EDWARDS
 :doctype: book
 :toc:
+:pdf-page-size: letter
 
-[[titlepage.xhtml]]
+// [[titlepage.xhtml]]
 
 {nbsp}
 
@@ -81,7 +82,7 @@ A MIDSUMMER RAMBLE IN THE DOLOMITES.
 
 {nbsp}
 
-{nbsp}
+// {nbsp}
 [preface]
 == PREFACE TO THE SECOND EDITION.
 
@@ -377,6 +378,7 @@ The Secret of The Sphinx.
 
 {nbsp}
 
+[preface]
 == CONTENTS.
 
 {nbsp}
@@ -619,17 +621,17 @@ Sphinx—The view from the Top—The end.
 
 {nbsp}
 
-link:#_appendices[APPENDICES.]
+// link:#_appendices[APPENDICES.]
 
-- link:#_appendix_i[I.] A.  M'Callum, Esq., to the Editor of 'THE TIMES'
+link:#_appendix_i[I.] A.  M'Callum, Esq., to the Editor of 'THE TIMES'
 
-- link:#_appendix_ii[II.] The Egyptian Pantheon
+link:#_appendix_ii[II.] The Egyptian Pantheon
 
-- link:#_appendix_iii[III.] The Religious Belief of the Egyptians
+link:#_appendix_iii[III.] The Religious Belief of the Egyptians
 
-- link:#_appendix_iv[IV.] Egyptian Chronology
+link:#_appendix_iv[IV.] Egyptian Chronology
 
-- link:#_appendix_v[V.] Contemporary Chronology of Egypt, Mesopotamia, and
+link:#_appendix_v[V.] Contemporary Chronology of Egypt, Mesopotamia, and
   Babylon
 
 {nbsp}
@@ -640,6 +642,7 @@ link:#_appendices[APPENDICES.]
 
 {nbsp}
 
+[preface]
 == LIST OF ILLUSTRATIONS.
 
 {nbsp}
@@ -16572,11 +16575,11 @@ image:images/00084.jpg[image]
 
 {nbsp}
 
-= APPENDICES
-
+//= APPENDICES
 {nbsp}
 
-== APPENDIX I.
+[appendix]
+= APPENDIX I.
 
 {nbsp}
 
@@ -16615,7 +16618,8 @@ KOROSKO, NUBIA, Feb. 16th, 1874.
 
 {nbsp}
 
-== APPENDIX II.
+[appendix]
+= APPENDIX II.
 
 {nbsp}
 
@@ -16742,7 +16746,8 @@ at Bubastis.
 
 {nbsp}
 
-== APPENDIX III.
+[appendix]
+= APPENDIX III.
 
 {nbsp}
 
@@ -16883,7 +16888,8 @@ chap. i. pp. 50-51.
 
 {nbsp}
 
-== APPENDIX IV.
+[appendix]
+= APPENDIX IV.
 
 {nbsp}
 
@@ -16948,7 +16954,8 @@ image:images/00087.jpg[image]
 
 {nbsp}
 
-== APPENDIX V.
+[appendix]
+= APPENDIX V.
 
 {nbsp}
 
@@ -17000,7 +17007,7 @@ Printed by R. & R. CLARK, Edinburgh.
 {nbsp}{nbsp}{nbsp}{nbsp}
 
 {nbsp}
-
+[appendix]
 = NOTES
 
 {nbsp}
