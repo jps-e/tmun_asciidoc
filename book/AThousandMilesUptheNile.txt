@@ -16682,7 +16682,7 @@ divine disposer and organiser of the world. Adored throughout Egypt.
 Amen-Ra :—Of human form, crowned with a flat-topped cap and two long
 straight plumes ; clothed in the schenti ; his flesh sometimes painted
 blue. There are various forms of this god (see footnote, p.
-link:#note_135[341]),
+<<note_135,341>>),
 but he is mostly generally described as King of the Gods. Chief Deity of
 Thebes.
 
@@ -17014,7 +17014,7 @@ Printed by R. & R. CLARK, Edinburgh.
 
 {nbsp}
 
-[[note_1]][link:#noteref_1[1]] For the
+[[note_1]][<<noteref_1,1>>] For the
 benefit of any who desire more exact information, I may add that a table
 of average temperatures, carefully registered day by day and week by
 week, is to be found at the end of Mr. H. Villiers Stuart's 'Nile
@@ -17022,13 +17022,13 @@ Gleanings.' [Note to Second Edition.]
 
 {nbsp}
 
-[[note_2]][link:#noteref_2[2]] These
+[[note_2]][<<noteref_2,2>>] These
 dates, it is to be remembered, refer to the year 1877, when the first
 edition of this book was published. [Note to Second Edition.]
 
 {nbsp}
 
-[[note_3]][link:#noteref_3[3]] Since
+[[note_3]][<<noteref_3,3>>] Since
 the first edition of this book was issued, the publication of Mr. W. M.
 Flinders Petrie's standard work, entitled The Pyramids and Temples of
 Gizeh, has for the first time placed a thoroughly accurate and
@@ -17052,13 +17052,13 @@ Temples of Gizeh, chap. vi. pp. 37 to 43. [Note to the Second Edition.]
 
 {nbsp}
 
-[[note_4]][link:#noteref_4[4]] Now,
+[[note_4]][<<noteref_4,4>>] Now,
 seventy-seven years ago ; the first Edition of this book having been
 published thirteen years ago. [Note to Second Edition.]
 
 {nbsp}
 
-[[note_5]][link:#noteref_5[5]] One only
+[[note_5]][<<noteref_5,5>>] One only
 is said to have escaped—a certain Emîn Bey, who leaped his horse over a
 gap in the wall, alighted safely in the piazza below, and galloped away
 into the desert. The place of this famous leap continued to be shown for
@@ -17067,7 +17067,7 @@ only place in Cairo which is kept in thorough repair.
 
 {nbsp}
 
-[[note_6]][link:#noteref_6[6]] "It is
+[[note_6]][<<noteref_6,6>>] "It is
 related that the Sultan Ez-Zahir Beybars, King of Egypt, was the first
 who sent a Mahmal with the caravan of pilgrims to Mecca, in the year of
 the Flight 670 (A.D. 1272) or 675 ; but this custom, it is generally
@@ -17085,24 +17085,24 @@ Egyptians, by E. W. Lane, chap. xxiv. London, 1860.
 
 {nbsp}
 
-[[note_7]][link:#noteref_7[7]] The
+[[note_7]][<<noteref_7,7>>] The
 Hereditary Prince, it need scarcely be said, is the present Khedive,
 Tewfik Pasha. [Note to Second Edition.]
 
 {nbsp}
 
-[[note_8]][link:#noteref_8[8]] Arabic—Kemengeh.
+[[note_8]][<<noteref_8,8>>] Arabic—Kemengeh.
 
 {nbsp}
 
-[[note_9]][link:#noteref_9[9]] The
+[[note_9]][<<noteref_9,9>>] The
 goolah, or kulleh, is a porous water-jar of sun-dried Nile mud. These
 jars are made of all sizes and in a variety of remarkably graceful
 forms, and cost from about one farthing to twopence apiece.
 
 {nbsp}
 
-[[note_10]][link:#noteref_10[10]] Some
+[[note_10]][<<noteref_10,10>>] Some
 of these tiles are to be seen in the Egyptian department of the British
 Museum. They are not blue, but of a bluish green. For a view of the
 sepulchral chamber, see Maspero's Archæologie Egyptienne, Fig. 230, p.
@@ -17110,26 +17110,26 @@ sepulchral chamber, see Maspero's Archæologie Egyptienne, Fig. 230, p.
 
 {nbsp}
 
-[[note_11]][link:#noteref_11[11]] Nectanebo I and Nectanebo II were the last native Pharaohs of ancient
+[[note_11]][<<noteref_11,11>>] Nectanebo I and Nectanebo II were the last native Pharaohs of ancient
 Egypt, and flourished between B.C. 378 and B.C. 340. An earlier temple
 must have preceded the Serapeum built by Nectanebo I.
 
 {nbsp}
 
-[[note_12]][link:#noteref_12[12]] For an
+[[note_12]][<<noteref_12,12>>] For an
 excellent and exact account of the Serapeum and the monuments there
 discovered, see M. Arthur Rhoné's L'Egypte en Petites Journées, of which
 a new edition is now in the press. [Note to Second Edition.]
 
 {nbsp}
 
-[[note_13]][link:#noteref_13[13]] These
+[[note_13]][<<noteref_13,13>>] These
 objects, known as "The Miramar Collection," and catalogued by Professor
 Reinisch, are now removed to Vienna. [Note to Second Edition.]
 
 {nbsp}
 
-[[note_14]][link:#noteref_14[14]] A more
+[[note_14]][<<noteref_14,14>>] A more
 exhaustive study of the funerary texts has of late revolutionised our
 interpretation of these, and similar sepulchral tableaux. The scenes
 they represent are not, as was supposed when this book was first
@@ -17144,7 +17144,7 @@ various scenes, and not the living man. [Note to Second Edition.]
 
 {nbsp}
 
-[[note_15]][link:#noteref_15[15]] These
+[[note_15]][<<noteref_15,15>>] These
 statues were not mere portrait-statues ; but were designed as bodily
 habitations for the incorporeal ghost, or "Ka," which it was supposed
 needed a body, food, and drink, and must perish everlastingly if not
@@ -17154,18 +17154,18 @@ food-offerings, furniture, stuffs, etc., in ancient Egyptian sepulchres.
 
 {nbsp}
 
-[[note_16]][link:#noteref_16[16]] The
+[[note_16]][<<noteref_16,16>>] The
 actual tomb of Prince Kha-em-uas has been found at Memphis by M.
 Maspero, within the last three or four years. [Note to Second Edition.]
 
 {nbsp}
 
-[[note_17]][link:#noteref_17[17]] The
+[[note_17]][<<noteref_17,17>>] The
 date is Mariette's.
 
 {nbsp}
 
-[[note_18]][link:#noteref_18[18]] There
+[[note_18]][<<noteref_18,18>>] There
 was no worship of Apis in the days of King Ouenephes, nor, indeed, until
 the reign of Kaiechos, more than one hundred and twenty years after this
 time. But at some subsequent period of the Ancient Empire, his pyramid
@@ -17177,23 +17177,23 @@ found.
 
 {nbsp}
 
-[[note_19]][link:#noteref_19[19]] This
+[[note_19]][<<noteref_19,19>>] This
 colossus is now raised upon a brick pedestal. [Note to Second Edition.]
 
 {nbsp}
 
-[[note_20]][link:#noteref_20[20]] Tell :
+[[note_20]][<<noteref_20,20>>] Tell :
 Arabic for Mound. Many of these mounds preserve the ancient names of the
 cities they entomb ; as Tell Basta (Bubastis) ; Kóm Ombo (Ombos) ; etc.
 etc. Tell and Kóm are synonymous terms.
 
 {nbsp}
 
-[[note_21]][link:#noteref_21[21]] Sorghum vulgare.
+[[note_21]][<<noteref_21,21>>] Sorghum vulgare.
 
 {nbsp}
 
-[[note_22]][link:#noteref_22[22]] The
+[[note_22]][<<noteref_22,22>>] The
 Shâdûf has been so well described by the Rev. F. B. Zincke, that I
 cannot do better than quote him verbatim:—"Mechanically, the Shadoof is
 an application of the lever. In no machine which the wit of man, aided
@@ -17220,11 +17220,11 @@ irrigation."—Egypt of the Pharoahs and the Khedive, p. 445 et seq.
 
 {nbsp}
 
-[[note_23]][link:#noteref_23[23]] Beled—village.
+[[note_23]][<<noteref_23,23>>] Beled—village.
 
 {nbsp}
 
-[[note_24]][link:#noteref_24[24]] Miss
+[[note_24]][<<noteref_24,24>>] Miss
 Whately, whose evidence on this subject is peculiarly valuable, states
 that the majority of native children die off at, or under, two years of
 age (Among the Huts, p. 29) ; while M. About, who enjoyed unusual
@@ -17238,12 +17238,12 @@ miracle."—Le Fellah, p. 165.
 
 {nbsp}
 
-[[note_25]][link:#noteref_25[25]] Arabic—shoghool : a
+[[note_25]][<<noteref_25,25>>] Arabic—shoghool : a
 rope by which the mainsail is regulated.
 
 {nbsp}
 
-[[note_26]][link:#noteref_26[26]] The
+[[note_26]][<<noteref_26,26>>] The
 known inscriptions in the tomb of Haptefa have recently been recopied,
 and another long inscription, not previously transcribed, has been
 copied and translated, by Mr. F. Llewellyn Griffith, acting for the
@@ -17253,33 +17253,33 @@ I, of the XIIth dynasty. [Note to Second Edition.]
 
 {nbsp}
 
-[[note_27]][link:#noteref_27[27]] See
+[[note_27]][<<noteref_27,27>>] See
 Recueil des Monuments Egyptiens, Brugsch. Part I. Planche xi. Published
 1862.
 
 {nbsp}
 
-[[note_28]][link:#noteref_28[28]] Some
+[[note_28]][<<noteref_28,28>>] Some
 famous tombs of very early date, enriched with the same kind of inlaid
 decoration, are to be seen at Meydûm, near the base of the Meydûm
 Pyramid.
 
 {nbsp}
 
-[[note_29]][link:#noteref_29[29]] Voyage
+[[note_29]][<<noteref_29,29>>] Voyage
 en Egypte et en Nubie, by J. J. Ampère. The cartouche may perhaps be
 that of Rakameri, mentioned by Brugsch : Histoire d'Egypte, chap. vi.,
 first edition.
 
 {nbsp}
 
-[[note_30]][link:#noteref_30[30]] The
+[[note_30]][<<noteref_30,30>>] The
 Greeks translated the sacred names of Egyptian places ; the Copts
 adopted the civil names.
 
 {nbsp}
 
-[[note_31]][link:#noteref_31[31]] According to the account given in her
+[[note_31]][<<noteref_31,31>>] According to the account given in her
 letters by Lady Duff Gordon, this
 dervish, who had acquired a reputation for unusual sanctity by repeating
 the name of Allah 3000 times every night for three years, believed that
@@ -17298,7 +17298,7 @@ into the desert under the protection of a tribe of Bedouins.
 
 {nbsp}
 
-[[note_32]][link:#noteref_32[32]] Sir G.
+[[note_32]][<<noteref_32,32>>] Sir G.
 Wilkinson states the total length of the Temple to be 93 paces, or 220
 feet ; and the width of the portico 50 paces. Murray gives no
 measurements ; neither does Mariette Bey in his delightful little
@@ -17307,7 +17307,7 @@ writer to whose works I have had access.
 
 {nbsp}
 
-[[note_33]][link:#noteref_33[33]] The
+[[note_33]][<<noteref_33,33>>] The
 names of Augustus, Caligula, Tiberius, Domitian, Claudius, and Nero are
 found in the royal ovals ; the oldest being those of Ptolemy XI, the
 founder of the present edifice, which was, however, rebuilt upon the
@@ -17336,7 +17336,7 @@ time." See Dendérah, Description Générale, chap. i. pp.55, 56.
 
 {nbsp}
 
-[[note_34]][link:#noteref_34[34]] See
+[[note_34]][<<noteref_34,34>>] See
 Mariette's Denderah, which contains the whole of these multitudinous
 inscriptions in 166 plates ; also a selection of some of the most
 interesting in Brugsch and Dümichen's Recueil de Monuments Egyptiens and
@@ -17344,7 +17344,7 @@ Geographische Inschriften, 1862-3-5-6.
 
 {nbsp}
 
-[[note_35]][link:#noteref_35[35]] Hathor
+[[note_35]][<<noteref_35,35>>] Hathor
 (or more correctly Hat-hor, i.e. the abode of Horus) is not merely the
 Aphrodite of ancient Egypt : she is the pupil of the eye of the Sun :
 she is the goddess of that beneficent planet whose rising heralds the
@@ -17366,12 +17366,12 @@ sense unknown to the Egyptians of pre-Ptolemaic times.
 
 {nbsp}
 
-[[note_36]][link:#noteref_36[36]] Arabic, "kharûf," pronounced
+[[note_36]][<<noteref_36,36>>] Arabic, "kharûf," pronounced
 "haroof"—English, sheep.
 
 {nbsp}
 
-[[note_37]][link:#noteref_37[37]] This
+[[note_37]][<<noteref_37,37>>] This
 famous building is supposed by some to be identical both with the
 Memnonium of Strabo and the Tomb of Osymandias as described by Diodorus
 Siculus. Champollion, however, following the sense of the hieroglyphed
@@ -17380,14 +17380,14 @@ given to it the more appropriate name of the Ramesseum.
 
 {nbsp}
 
-[[note_38]][link:#noteref_38[38]] Translated
+[[note_38]][<<noteref_38,38>>] Translated
 into French by the late Vicomte de Rougé under the title of
 Le Poëme de Pentaour, 1856 ; into English by Mr. Goodwin, 1858 ; and
 again by Professor Lushington in 1874. See Records of the Past, vol. ii.
 
 {nbsp}
 
-[[note_39]][link:#noteref_39[39]] According
+[[note_39]][<<noteref_39,39>>] According
 to the great inscription of Abydos translated by Professor
 Maspero, Rameses II would seem to have been in some sense King from his
 birth, as if the throne of Egypt came to him through his mother, and as
@@ -17397,7 +17397,7 @@ even before his birth.
 
 {nbsp}
 
-[[note_40]][link:#noteref_[[40]] The
+[[note_40]][<<noteref_40,40>>] The
 ruins of the Great Temple of Luxor have undergone a complete
 transformation since the above description was written ; Professor
 Maspero, during the two last years of his official rule as successor to
@@ -17441,7 +17441,7 @@ course of demolition.
 
 {nbsp}
 
-[[note_41]][link:#noteref_41[41]] The
+[[note_41]][<<noteref_41,41>>] The
 size of these stones not being given in any of our books, I paced the
 length of one of the shadows, and (allowing for so much more at each end
 as would be needed to reach to the centres of the two capitals on which
@@ -17457,13 +17457,13 @@ inundations.
 
 {nbsp}
 
-[[note_42]][link:#noteref_42[42]] It has
+[[note_42]][<<noteref_42,42>>] It has
 been calculated that every stone of these huge Pharaonic temples cost at
 least one human life.
 
 {nbsp}
 
-[[note_43]][link:#noteref_43[43]] i.e.
+[[note_43]][<<noteref_43,43>>] i.e.
 Per Amen, or Pa-Amen ;—one of the ancient names of Thebes, which was the
 city especially dedicated to Amen. Also Apt, or Abot, or Apetou, by some
 ascribed to an Indo-Germanic root signifying Abode. Another name for
@@ -17471,7 +17471,7 @@ Thebes, and probably the one most in use, was Uas.
 
 {nbsp}
 
-[[note_44]][link:#noteref_44[44]] Knum
+[[note_44]][<<noteref_44,44>>] Knum
 was one of the primordial Gods of the Egyptian cosmogony ; the divine
 potter ; he who fashioned man from the clay, and breathed into him the
 breath of life. He is sometimes represented in the act of fashioning the
@@ -17491,7 +17491,7 @@ Fathers, the Mother of Mothers."
 
 {nbsp}
 
-[[note_45]][link:#noteref_45[45]] Bes.
+[[note_45]][<<noteref_45,45>>] Bes.
 "La culte de Bes parait étre une importation Asiatique. Quelquefois le
 dieu est armé d'une épée qu'il brandit au-dessus de sa tête ; dans ce
 rôle, il semble le dieu des combats. Plus souvent c'est le dieu de la
@@ -17499,7 +17499,7 @@ danse, de la musique, des plaisirs."—Mariette Bey.
 
 {nbsp}
 
-[[note_46]][link:#noteref_46[46]] "At
+[[note_46]][<<noteref_46,46>>] "At
 the Cataracts of the great rivers Orinoco, Nile, and Congo, the syenitic
 rocks are coated by a black substance, appearing as if they had been
 polished with plumbago. The layer is of extreme thinness ; and on
@@ -17512,23 +17512,23 @@ same."—Journal of Researches, by Charles Darwin, chap. i. p. 12, ed.
 
 {nbsp}
 
-[[note_47]][link:#noteref_47[47]] Keffîyeh : A square head-shawl, made
+[[note_47]][<<noteref_47,47>>] Keffîyeh : A square head-shawl, made
 of silk or woollen. European
 travellers wear them as puggarees.
 
 {nbsp}
 
-[[note_48]][link:#noteref_48[48]] Mudîr
+[[note_48]][<<noteref_48,48>>] Mudîr
 : Chief Magistrate.
 
 {nbsp}
 
-[[note_49]][link:#noteref_49[49]] Kadi :
+[[note_49]][<<noteref_49,49>>] Kadi :
 Judge.
 
 {nbsp}
 
-[[note_50]][link:#noteref_50[50]] The
+[[note_50]][<<noteref_50,50>>] The
 results of Dr. Birch's labours were given to the public in his "Guide to
 the First and Second Egyptian Rooms," published by order of the Trustees
 of the British Museum in May 1874. Of the contents of case 99 in the
@@ -17564,7 +17564,7 @@ Petrie in the grave of a woman at Hawara, in the Fayûm.
 
 {nbsp}
 
-[[note_51]][link:#noteref_51[51]] These
+[[note_51]][<<noteref_51,51>>] These
 are the measurements given in Murray's Handbook. The new English
 translation, however, of Mariette's Itinéraire de la Haute Egypte gives
 the obelisk of Hatshepsu 108 feet 10 inches in height. See The Monuments
@@ -17572,7 +17572,7 @@ of Upper Egypt, translated by Alphonse Mariette : London, 1877.
 
 {nbsp}
 
-[[note_52]][link:#noteref_52[52]] For an
+[[note_52]][<<noteref_52,52>>] For an
 account of the discovery of this enormous statue and the measurements of
 its various parts, see Tanis, Part I, by W. M. Flinders Petrie, chap.
 ii. pp. 22 et seq. published by the Egypt Exploration Fund, 1885. [Note
@@ -17580,7 +17580,7 @@ to Second Edition.]
 
 {nbsp}
 
-[[note_53]][link:#noteref_53[53]] The
+[[note_53]][<<noteref_53,53>>] The
 increase of steamer traffic has considerably altered the conditions of
 Nile travelling since this was written, and fewer dahabeeyahs are
 consequently employed. By those who can afford it, and who really desire
@@ -17589,7 +17589,7 @@ dahabeeyah will, however, always be preferred. [Note to Second Edition.]
 
 {nbsp}
 
-[[note_54]][link:#noteref_54[54]] "The
+[[note_54]][<<noteref_54,54>>] "The
 most important discovery which we have made here, and which I shall only
 mention briefly, is a series of short rock-inscriptions, which mark the
 highest rises of the Nile during a series of years under the government
@@ -17620,7 +17620,7 @@ above.
 
 {nbsp}
 
-[[note_55]][link:#noteref_55[55]] For
+[[note_55]][<<noteref_55,55>>] For
 copies and translations of a large number of the graffiti of Assûan, see
 Lepsius's Denkmäler ; also, for the most recent and the fullest
 collection of the rock-cut inscriptions of Assûan and its neighbourhood,
@@ -17631,7 +17631,7 @@ Flinders Petrie's latest volume, entitled A Season's Work in Egypt,
 
 {nbsp}
 
-[[note_56]][link:#noteref_56[56]] Mariette, at the
+[[note_56]][<<noteref_56,56>>] Mariette, at the
 end of his Aperçu de l'histoire d'Egypte, gives the
 following succinct account of the Rosetta Stone, and the discovery of
 Champollion:—
@@ -17725,7 +17725,7 @@ published by the Egypt Exploration Fund, 1886.
 
 {nbsp}
 
-[[note_57]][link:#noteref_57[57]] The
+[[note_57]][<<noteref_57,57>>] The
 famous capitals are not the only specimens of admirable colouring in
 Philæ. Among the battered bas-reliefs of the great colonnade at the
 south end of the island, there yet remain some isolated patches of
@@ -17744,14 +17744,14 @@ fragments can hardly be commended to students and sketchers on the Nile.
 
 {nbsp}
 
-[[note_58]][link:#noteref_58[58]] It has
+[[note_58]][<<noteref_58,58>>] It has
 since been pointed out by a writer in The Saturday Review that this
 credence-table was fashioned with part of a shrine destined for one of
 the captive hawks sacred to Horus. [Note to Second Edition.]
 
 {nbsp}
 
-[[note_59]][link:#noteref_59[59]] In the
+[[note_59]][<<noteref_59,59>>] In the
 time of Strabo, the island of Philæ, as has been recently shown by
 Professor Revillout in his Seconde Mémoire sur les Blemmys, was the
 common property of the Egyptians and Nubians, or rather of that obscure
@@ -17774,14 +17774,14 @@ Edition.]
 
 {nbsp}
 
-[[note_60]][link:#noteref_60[60]] The
+[[note_60]][<<noteref_60,60>>] The
 Emperor Justinian is credited with the mutilation of the sculptures of
 the large Temple ; but the ancient worship was probably only temporarily
 suspended in his time.
 
 {nbsp}
 
-[[note_61]][link:#noteref_61[61]] These
+[[note_61]][<<noteref_61,61>>] These
 and the following particulars about the Christians of Nubia are found in
 the famous work of Makrizi, an Arab historian of the fifteenth century,
 who quotes largely from earlier writers. See Burckhardt's Travels in
@@ -17795,7 +17795,7 @@ discovery was not given to the world till 1822.
 
 {nbsp}
 
-[[note_62]][link:#noteref_62[62]] This
+[[note_62]][<<noteref_62,62>>] This
 inscription, which M. About considers the most interesting thing in
 Philæ, runs as follows : "L'An VI de la République, le 15 Messidor, une
 Armée Française commandée par Bonaparte est descendue a Alexandrie.
@@ -17805,18 +17805,18 @@ dela des Cataractes, ou il est arrivé le 18 Ventôse de l'an VII."
 
 {nbsp}
 
-[[note_63]][link:#noteref_63[63]] About
+[[note_63]][<<noteref_63,63>>] About
 two-and-sixpence English.
 
 {nbsp}
 
-[[note_64]][link:#noteref_64[64]] See
+[[note_64]][<<noteref_64,64>>] See
 link:#note_56[previous
 note].
 
 {nbsp}
 
-[[note_65]][link:#noteref_65[65]] The
+[[note_65]][<<noteref_65,65>>] The
 story of Osiris—the beneficent God, the friend of man, slain and
 dismembered by Typhon ; buried in a score of graves ; sought by Isis ;
 recovered limb by limb ; resuscitated in the flesh ; transferred from
@@ -17914,25 +17914,25 @@ Birch's History of Ancient Pottery, 1873, p. 23 et seq.
 
 {nbsp}
 
-[[note_67]][link:#noteref_67[67]] Thus
+[[note_67]][<<noteref_67,67>>] Thus
 depicted, he is called "the germinating Osiris." [Note to Second
 Edition.]
 
 {nbsp}
 
-[[note_68]][link:#noteref_68[68]] See M.
+[[note_68]][<<noteref_68,68>>] See M.
 P. J. de Horrack's translation of The Lamentations of Isis and Nephthys.
 RECORDS OF THE PAST, vol. ii. p. 117 et seq.
 
 {nbsp}
 
-[[note_69]][link:#noteref_69[69]] Operations
+[[note_69]][<<noteref_69,69>>] Operations
 carried on at the Pyramids of Ghizeh—COL. HOWARD VYSE,
 London, 1840, vol. i. p. 63.
 
 {nbsp}
 
-[[note_70]][link:#noteref_70[70]] A city
+[[note_70]][<<noteref_70,70>>] A city
 of Ethiopia, identified with the ruins at Gebel Barkal. The worship of
 Amen was established at Napata towards the end of the XXth Dynasty, and
 it was from the priests of Thebes who settled at that time in Napata,
@@ -17940,27 +17940,27 @@ that the Ethiopian conquerors of Egypt (XXIIIrd Dynasty) were descended.
 
 {nbsp}
 
-[[note_71]][link:#noteref_71[71]] The
+[[note_71]][<<noteref_71,71>>] The
 men hereabout can nearly all speak Arabic ; but the women of Nubia know
 only the Kensee and Berberee tongues, the first of which is spoken as
 far as Korosko.
 
 {nbsp}
 
-[[note_72]][link:#noteref_72[72]] Lepsius's Letters
+[[note_72]][<<noteref_72,72>>] Lepsius's Letters
 from Egypt, Ethiopia, etc., Letter xviii. p. 184.
 Bohn's ed. A.D. 1853.
 
 {nbsp}
 
-[[note_73]][link:#noteref_73[73]] See
+[[note_73]][<<noteref_73,73>>] See
 the interesting account of funereal rites and ceremonies in Sir G.
 Wilkinson's Ancient Egyptians, vol. ii. ch. x., Lond. 1871. Also
 woodcuts Nos. 493 and 494 in the same chapter of the same work.
 
 {nbsp}
 
-[[note_74]][link:#noteref_74[74]] Rendered
+[[note_74]][<<noteref_74,74>>] Rendered
 thus into Latin by M. Chabas : Sol dominus veritatis electus a
 Sole, Sol genuit eum ; amans Ammonem. Anglice—Sun Lord of Truth, Chosen
 of the Sun, Son of the Sun, Ammon-loving. The following is an extract
@@ -17972,12 +17972,12 @@ image:images/00089.jpg[image]
 
 {nbsp}
 
-[[note_75]][link:#noteref_75[75]] Abshek
+[[note_75]][<<noteref_75,75>>] Abshek
 :—The hieroglyphic name of Abou Simbel. Gr. Aboccis.
 
 {nbsp}
 
-[[note_76]][link:#noteref_76[76]] In the
+[[note_76]][<<noteref_76,76>>] In the
 present state of Egyptian chronology, it is hazardous to assign even an
 approximate date to events that happened before the conquest of
 Cambyses. The Egyptians, in fact, had no chronology in the strict sense
@@ -18005,31 +18005,30 @@ image:images/00090.jpg[image]
 
 {nbsp}
 
-[[note_77]][link:#noteref_77[77]] See
-link:#note_39[chap.
-viii. footnote, p. 140].
+[[note_77]][<<noteref_77,77>>] See
+<<note_39,chap. viii. footnote, p. 140>>.
 
 {nbsp}
 
-[[note_78]][link:#noteref_78[78]] See
+[[note_78]][<<noteref_78,78>>] See
 Essai sur l'Inscription Dédicatoire du Temple d'Abydos et la Jeunesse de
 Sesotris.—G. MASPERO, Paris, 1867.
 
 {nbsp}
 
-[[note_79]][link:#noteref_79[79]] See
+[[note_79]][<<noteref_79,79>>] See
 link:#page_139[chap.
 viii. p. 139].
 
 {nbsp}
 
-[[note_80]][link:#noteref_80[80]] i.e.
+[[note_80]][<<noteref_80,80>>] i.e.
 Prince of the Hittites ; the Kheta being now identified with that
 people.
 
 {nbsp}
 
-[[note_81]][link:#noteref_81[81]] This
+[[note_81]][<<noteref_81,81>>] This
 invaluable record is sculptured on a piece of wall built out, apparently
 for the purpose, at right angles to the south wall of the Hypostyle Hall
 at Karnak. The treaty faces to the west, and is situate about half-way
@@ -18042,13 +18041,13 @@ precious and interesting piece of sculptured surface in the world.
 
 {nbsp}
 
-[[note_82]][link:#noteref_82[82]] See
+[[note_82]][<<noteref_82,82>>] See
 Treaty of Peace between Rameses II and the Hittites, translated by C. W.
 Goodwin, M.A.—RECORDS OF THE PAST, vol. iv. p. 25.
 
 {nbsp}
 
-[[note_83]][link:#noteref_83[83]] Since
+[[note_83]][<<noteref_83,83>>] Since
 this book was written, a further study of the subject has led me to
 conjecture that not Seti I, but Queen Hatshepsu (Hatasu) of the XVIIIth
 Dynasty, was the actual originator of the canal which connected the Nile
@@ -18087,7 +18086,7 @@ would only have needed to canalise it, which is what she probably did.
 
 {nbsp}
 
-[[note_84]][link:#noteref_84[84]] "Les
+[[note_84]][<<noteref_84,84>>] "Les
 circonstances de l'histoire hébraïque s'appliquent ici d'une manière on
 ne peut plus satisfaisante. Les Hébreux opprimés batissaient une ville
 du nom de Ramsès. Ce récit ne peut donc s'appliquer qu'à l'époque où la
@@ -18116,7 +18115,7 @@ servir à l'Histoire de la XIX Dynastie : F. Chabas ; Paris, 1873 ; p.
 
 {nbsp}
 
-[[note_85]][link:#noteref_85[85]] The
+[[note_85]][<<noteref_85,85>>] The
 Bible narrative, it has often been observed, invariably designates the
 King by this title, than which none, unfortunately, can be more vague
 for purposes of identification. "Plus généralement," says Brugsch,
@@ -18140,7 +18139,7 @@ trouble.
 
 {nbsp}
 
-[[note_86]][link:#noteref_86[86]] This
+[[note_86]][<<noteref_86,86>>] This
 remarkable MS. relates the journey made by a female pilgrim of French
 birth, circa A.D. 370, to Egypt, Mesopotamia, and the Holy Land. The MS.
 is copied from an older original, and dates from the tenth or eleventh
@@ -18160,13 +18159,13 @@ of the Committee of the Egypt Exploration Fund, 1888.
 
 {nbsp}
 
-[[note_87]][link:#noteref_87[87]] See M.
+[[note_87]][<<noteref_87,87>>] See M.
 Naville's Memoir, entitled Goshen and the Shrine of Saft-el-Henneh,
 published by order of the Committee of the Egypt Exploration Fund, 1887.
 
 {nbsp}
 
-[[note_88]][link:#noteref_88[88]] Kadesh, otherwise
+[[note_88]][<<noteref_88,88>>] Kadesh, otherwise
 Katesh or Kades. A town on the Orontes. See a paper
 entitled, "The Campaign of Rameses the Second, in his Vth year, against
 Kadesh on the Orontes," by the Rev. G. H. Tomkins, in the Proceedings of
@@ -18175,11 +18174,11 @@ Transactions of the Society, vol. viii.
 
 {nbsp}
 
-[[note_89]][link:#noteref_89[89]] Anastasi Papyri, No. III, Brit. Mus.
+[[note_89]][<<noteref_89,89>>] Anastasi Papyri, No. III, Brit. Mus.
 
 {nbsp}
 
-[[note_90]][link:#noteref_90[90]] See
+[[note_90]][<<noteref_90,90>>] See
 Mélanges Egyptologiques, by F. Chabas, 1 Série, 1862. There has been
 much discussion among Egyptologists on the subject of M. Chabas's
 identification of the Hebrews. The name by which they are mentioned in
@@ -18211,13 +18210,13 @@ against the probability of their identity with the Hebrews.
 
 {nbsp}
 
-[[note_91]][link:#noteref_91[91]] See
+[[note_91]][<<noteref_91,91>>] See
 the famous wall-painting of the Colossus on the Sledge engraved in Sir
 G. Wilkinson's Ancient Egyptians ; frontispiece to vol. ii. ed. 1871.
 
 {nbsp}
 
-[[note_92]][link:#noteref_92[92]] In a
+[[note_92]][<<noteref_92,92>>] In a
 letter written by a priest who lived during this reign (Rameses II), we
 find an interesting account of the disadvantages and hardships attending
 various trades and pursuits, as opposed to the ease and dignity of the
@@ -18228,7 +18227,7 @@ II, Brit. Musæ.
 
 {nbsp}
 
-[[note_93]][link:#noteref_93[93]] "Ye
+[[note_93]][<<noteref_93,93>>] "Ye
 shall no more give the people straw to make brick, as heretofore : let
 them go and gather straw for themselves.
 
@@ -18261,7 +18260,7 @@ straw stamped with the names of Rameses II.
 
 {nbsp}
 
-[[note_94]][link:#noteref_94[94]] "Les
+[[note_94]][<<noteref_94,94>>] "Les
 affaires de la cour et de l'administration du pays sont expédiées par
 les 'chefs' ou les 'intendants,' par les 'secrétaires' et par la
 nombreuse classe des scribes. . . . Le trésor rempli d'or et d'argent,
@@ -18278,14 +18277,14 @@ publics." Histoire d'Égypte, Brugsch : 2d edition, 1875 ; chap. v. pp.
 
 {nbsp}
 
-[[note_95]][link:#noteref_95[95]] The
+[[note_95]][<<noteref_95,95>>] The
 Pa-Rameses of the Bible narrative was not the only Egyptian city of that
 name. There was a Pa-Rameses near Memphis, and another Pa-Rameses at
 Abou Simbel ; and there may probably have been many more.
 
 {nbsp}
 
-[[note_96]][link:#noteref_96[96]] The
+[[note_96]][<<noteref_96,96>>] The
 remains were apparently those of a large hall paved with white alabaster
 slabs. The walls were covered with a variety of bricks and encaustic
 tiles ; many of the bricks were of most beautiful workmanship, the
@@ -18310,7 +18309,7 @@ etc., with illustrations.
 
 {nbsp}
 
-[[note_97]][link:#noteref_97[97]] This
+[[note_97]][<<noteref_97,97>>] This
 tablet is votive, and contains in fact a long Pharisaic prayer offered
 to Osiris by Rameses IV in the fourth year of his reign. The king
 enumerates his own virtues and deeds of piety, and implores the God to
@@ -18319,7 +18318,7 @@ Pierret. Revue Archéologique, vol. xix. p. 273.
 
 {nbsp}
 
-[[note_98]][link:#noteref_98[98]] M.
+[[note_98]][<<noteref_98,98>>] M.
 Mariette, in his great work on Abydos, has argued that Rameses II was
 designated during the lifetime of his father by a cartouche signifying
 only Ra-User-Ma ; and that he did not take the additional Setp-en-Ra
@@ -18347,7 +18346,7 @@ viii. (footnote), p. 140].
 
 {nbsp}
 
-[[note_99]][link:#noteref_99[99]] "Le
+[[note_99]][<<noteref_99,99>>] "Le
 métier d'architecte se trouvait confié aux plus hauts dignitaries de la
 cour pharaonique. Les architectes du roi, les Murket, se recrutaient
 assez souvent parmi le nombre des princes." Historie d'Egypte : BRUGSCH.
@@ -18355,17 +18354,17 @@ Second edition, 1875, chap. v. p. 34.
 
 {nbsp}
 
-[[note_100]][link:#noteref_100[100]] See
+[[note_100]][<<noteref_100,100>>] See
 L'Inscription dédicatoire du Temple d'Abydos, etc., by G. MASPERO.
 
 {nbsp}
 
-[[note_101]][link:#noteref_101[101]] See
+[[note_101]][<<noteref_101,101>>] See
 Rosellini, Monumenti Storici, pl. lxxi.
 
 {nbsp}
 
-[[note_102]][link:#noteref_102[102]] "A la
+[[note_102]][<<noteref_102,102>>] "A la
 nouvelle de la mort de son père, Ramsès II désormais seul roi, quitta
 l'Éthiopie et ceignit la couronne à Thèbes. Il était alors dans la
 plénitude de ses forces, et avait autour de lui un grand nombre
@@ -18375,7 +18374,7 @@ v. p. 220 4eme edition, 1886.
 
 {nbsp}
 
-[[note_103]][link:#noteref_103[103]] "Comme Ramsès II
+[[note_103]][<<noteref_103,103>>] "Comme Ramsès II
 regna 66 ans, le règne de son successeur sous lequel la sortie des Juifs eut lieu, embrassa la durée de 20 ans ; et comme Moïse
 avait l'age de 80 ans au temps de la sortie, il en résulte évidemment
 que les enfants d'Israël quittèrent l'Egypte une des ces dernières six
@@ -18387,7 +18386,7 @@ BRUGSCH. First edition, Leipzig, 1859.
 
 {nbsp}
 
-[[note_104]][link:#noteref_104[104]] If
+[[note_104]][<<noteref_104,104>>] If
 the Exodus took place, however, during the opening years of the reign of
 Menepthah, it becomes necessary either to remove the birth of Moses to a
 correspondingly earlier date, or to accept the amendment of Bunsen, who
@@ -18405,11 +18404,11 @@ Kings (Tomb, No. 8).
 
 {nbsp}
 
-[[note_105]][link:#noteref_105[105]] HERODOTUS, Bk. ii.
+[[note_105]][<<noteref_105,105>>] HERODOTUS, Bk. ii.
 
 {nbsp}
 
-[[note_106]][link:#noteref_106[106]] Rosellini, for
+[[note_106]][<<noteref_106,106>>] Rosellini, for
 instance, carries hero-worship to its extreme limit when
 he not only states that Rameses the Great had, by his conquests, filled
 Egypt with luxuries that contributed alike to the graces of every-day
@@ -18428,7 +18427,7 @@ iii. bk. iv. part ii. p. 184.
 
 {nbsp}
 
-[[note_107]][link:#noteref_107[107]] "Souvent
+[[note_107]][<<noteref_107,107>>] "Souvent
 il s'introduit lui-même dans les triades divines auxquelles il
 dédie les temples. Le soliel de Ramsès Meïamoun qu'on aperçoit sur leur
 murailles, n'est autre chose que le roi lui-même déifié de son vivant."
@@ -18437,13 +18436,13 @@ Notice des Monuments Egyptiennes au Musée du Louvre. DE ROUGÉ ; Paris,
 
 {nbsp}
 
-[[note_108]][link:#noteref_108[108]] See
+[[note_108]][<<noteref_108,108>>] See
 Hymn to Pharaoh (Menepthah) translated by C. W. Goodwin, M.A. RECORDS OF
 THE PAST, vol. vi. p. 101.
 
 {nbsp}
 
-[[note_109]][link:#noteref_109[109]] The
+[[note_109]][<<noteref_109,109>>] The
 late Vicomte E. de Rougé, in a letter to M. Guigniaut on the discoveries
 at Tanis, believes that he detects the Semitic type in the portraits of
 Rameses II and Seti I ; and even conjectures that the Pharaohs of the
@@ -18469,7 +18468,7 @@ resided.
 
 {nbsp}
 
-[[note_110]][link:#noteref_110[110]] "L'absence
+[[note_110]][<<noteref_110,110>>] "L'absence
 de points fouillés, la simplification voulue, la restriction
 des détails et des ornements à quelques sillons plus ou moins hardis,
 l'engorgement de toutes les parties délicates, démontrent que les
@@ -18491,7 +18490,7 @@ sculptors, such as the emery-tube, the diamond-point, etc. etc.
 
 {nbsp}
 
-[[note_111]][link:#noteref_111[111]] On
+[[note_111]][<<noteref_111,111>>] On
 the left leg of this colossus is the famous Greek inscription discovered
 by Messrs. Bankes and Salt. It dates from the reign of Psammetichus I,
 and purports to have been cut by a certain Damearchon, one of the
@@ -18510,7 +18509,7 @@ Psammetichus II, that the great military defection took place.
 
 {nbsp}
 
-[[note_112]][link:#noteref_112[112]] Ra,
+[[note_112]][<<noteref_112,112>>] Ra,
 the principal solar divinity, generally represented with the head of a
 hawk, and the sun-disk on his head. "Ra veut dire faire, disposer ;
 c'est, en effet, le dieu Ra qui a disposé, organisé le monde, dont la
@@ -18525,7 +18524,7 @@ Monuments à Boulak, p. 123.
 
 {nbsp}
 
-[[note_113]][link:#noteref_113[113]] An
+[[note_113]][<<noteref_113,113>>] An
 instance occurs, however, in a small inscription sculptured on the rocks
 of the Island of Sehayl in the First Cataract, which records the second
 panegyry of the reign of Rameses II.—See Récueil des Monuments, etc. :
@@ -18533,12 +18532,12 @@ BRUGSCH, vol. ii., Planche lxxxii., Inscription No. 6.
 
 {nbsp}
 
-[[note_114]][link:#noteref_114[114]] See
+[[note_114]][<<noteref_114,114>>] See
 the Frontispiece.
 
 {nbsp}
 
-[[note_115]][link:#noteref_115[115]] Though
+[[note_115]][<<noteref_115,115>>] Though
 dedicated by Rameses to Nefertari, and by Nefertari to Rameses,
 this Temple was placed, primarily, under the patronage of Hathor, the
 supreme type of divine maternity. She is represented by Queen Nefertari,
@@ -18552,7 +18551,7 @@ s'engendre lui-même pour l'éternité."
 
 {nbsp}
 
-[[note_116]][link:#noteref_116[116]] It is
+[[note_116]][<<noteref_116,116>>] It is
 not often that one can say of a female head in an Egyptian wall-painting
 that it is beautiful ; but in these portraits of the Queen, many times
 repeated upon the walls of the first Hall of the Temple of Hathor, there
@@ -18577,13 +18576,13 @@ Pieces-before-the-Lord, etc. etc.
 
 {nbsp}
 
-[[note_117]][link:#noteref_117[117]] Ra
+[[note_117]][<<noteref_117,117>>] Ra
 Harmachis, in Egyptian Har-em-Khou-ti, personifies the sun rising upon
 the eastern horizon.
 
 {nbsp}
 
-[[note_118]][link:#noteref_118[118]] See
+[[note_118]][<<noteref_118,118>>] See
 link:#page_139[chap.
 viii, pp. 139-140] ; also
 link:#page_420[chap.
@@ -18591,12 +18590,12 @@ xxi, p. 420].
 
 {nbsp}
 
-[[note_119]][link:#noteref_119[119]] In
+[[note_119]][<<noteref_119,119>>] In
 Egyptian, Aaranatu.
 
 {nbsp}
 
-[[note_120]][link:#noteref_120[120]] In
+[[note_120]][<<noteref_120,120>>] In
 Egyptian, Kateshu. "Aujourdhui encore il existe une ville de Kades près
 d'une courbe de l'Oronte dans le voisinage de Homs." Leçons de M. de
 Rougé, Professées au Collége de France. See MÉLANGES D'ARCHEOLOGIE,
@@ -18607,7 +18606,7 @@ the river is actually given in the bas-reliefs.
 
 {nbsp}
 
-[[note_121]][link:#noteref_121[121]] "La
+[[note_121]][<<noteref_121,121>>] "La
 légion S'ardana de l'armée de Ramsés II provenait d'une première
 descente de ces peuples en Egypte. 'Les S'ardaina qui étaient des
 prisonniers de sa majesté,' dit expressément le texte de Karnak, au
@@ -18625,14 +18624,14 @@ etc. E. DE ROUGÉ. Revue Archéologique, vol. xvi. pp. 90, 91.
 
 {nbsp}
 
-[[note_122]][link:#noteref_122[122]] A
+[[note_122]][<<noteref_122,122>>] A
 rich treasure of gold and silver rings was found by Ferlini, in 1834,
 immured in the wall of one of the pyramids of Meröe, in Upper Nubia. See
 Lepsius's Letters, translated by L. and J. HORNER, Bohn, 1853, p. 151.
 
 {nbsp}
 
-[[note_123]][link:#noteref_123[123]] This
+[[note_123]][<<noteref_123,123>>] This
 cast, the property of the British Museum, is placed over a door leading
 to the library at the end of the northern Vestibule, opposite the
 staircase. I was informed by the late Mr. Bonomi that the mould was made
@@ -18657,7 +18656,7 @@ late Miss Martineau ascribes it, on hearsay, to Champollion.
 
 {nbsp}
 
-[[note_124]][link:#noteref_124[124]] "A
+[[note_124]][<<noteref_124,124>>] "A
 castle, resembling in size and form that of Ibrim ; it bears the name of
 Kalat Adda ; it has been abandoned many years, being entirely surrounded
 by barren rocks. Part of its ancient wall, similar in construction to
@@ -18715,13 +18714,13 @@ north of the Second Cataract?
 
 {nbsp}
 
-[[note_125]][link:#noteref_125[125]] See
+[[note_125]][<<noteref_125,125>>] See
 link:#note_111[footnote,
 p. 290].
 
 {nbsp}
 
-[[note_126]][link:#noteref_126[126]] "Un
+[[note_126]][<<noteref_126,126>>] "Un
 Second Temple, plus grand, mais tout aussi détruit que le précédent,
 existe un peu plus au sud, c'était le grand temple de la ville
 Egyptienne de Béhéni, qui exista sur cet emplacement, et qui d'après
@@ -18731,13 +18730,13 @@ d'Egypte, etc., ed. 1868 ; Letter ix.
 
 {nbsp}
 
-[[note_127]][link:#noteref_127[127]] Mount
+[[note_127]][<<noteref_127,127>>] Mount
 Fogo, as shown upon Keith Johnston's map of Egypt and Nubia, would seem
 to be identical with the Ali Bersi of Lepsius.
 
 {nbsp}
 
-[[note_128]][link:#noteref_128[128]] On
+[[note_128]][<<noteref_128,128>>] On
 referring to Col. H. Vyse's Voyage into Upper Egypt, etc., I see that he
 also opened one of these tumuli, but "found no indication of an
 artificial construction." I can only conclude that he did not carry his
@@ -18747,14 +18746,14 @@ investigation.
 
 {nbsp}
 
-[[note_129]][link:#noteref_129[129]] The
+[[note_129]][<<noteref_129,129>>] The
 enclosure-wall of the Great Temple of Tanis is 80 feet thick. See Tanis,
 Part I, by W. M. F. Petrie ; published by the Committee of the Egypt
 Exploration Fund, 1885. [Note to Second Edition.]
 
 {nbsp}
 
-[[note_130]][link:#noteref_130[130]] It
+[[note_130]][<<noteref_130,130>>] It
 was long believed that the Egyptians were ignorant of the principle of
 the arch. This, however, was not the case. There are brick arches of the
 time of Rameses II behind the Ramesseum at Thebes, and elsewhere. Still,
@@ -18763,11 +18762,11 @@ the greater part of the staircase, in order to preserve the former.
 
 {nbsp}
 
-[[note_131]][link:#noteref_131[131]] Commonly known as Belzoni's Tomb.
+[[note_131]][<<noteref_131,131>>] Commonly known as Belzoni's Tomb.
 
 {nbsp}
 
-[[note_132]][link:#noteref_132[132]] I
+[[note_132]][<<noteref_132,132>>] I
 write of these walls, for convenience, as N., S., E., and W., as one is
 so accustomed to regard the position of buildings parallel with the
 river ; but the present monument, as it is turned slightly southward
@@ -18776,7 +18775,7 @@ and west like the large Temple.
 
 {nbsp}
 
-[[note_133]][link:#noteref_133[133]] Horus
+[[note_133]][<<noteref_133,133>>] Horus
 Aroëris.—"Celui-ci, qui semble avoir été frère d'Osiris, porte une tête
 d'épervier coiffée du pschent. Il est presque complètement identifié
 avec le soleil dans la plupart des lieux où il était adoré, et il en est
@@ -18786,14 +18785,14 @@ seems to have been identified with Ra.
 
 {nbsp}
 
-[[note_134]][link:#noteref_134[134]] "Le
+[[note_134]][<<noteref_134,134>>] "Le
 sceptre à tête de lévrier, nommé à tort sceptre à tête de coucoupha,
 était porté par les dieux."—Dic. d'Arch. Egyptienne : P. PIERRET ;
 Paris, 1875.
 
 {nbsp}
 
-[[note_135]][link:#noteref_135[135]] Amen
+[[note_135]][<<noteref_135,135>>] Amen
 of the blue complexion is the most ancient type of this God. He here
 represents divine royalty, in which character his title is : "Lord of
 the Heaven, of the Earth, of the Waters, and of the Mountains." "Dans ce
@@ -18818,7 +18817,7 @@ merely local or symbolical types of a single deity.
 
 {nbsp}
 
-[[note_136]][link:#noteref_136[136]] The
+[[note_136]][<<noteref_136,136>>] The
 material of this blue helmet, so frequently depicted on the monuments,
 may have been the Homeric Kuanos, about which so much doubt and
 conjecture have gathered, and which Mr. Gladstone supposes to have been
@@ -18845,7 +18844,7 @@ monuments.
 
 {nbsp}
 
-[[note_137]][link:#noteref_137[137]] "This
+[[note_137]][<<noteref_137,137>>] "This
 eye, called uta, was extensively used by the Egyptians both as an
 ornament and amulet during life, and as a Sepulchral amulet. They are
 found in the form of right eyes and left eyes, and they symbolise the
@@ -18858,35 +18857,35 @@ régions du Nord et du Midi."—Révue Arch. vol. xxv. 1873 ; p. 387.
 
 {nbsp}
 
-[[note_138]][link:#noteref_138[138]] See
+[[note_138]][<<noteref_138,138>>] See
 an accurate facsimile of this Bari, in chromo-lithography, in Mr.
 Villiers Stuart's "Nile Gleanings" : Murray, 1879.
 
 {nbsp}
 
-[[note_139]][link:#noteref_139[139]] This
+[[note_139]][<<noteref_139,139>>] This
 inscription was translated for the first edition of this book by the
 late Dr. Birch ; for the present translation I am indebted to the
 courtesy of E. A. Wallis Budge, Esq.
 
 {nbsp}
 
-[[note_140]][link:#noteref_140[140]] Sesennu—Eshmoon or Hermopolis.
+[[note_140]][<<noteref_140,140>>] Sesennu—Eshmoon or Hermopolis.
 
 {nbsp}
 
-[[note_141]][link:#noteref_141[141]] Amenheri—Gebel Addeh.
+[[note_141]][<<noteref_141,141>>] Amenheri—Gebel Addeh.
 
 {nbsp}
 
-[[note_142]][link:#noteref_142[142]] These
+[[note_142]][<<noteref_142,142>>] These
 jubilees, or festivals of thirty years, were religious jubilees in
 celebration of each thirtieth anniversary of the accession of the
 reigning Pharaoh.
 
 {nbsp}
 
-[[note_143]][link:#noteref_143[143]] There
+[[note_143]][<<noteref_143,143>>] There
 are, in the British Museum, some bottles and vases of this description,
 dating from the XVIIIth Dynasty ; see Case E, Second Egyptian Room. They
 are of dark blue translucent glass, veined with waving lines of opaque
@@ -18894,31 +18893,31 @@ white and yellow.
 
 {nbsp}
 
-[[note_144]][link:#noteref_144[144]] Kenus—Nubia.
+[[note_144]][<<noteref_144,144>>] Kenus—Nubia.
 
 {nbsp}
 
-[[note_145]][link:#noteref_145[145]] i.e.
+[[note_145]][<<noteref_145,145>>] i.e.
 Ammon Ra, the Sun God, in conjunction or identification with Har-em-aχu,
 of Horus-on-the-Horizon, another Solar deity.
 
 {nbsp}
 
-[[note_146]][link:#noteref_146[146]] The
+[[note_146]][<<noteref_146,146>>] The
 primæval God.
 
 {nbsp}
 
-[[note_147]][link:#noteref_147[147]] Inner
+[[note_147]][<<noteref_147,147>>] Inner
 place, or Sanctuary.
 
 {nbsp}
 
-[[note_148]][link:#noteref_148[148]] Ethiopia.
+[[note_148]][<<noteref_148,148>>] Ethiopia.
 
 {nbsp}
 
-[[note_149]][link:#noteref_149[149]] Governors
+[[note_149]][<<noteref_149,149>>] Governors
 of Ethiopia bore this title, even though they did not
 themselves belong to the family of the Pharaoh.
 
@@ -18932,7 +18931,7 @@ having held the office of Governor, or Royal Son of Kush.
 
 {nbsp}
 
-[[note_150]][link:#noteref_150[150]] At
+[[note_150]][<<noteref_150,150>>] At
 about an equal distance to the north of the Great Temple, on the verge
 of the bank, is a shapeless block of brick ruin, which might possibly,
 if investigated, turn out to be the remains of a second pylon
@@ -18940,17 +18939,17 @@ corresponding to this which we partially uncovered to the south.
 
 {nbsp}
 
-[[note_151]][link:#noteref_151[151]] He
+[[note_151]][<<noteref_151,151>>] He
 may, however, be represented on the north wall, where it is covered by
 the sand-heap.
 
 {nbsp}
 
-[[note_152]][link:#noteref_152[152]] Letter XIV. p. 235. Nouvelle Ed. Paris, 1868.
+[[note_152]][<<noteref_152,152>>] Letter XIV. p. 235. Nouvelle Ed. Paris, 1868.
 
 {nbsp}
 
-[[note_153]][link:#noteref_153[153]] That
+[[note_153]][<<noteref_153,153>>] That
 this shock of earthquake occurred during the lifetime of Rameses II
 seems to be proven by the fact that, where the Osiride column is cracked
 across, a wall has been built up to support the two last pillars to the
@@ -18970,25 +18969,25 @@ throne-arm, in great blocks, and finished, most probably, afterwards.
 
 {nbsp}
 
-[[note_154]][link:#noteref_154[154]] This
+[[note_154]][<<noteref_154,154>>] This
 refers to the Ex-Khedive, Ismail Pasha, who ruled Egypt at the time when
 this book was written and published. [Note to Second Edition.]
 
 {nbsp}
 
-[[note_155]][link:#noteref_155[155]] There
+[[note_155]][<<noteref_155,155>>] There
 are tombs in some of the ravines behind the Temples, which, however, we
 did not see.
 
 {nbsp}
 
-[[note_156]][link:#noteref_156[156]] Tosko
+[[note_156]][<<noteref_156,156>>] Tosko
 is on the eastern bank, and not, as in Keith Johnston's map, on the
 west.
 
 {nbsp}
 
-[[note_157]][link:#noteref_157[157]] This
+[[note_157]][<<noteref_157,157>>] This
 is one of the Temples erected by Rameses the Great, and, I believe, not
 added to by any of his successors. The colossi, the Osiride columns, the
 sphinxes (now battered out of all human semblance) were originally made
@@ -19004,19 +19003,19 @@ xviii. p. 350].
 
 {nbsp}
 
-[[note_158]][link:#noteref_158[158]] Not
+[[note_158]][<<noteref_158,158>>] Not
 only near this nameless town, but in many other parts between Abou
 Simbel and Philæ, we found the old alluvial soil lying as high as from
 20 to 30 feet above the level of the present innundations.
 
 {nbsp}
 
-[[note_159]][link:#noteref_159[159]] Ar.
+[[note_159]][<<noteref_159,159>>] Ar.
 Birbeh, Temple.
 
 {nbsp}
 
-[[note_160]][link:#noteref_160[160]] "The
+[[note_160]][<<noteref_160,160>>] "The
 Nile receives its last tributary, the Atbara, in Lat. 17{nbsp} 42' N., at the
 northern extremity of the peninsular tract anciently called the island
 of Meroë, and thence flows N. (a single stream without the least
@@ -19027,7 +19026,7 @@ dry beds of many more such tributaries as the one described above.
 
 {nbsp}
 
-[[note_161]][link:#noteref_161[161]] Of
+[[note_161]][<<noteref_161,161>>] Of
 this wall, Burckhardt notices that "it has fallen down, apparently from
 some sudden and violent concussion, as the stones are lying on the
 ground in layers, as when placed in the wall ; a proof that they must
@@ -19043,7 +19042,7 @@ Gaius his little brother, and the rest of his brethren."
 
 {nbsp}
 
-[[note_162]][link:#noteref_162[162]] A
+[[note_162]][<<noteref_162,162>>] A
 clue, however, might possibly be found to the date. There is a rudely
 sculptured tableau—the only piece of sculpture in the place—on a
 detached wall near the standing columns. It represents Isis worshipped
@@ -19057,14 +19056,14 @@ of the Sacred Fig-tree, where ends the Itinerary of Antoninus.
 
 {nbsp}
 
-[[note_163]][link:#noteref_163[163]] See
+[[note_163]][<<noteref_163,163>>] See
 "The Scarabæus Sacer" by C. Woodrooffe, B.A.,—a paper (based on notes by
 the late Rev. C. Johns) read before the Winchester and Hampshire
 Scientific and Literary Society, Nov. 8, 1875. Privately printed.
 
 {nbsp}
 
-[[note_164]][link:#noteref_164[164]] See
+[[note_164]][<<noteref_164,164>>] See
 link:#page_181[chap. x.
 p. 181]. Dakkeh (the Pselcis of the Greeks and Romans, the Pselk of the
 Egyptians) was at one time regarded as the confine of Egypt and
@@ -19083,7 +19082,7 @@ image:images/00091.jpg[image]
 
 {nbsp}
 
-[[note_165]][link:#noteref_165[165]] "Less
+[[note_165]][<<noteref_165,165>>] "Less
 than a quarter of a mile to the south are the ruins of a small sandstone
 Temple with clustered columns ; and on the way, near the village, you
 pass a stone stela of Amenemha III, mentioning his eleventh
@@ -19102,7 +19101,7 @@ working of the gold mines of those parts.
 
 {nbsp}
 
-[[note_166]][link:#noteref_166[166]] "According
+[[note_166]][<<noteref_166,166>>] "According
 to Ptolemy, Metachompso should be opposite Pselcis, where
 there are extensive brick ruins. If so, Metachompso and Contra Pselcis
 must be the same town."—Topography of Thebes, etc ; Sir G. Wilkinson.
@@ -19136,7 +19135,7 @@ name of the island.
 
 {nbsp}
 
-[[note_167]][link:#noteref_167[167]] "C'est un
+[[note_167]][<<noteref_167,167>>] "C'est un
 ouvrage non achevé du temps de l'empereur Auguste. Quoique peu
 important par son étendue, ce monument m'a beaucoup interessé, puisqu'il
 est entièrement relatif à l'incarnation d'Osiris sous forme humaine, sur
@@ -19145,27 +19144,27 @@ la terre."—Lettres écrites d'Egypte, etc. : CHAMPOLLION. Paris, 1868, p.
 
 {nbsp}
 
-[[note_168]][link:#noteref_168[168]] I
+[[note_168]][<<noteref_168,168>>] I
 observed mauve here, for the first and only time ; and very brilliant
 ultramarine. There are also traces of gilding on many of the figures.
 
 {nbsp}
 
-[[note_169]][link:#noteref_169[169]] See
+[[note_169]][<<noteref_169,169>>] See
 link:#page_221[chap.
 xii. p. 221].
 
 {nbsp}
 
-[[note_170]][link:#noteref_170[170]] TALMIS : (Kalabsheh).
+[[note_170]][<<noteref_170,170>>] TALMIS : (Kalabsheh).
 
 {nbsp}
 
-[[note_171]][link:#noteref_171[171]] TAPHIS : (Tafah).
+[[note_171]][<<noteref_171,171>>] TAPHIS : (Tafah).
 
 {nbsp}
 
-[[note_172]][link:#noteref_172[172]] Blemyes:— The
+[[note_172]][<<noteref_172,172>>] Blemyes:— The
 Blemyes were a nomadic race of Berbers, supposed to be
 originally of the tribes of Bilmas of Tibbous in the central desert, and
 settled as early as the time of Erastosthenes in that part of the Valley
@@ -19175,12 +19174,12 @@ Nord de l'Afrique, by M. V. DE ST. MARTIN. Paris, 1863, Section III, p.
 
 {nbsp}
 
-[[note_173]][link:#noteref_173[173]] See
+[[note_173]][<<noteref_173,173>>] See
 The Habitations of Man in all Ages. V. LE DUC. Chap. ix p. 93.
 
 {nbsp}
 
-[[note_174]][link:#noteref_174[174]] They
+[[note_174]][<<noteref_174,174>>] They
 probably mark the site of a certain Coptic monastery described in an
 ancient Arabic MS. quoted by E. Quatremere, which says that "in the town
 of Tafah there is a fine monastery called the monastery of Ansoun. It is
@@ -19196,7 +19195,7 @@ sacred College, like the sacred College at Philæ.
 
 {nbsp}
 
-[[note_175]][link:#noteref_175[175]] "The
+[[note_175]][<<noteref_175,175>>] "The
 peasants of Tafa relate that they are the descendants of the few
 Christian inhabitants of the city who embraced the Mohammedan faith when
 the country was conquered by the followers of the Prophet ; the greater
@@ -19206,7 +19205,7 @@ Christian progeny."—Travels in Nubia : BURCKHARDT. London, 1819, p. 121.
 
 {nbsp}
 
-[[note_176]][link:#noteref_176[176]] In
+[[note_176]][<<noteref_176,176>>] In
 these secret chambers (the entrance to which was closed by a block of
 masonry so perfectly fitted as to defy detection) were kept the images
 of gold and silver and lapis lazuli, the precious vases, the sistrums,
@@ -19222,12 +19221,12 @@ wall, which is of solid masonry.
 
 {nbsp}
 
-[[note_177]][link:#noteref_177[177]] Ar.
+[[note_177]][<<noteref_177,177>>] Ar.
 Tambooshy—i.e. saloon sky-light.
 
 {nbsp}
 
-[[note_178]][link:#noteref_178[178]] "Sebek
+[[note_178]][<<noteref_178,178>>] "Sebek
 est un dieu solaire. Dans un papyrus de Boulak, il est appelé
 fils d'Isis, et il combat les ennemis d'Osiris ; c'est une assimilation
 complète à Horus, et c'est à ce titre qu'il était adoré à Ombos."—Dic.
@@ -19235,20 +19234,20 @@ Arch. P. PIERRET. Paris, 1875.
 
 {nbsp}
 
-[[note_179]][link:#noteref_179[179]] See
+[[note_179]][<<noteref_179,179>>] See
 link:#page_203[chap. xi.
 p. 203].
 
 {nbsp}
 
-[[note_180]][link:#noteref_180[180]] "Le
+[[note_180]][<<noteref_180,180>>] "Le
 point de départ de la mythologie egyptienne est une Triade."
 CHAMPOLLION, Lettres d'Egypte, etc., XIe Lettre. Paris, 1868. These
 Triads are best studied at Gerf Hossayn and Kalabsheh.
 
 {nbsp}
 
-[[note_181]][link:#noteref_181[181]] "L'un
+[[note_181]][<<noteref_181,181>>] "L'un
 (paroi du sud) représente une déesse nourissant de son lait divin le roi
 Horus, encore enfant. L'Egypte n'a jamais, comme la Grèce, atteint
 l'idéal du beau . . . mais en tant qu'art Egyptien, le bas-relief du
@@ -19259,13 +19258,13 @@ fois."—Itinéraire de la Haut Egypte. A. MARIETTE : 1872, p. 246.
 
 {nbsp}
 
-[[note_182]][link:#noteref_182[182]] See
+[[note_182]][<<noteref_182,182>>] See
 Sallier Papyrus No. 2. HYMN TO THE NILE—translation by C. MASPERO. 4to
 Paris, 1868.
 
 {nbsp}
 
-[[note_183]][link:#noteref_183[183]] Ta-ur-t, or
+[[note_183]][<<noteref_183,183>>] Ta-ur-t, or
 Apet the Great. "Cettes Déesse à corps d'hippopotame debout
 et à mamelles pendantes, paraît être une sorte de déesse nourrice. Elle
 semble, dans le bas temps, je ne dirai pas se substituer à Maut, mais
@@ -19279,7 +19278,7 @@ BIRCH. London, 1874.
 
 {nbsp}
 
-[[note_184]][link:#noteref_184[184]] For a
+[[note_184]][<<noteref_184,184>>] For a
 highly interesting account of the rock-cut inscriptions, graffiti, and
 quarry-marks at Silsilis, in the desert between Assûan and Philæ, and in
 the valley called Soba Rigolah, see Mr. W. M. F. Petrie's recent volume
@@ -19287,19 +19286,19 @@ entitled A Season's Work in Egypt, 1877.
 
 {nbsp}
 
-[[note_185]][link:#noteref_185[185]] Letter
+[[note_185]][<<noteref_185,185>>] Letter
 of M. Mariette to Vte E. DE ROUGÉ : Révue Archéologique, vol. ii.
 p. 33, 1860.
 
 {nbsp}
 
-[[note_186]][link:#noteref_186[186]] Edfu
+[[note_186]][<<noteref_186,186>>] Edfu
 is the older Temple ; Denderah the copy. Where the architect of Denderah
 has departed from his model, it has invariably been for the worse.
 
 {nbsp}
 
-[[note_187]][link:#noteref_187[187]] Horus
+[[note_187]][<<noteref_187,187>>] Horus
 :—"Dieu adoré dans plusieurs nomes de la basse Egypte. Le personnage
 d'Horus se rattache sous des noms différents, à deux generations
 divines. Sous le nom de Haroëris il est né de Seb et Nout, et par
@@ -19309,7 +19308,7 @@ est appelé Horus le Justicier."—Dict. Arch. P. PIERRET, article "Horus."
 
 {nbsp}
 
-[[note_188]][link:#noteref_188[188]] Hathor :—"Elle est, comme
+[[note_188]][<<noteref_188,188>>] Hathor :—"Elle est, comme
 Neith, Muat, et Nout, la personnification de
 l'espace dans lequel se meut le soleil, dont Horus symbolise le lever ;
 aussi son nom, Hat-hor, signifie-t-il litteralement, l'habitation
@@ -19317,39 +19316,39 @@ d'Horus."—Ibid. article "Hathor."
 
 {nbsp}
 
-[[note_189]][link:#noteref_189[189]] Rapport
+[[note_189]][<<noteref_189,189>>] Rapport
 sur une Mission en Egypte. VICOMTE E. DE ROUGÉ. See Révue Arch.
 Nouvelle Série, vol. x. p. 63.
 
 {nbsp}
 
-[[note_190]][link:#noteref_190[190]] Textes
+[[note_190]][<<noteref_190,190>>] Textes
 Géographiques du Temple d'Edfou, by M. J. DE ROUGÉ. Révue Arch.
 vol. xii. p. 209.
 
 {nbsp}
 
-[[note_191]][link:#noteref_191[191]] See
+[[note_191]][<<noteref_191,191>>] See
 Professor Revillout's Seconde Mémoire sure les Blemmyes, 1888, for an
 account of how the statues of Isis and other deities were taken once a
 year from the Temples of Philæ for a trip into Ethiopia.
 
 {nbsp}
 
-[[note_192]][link:#noteref_192[192]] See
+[[note_192]][<<noteref_192,192>>] See
 link:#_appendix_iii[APPENDIX
 III], Religious Belief of the Ancient Egyptians.
 
 {nbsp}
 
-[[note_193]][link:#noteref_193[193]] Not
+[[note_193]][<<noteref_193,193>>] Not
 only the names of the chambers, but their dimensions in cubits and
 subdivisions of cubits are given. See Itinéraire de la Haute Egypte. A.
 MARIETTE BEY. 1872, p. 241.
 
 {nbsp}
 
-[[note_194]][link:#noteref_194[194]] This
+[[note_194]][<<noteref_194,194>>] This
 was, no doubt, an interment of the period of the XXIIIrd or XXIVth
 Dynasty, the style of which is thus described by Mariette : "Succèdent
 les caisses à fond blanc. Autour de celles-çi court une légende en
@@ -19362,14 +19361,14 @@ de couleurs tranchantes."—Notice des Monuments à Boulak, p. 46. Paris,
 
 {nbsp}
 
-[[note_195]][link:#noteref_195[195]] Diodorus, Biblioth.
+[[note_195]][<<noteref_195,195>>] Diodorus, Biblioth.
 Hist., Bk. i. chap. iv. The fault of inaccuracy
 ought, however, to be charged to Hecatæus, who was the authority
 followed here by Diodorus.
 
 {nbsp}
 
-[[note_196]][link:#noteref_196[196]] Possibly
+[[note_196]][<<noteref_196,196>>] Possibly
 the Smendes of Manetho, and the Ba-en-Ded whose cartouche is
 found by Brugsch on a sarcophagus in the museum at Vienna ; see Hist.
 d'Egypt, chap. x. p. 213, ed. 1859. Another claimant to this
@@ -19378,19 +19377,19 @@ found by Mariette on some small gold tablets at Tanis.
 
 {nbsp}
 
-[[note_197]][link:#noteref_197[197]] Letter XIV. p. 235,
+[[note_197]][<<noteref_197,197>>] Letter XIV. p. 235,
 Letters d'Egypte ; Paris, 1868. See also chapter
 xviii. of the present work ; p.
 link:#page_349[349].
 
 {nbsp}
 
-[[note_198]][link:#noteref_198[198]] See
+[[note_198]][<<noteref_198,198>>] See
 Champollion, Letter XIV, footnote, p. 418.
 
 {nbsp}
 
-[[note_199]][link:#noteref_199[199]] The
+[[note_199]][<<noteref_199,199>>] The
 sitting colossus of the Ramesseum was certainly the largest perfect
 statue in Egypt when Diodorus visited the Valley of the Nile, for the
 great standing colossus of Tanis had long before his time been cut up by
@@ -19415,20 +19414,20 @@ Second Edition.]
 
 {nbsp}
 
-[[note_200]][link:#noteref_200[200]] The
+[[note_200]][<<noteref_200,200>>] The
 Syenite colossus of which the British Museum possesses the head, and
 which is popularly known as the Young Memnon, measured twenty-four feet
 in height before it was broken up by the French.
 
 {nbsp}
 
-[[note_201]][link:#noteref_201[201]] See
+[[note_201]][<<noteref_201,201>>] See
 woodcut No. 340 in Sir G. Wilkinson's Manners and Customs of the Ancient
 Egyptians, vol. i. ed. 1871.
 
 {nbsp}
 
-[[note_202]][link:#noteref_202[202]] Among
+[[note_202]][<<noteref_202,202>>] Among
 these are Abot or abode ; meaning the abode of Amen ; Ta-Uaboo, the
 mound ; Ta-Api, the head or capital, etc. etc. See Recherches sur le nom
 Egyptien de Thèbes. CHABAS : 1863 ; Textes Géographiques d'Edfoo, J. DE
@@ -19436,7 +19435,7 @@ ROUGÉ : Révue Arch. Nouvelle Série, vol. xii. 1865 ; etc. etc.
 
 {nbsp}
 
-[[note_203]][link:#noteref_203[203]] The
+[[note_203]][<<noteref_203,203>>] The
 Great Harris Papyrus is described by Dr. Birch as "one of the finest,
 best written, and best preserved, that have been discovered in Egypt. It
 measures 133 feet long by 16{nbsp} inches broad, and was found with several
@@ -19464,7 +19463,7 @@ first person, the list excepted." Introduction to Annals of Rameses III
 
 {nbsp}
 
-[[note_204]][link:#noteref_204[204]] "Rameses III was
+[[note_204]][<<noteref_204,204>>] "Rameses III was
 one of the most remarkable monarchs in the annals of
 Egypt. A period of political confusion and foreign conquest of the
 country preceded his advent to the throne. His father, Setnecht, had
@@ -19500,7 +19499,7 @@ BIRCH, LL.D., Cambridge, 1876.
 
 {nbsp}
 
-[[note_205]][link:#noteref_205[205]] "There is
+[[note_205]][<<noteref_205,205>>] "There is
 reason to believe that this is only a fragment of the
 building, and foundations exist which render it probable that the whole
 was originally a square of the width of the front, and had other
@@ -19513,7 +19512,7 @@ FERGUSSON, Bk. i., ch. iv., p. 118, Lond. 1865.
 
 {nbsp}
 
-[[note_206]][link:#noteref_206[206]] Medinet
+[[note_206]][<<noteref_206,206>>] Medinet
 Habu continued up to the period of the Arab invasion to be
 inhabited by the Coptic descendants of its ancient builders. They fled,
 however, before Amr and his army, since which time the place has been
@@ -19526,11 +19525,11 @@ place where the bar was placed across the door.
 
 {nbsp}
 
-[[note_207]][link:#noteref_207[207]] Herodotus, Bk. ii. chap. 122.
+[[note_207]][<<noteref_207,207>>] Herodotus, Bk. ii. chap. 122.
 
 {nbsp}
 
-[[note_208]][link:#noteref_208[208]] "A
+[[note_208]][<<noteref_208,208>>] "A
 Medinet Habou, dans son palais, il s'est fait représenter jouant aux
 dames avec des femmes qui, d'après certaines copies, semblent porter sur
 la tête les fleurs symboliques de l'Egypte supérieure et inférieure,
@@ -19547,7 +19546,7 @@ Série, vol. xii., p. 58. Paris: 1865.
 
 {nbsp}
 
-[[note_209]][link:#noteref_209[209]] BAAL,
+[[note_209]][<<noteref_209,209>>] BAAL,
 written sometimes Bar, was, like Sutekh, a God borrowed from the
 Phœnician mythology. The worship of Baal seems to have been introduced
 into Egypt during the XIXth Dynasty. The other God here mentioned, Mentu
@@ -19559,13 +19558,13 @@ war.
 
 {nbsp}
 
-[[note_210]][link:#noteref_210[210]] From
+[[note_210]][<<noteref_210,210>>] From
 one of the inscriptions at Medinet Habu, quoted by Chabas. See Antiquité
 Historique, ch. iv. p. 238. Ed. 1873.
 
 {nbsp}
 
-[[note_211]][link:#noteref_211[211]] It is
+[[note_211]][<<noteref_211,211>>] It is
 a noteworthy fact (and one which has not, so far as I know, been
 previously noticed) that while the Asiatic and African chiefs
 represented in these friezes are insolently described in the
@@ -19579,7 +19578,7 @@ nearer neighbours?
 
 {nbsp}
 
-[[note_212]][link:#noteref_212[212]] The
+[[note_212]][<<noteref_212,212>>] The
 grand blue of the ceiling of the colonnade of the Great Hypæthral Court
 is also very remarkable for brilliancy and purity of tone ; while to
 those interested in decoration the capital and abacus of the second
@@ -19588,13 +19587,13 @@ specimen of polychrome ornamentation on a gold-coloured ground.
 
 {nbsp}
 
-[[note_213]][link:#noteref_213[213]] Inscriptions
+[[note_213]][<<noteref_213,213>>] Inscriptions
 at Medinet Habu. See Chabas' Antiquité Historique, chap.
 iv. Paris: 1876.
 
 {nbsp}
 
-[[note_214]][link:#noteref_214[214]] The
+[[note_214]][<<noteref_214,214>>] The
 whole of this chronicle is translated by M. Chabas in L'Antiquité
 Historique, chap. iv. p. 246 et seq. It is also engraved in full in
 Rosellini (Monumenti Storici) ; and has been admirably photographed by
@@ -19602,7 +19601,7 @@ both M. Hammerschmidt and Signor Beata.
 
 {nbsp}
 
-[[note_215]][link:#noteref_215[215]] These
+[[note_215]][<<noteref_215,215>>] These
 two statues—the best-known, probably, of all Egyptian monuments—have
 been too often described, painted, engraved, and photographed, to need
 more than a passing reference. Their featureless faces, their attitude,
@@ -19632,7 +19631,7 @@ Septimius Severus.
 
 {nbsp}
 
-[[note_216]][link:#noteref_216[216]] This
+[[note_216]][<<noteref_216,216>>] This
 deification of the dead was not deification in the Roman sense ; neither
 was it canonisation in the modern sense. The Egyptians believed the
 justified dead to be assimilated, or rather identified, in the spirit
@@ -19648,7 +19647,7 @@ attribute of deity.
 
 {nbsp}
 
-[[note_217]][link:#noteref_217[217]] There
+[[note_217]][<<noteref_217,217>>] There
 is among the funereal tablets of the Boulak collection a small
 bas-relief sculpture representing the arrival of a family of mourners at
 the tomb of a deceased ancestor. The statue of the defunct sits at the
@@ -19662,7 +19661,7 @@ class of monuments lately discovered on the Eleusinian road at Athens.
 
 {nbsp}
 
-[[note_218]][link:#noteref_218[218]] "Une
+[[note_218]][<<noteref_218,218>>] "Une
 dignité tout à fait particulier est celle que les inscriptions
 hiéroglyphiques désignent par le titre 'prophète de la pyramide, de tel
 pharaon.' II parait qu'après sa mort chaque roi était vénéré par un
@@ -19671,19 +19670,19 @@ Leipzig: 1875.
 
 {nbsp}
 
-[[note_219]][link:#noteref_219[219]] There
+[[note_219]][<<noteref_219,219>>] There
 is a very curious window at the end of this sanctuary, with grooves for
 the shutter, and holes in which to slip and drop the bar by which it was
 fastened.
 
 {nbsp}
 
-[[note_220]][link:#noteref_220[220]] The
+[[note_220]][<<noteref_220,220>>] The
 Gate of the King.
 
 {nbsp}
 
-[[note_221]][link:#noteref_221[221]] These
+[[note_221]][<<noteref_221,221>>] These
 funerary statues are represented each on a stand or platform, erect,
 with one foot advanced, as if walking, the right hand holding the ankh,
 or symbol of life, the left hand grasping a staff. The attitude is that
@@ -19702,7 +19701,7 @@ above ceremonies are well copied in Rosellini, Mon. del Culto, plates
 
 {nbsp}
 
-[[note_222]][link:#noteref_222[222]] A
+[[note_222]][<<noteref_222,222>>] A
 remarkable inscription in this tomb, relating the wrath of Ra and the
 destruction of mankind, is translated by M. Naville, vol. iv. Pt. i.
 Translations of the Biblical Arch. Society. In this singular myth, which
@@ -19712,7 +19711,7 @@ small chamber known as the Chamber of the Cow.
 
 {nbsp}
 
-[[note_223]][link:#noteref_223[223]] The
+[[note_223]][<<noteref_223,223>>] The
 longest tomb in the valley, which is that of Seti I, measures 470 feet
 in length to the point where it is closed by the falling in of the rock
 ; and the total depth of its descent is about 180 feet. The tomb of
@@ -19728,31 +19727,31 @@ name of the occupant was Petamunap, a priest of uncertain date.
 
 {nbsp}
 
-[[note_224]][link:#noteref_224[224]] Apophis, in
+[[note_224]][<<noteref_224,224>>] Apophis, in
 Egyptian Apap ; the great serpent of darkness, over whom Ra
 must triumph after he sets in the west, and before he again rises in the
 east.
 
 {nbsp}
 
-[[note_225]][link:#noteref_225[225]] Kheper, the scarab deity. See
+[[note_225]][<<noteref_225,225>>] Kheper, the scarab deity. See
 link:#page_96[chap. vi.
 p. 96].
 
 {nbsp}
 
-[[note_226]][link:#noteref_226[226]] Symbolical of darkness.
+[[note_226]][<<noteref_226,226>>] Symbolical of darkness.
 
 {nbsp}
 
-[[note_227]][link:#noteref_227[227]] The
+[[note_227]][<<noteref_227,227>>] The
 crocodile represents Sebek. In one of the Boulak papyri, this God is
 called the son of Isis, and combats the enemies of Osiris. Here he
 combats Apophis in behalf of Ra.
 
 {nbsp}
 
-[[note_228]][link:#noteref_228[228]] The
+[[note_228]][<<noteref_228,228>>] The
 tomb numbered 3 in the first small ravine to the left as one rides up
 the valley, bears the cartouches of Rameses II. The Writer crawled in as
 far as the choked condition of the tomb permitted, but the passage
@@ -19760,7 +19759,7 @@ becomes quite impassable after the first thirty or forty yards.
 
 {nbsp}
 
-[[note_229]][link:#noteref_229[229]] When
+[[note_229]][<<noteref_229,229>>] When
 first seen by Sir G. Wilkinson, these harpers were still in such good
 preservation, that he reported of one at least, if not both, as
 obviously blind. The harps are magnificent, richly inlaid and gilded,
@@ -19769,7 +19768,7 @@ fourteen.
 
 {nbsp}
 
-[[note_230]][link:#noteref_230[230]] The
+[[note_230]][<<noteref_230,230>>] The
 sarcophagus of Seti I, which was brought to England by Belzoni, is in
 Sir J. Soane's Museum. It is carved from a single block of the finest
 alabaster, and is covered with incised hieroglyphic texts and several
@@ -19785,7 +19784,7 @@ ROUGÉ, p. 51: Paris, 1873.
 
 {nbsp}
 
-[[note_231]][link:#noteref_231[231]] Abbot
+[[note_231]][<<noteref_231,231>>] Abbot
 Papyrus, British Museum. This papyrus, which has been translated by M.
 Chabas (Mélanges Egyptologiques, 3d Serie: Paris and Chalon, 1870),
 gives a list of royal tombs inspected by an Egyptian Commission in the
@@ -19809,7 +19808,7 @@ Biblical Arch. Society, vol. iv. part i. p. 172.
 
 {nbsp}
 
-[[note_232]][link:#noteref_232[232]] The
+[[note_232]][<<noteref_232,232>>] The
 beautiful jewels found upon the mummy of Queen Aah-Hotep show how richly
 the royal dead were adorned, and how well worth plundering their
 sepulchres must have been. These jewels have been so often photographed,
@@ -19846,7 +19845,7 @@ Edition.]
 
 {nbsp}
 
-[[note_233]][link:#noteref_233[233]] There
+[[note_233]][<<noteref_233,233>>] There
 is in one of the Papyri of the Louvre a very curious illustration,
 representing—1st, the funeral procession of one Neb-Set, deceased ; 2nd,
 the interior of the sepulchre, with the mummy, the offerings, and the
@@ -19870,7 +19869,7 @@ the sepulchre of the deceased.
 
 {nbsp}
 
-[[note_234]][link:#noteref_234[234]] "King
+[[note_234]][<<noteref_234,234>>] "King
 Rhampsinitus (Rameses III) was possessed, they said, of great riches in
 silver, indeed, to such an amount that none of the princes, his
 successors, surpassed or even equalled his wealth."—HERODOTUS, Book ii.
@@ -19878,7 +19877,7 @@ chap. 121.
 
 {nbsp}
 
-[[note_235]][link:#noteref_235[235]] Impossible
+[[note_235]][<<noteref_235,235>>] Impossible
 from the Egyptian point of view. "That the body should not
 waste or decay was an object of anxious solicitude ; and for this
 purpose various bandlets and amulets, prepared with certain magical
@@ -19893,13 +19892,13 @@ Lond. 1867.
 
 {nbsp}
 
-[[note_236]][link:#noteref_236[236]] The
+[[note_236]][<<noteref_236,236>>] The
 Ancient Egyptians, Sir G. Wilkinson ; vol. i. chap. ii. woodcut No. 92.
 Lond. 1871.
 
 {nbsp}
 
-[[note_237]][link:#noteref_237[237]] The
+[[note_237]][<<noteref_237,237>>] The
 old French House is now swept away, with the rest of the modern Arab
 buildings which encumbered the ruins of the Temple of Luxor (see
 footnote, pp.
@@ -19918,59 +19917,59 @@ passed to the flight of steps leading up to Lady Duff Gordon's rooms.
 
 {nbsp}
 
-[[note_238]][link:#noteref_238[238]] Mehemet Ali
+[[note_238]][<<noteref_238,238>>] Mehemet Ali
 gave this house to the French, and to the French it belonged
 till pulled down three years ago by Professor Maspero. [Note to Second
 Edition.]
 
 {nbsp}
 
-[[note_239]][link:#noteref_239[239]] Samak
+[[note_239]][<<noteref_239,239>>] Samak
 : a large flat fish, rather like a brill.
 
 {nbsp}
 
-[[note_240]][link:#noteref_240[240]] Dall
+[[note_240]][<<noteref_240,240>>] Dall
 : roast shoulder of lamb.
 
 {nbsp}
 
-[[note_241]][link:#noteref_241[241]] Kebobs : small
+[[note_241]][<<noteref_241,241>>] Kebobs : small
 lumps of meat grilled on skewers.
 
 {nbsp}
 
-[[note_242]][link:#noteref_242[242]] Kuftah : broiled mutton.
+[[note_242]][<<noteref_242,242>>] Kuftah : broiled mutton.
 
 {nbsp}
 
-[[note_243]][link:#noteref_243[243]] Pilaff : boiled
+[[note_243]][<<noteref_243,243>>] Pilaff : boiled
 rice, mixed with a little butter, and seasoned with salt
 and pepper.
 
 {nbsp}
 
-[[note_244]][link:#noteref_244[244]] Mish-mish : apricots (preserved).
+[[note_244]][<<noteref_244,244>>] Mish-mish : apricots (preserved).
 
 {nbsp}
 
-[[note_245]][link:#noteref_245[245]] Kunáfah : a
+[[note_245]][<<noteref_245,245>>] Kunáfah : a
 rich pudding made of rice, almonds, cream, cinnamon, etc.
 etc.
 
 {nbsp}
 
-[[note_246]][link:#noteref_246[246]] Rus
+[[note_246]][<<noteref_246,246>>] Rus
 Blebban : rice cream.
 
 {nbsp}
 
-[[note_247]][link:#noteref_247[247]] Totleh : sweet
+[[note_247]][<<noteref_247,247>>] Totleh : sweet
 jelly, encrusted with blanched almonds.
 
 {nbsp}
 
-[[note_248]][link:#noteref_248[248]] The
+[[note_248]][<<noteref_248,248>>] The
 kemengeh is a kind of small two-stringed fiddle, the body of which is
 made of half a cocoa-nut shell. It has a very long neck, and a long foot
 that rests upon the ground, like the foot of a violoncello ; and it is
@@ -19979,7 +19978,7 @@ horsehair.
 
 {nbsp}
 
-[[note_249]][link:#noteref_249[249]] "The
+[[note_249]][<<noteref_249,249>>] "The
 Copts are Christians of the sect called Jacobites, Eutychians,
 Monophysites, and Monothelites, whose creed was condemned by the Council
 of Chalcedon in the reign of the Emperor Marcian. They received the
@@ -19993,7 +19992,7 @@ LANE. Supplement 1, p. 531. London: 1860.
 
 {nbsp}
 
-[[note_250]][link:#noteref_250[250]] The
+[[note_250]][<<noteref_250,250>>] The
 Bishop was for the most part right. The Coptic is the ancient Egyptian
 language (that is to say, it is late and somewhat corrupt Egyptian)
 written in Greek characters instead of in hieroglyphs. For the abolition
@@ -20031,12 +20030,12 @@ supplement the deficiency.
 
 {nbsp}
 
-[[note_251]][link:#noteref_251[251]] This
+[[note_251]][<<noteref_251,251>>] This
 machine is called the Nóreg.
 
 {nbsp}
 
-[[note_252]][link:#noteref_252[252]] The
+[[note_252]][<<noteref_252,252>>] The
 number of pigeons kept by the Egyptian fellahîn is incredible. Mr.
 Zincke says on this subject that "the number of domestic pigeons in
 Egypt must be several times as great as the population," and suggests
@@ -20050,13 +20049,13 @@ soil.
 
 {nbsp}
 
-[[note_253]][link:#noteref_253[253]] The
+[[note_253]][<<noteref_253,253>>] The
 Arabic name of the modern village, Arabát-el-Madfûneh, means literally
 Arabat the Buried.
 
 {nbsp}
 
-[[note_254]][link:#noteref_254[254]] Teni,
+[[note_254]][<<noteref_254,254>>] Teni,
 or more probably Tini, called by the Greeks This or Thinis. It was the
 capital of the VIIIth Nome. "Quoique nous ayons très-peu de chose à
 rapporter sur l'histoire de la ville de Teni qui à la basse époque sous
@@ -20074,13 +20073,13 @@ actuel de Aoulad-Yahia." Letter of Prof. G. Maspero to the author, April
 
 {nbsp}
 
-[[note_255]][link:#noteref_255[255]] The
+[[note_255]][<<noteref_255,255>>] The
 ancient name of Egypt was Kem, Khem, or Kam, signifying Black, or the
 Black Land ; in allusion to the colour of the soil.
 
 {nbsp}
 
-[[note_256]][link:#noteref_256[256]] "Mena, tel que
+[[note_256]][<<noteref_256,256>>] "Mena, tel que
 nous le presente la tradition, est le type le plus
 complet du monarque égyptien. Il est à la fois constructeur et
 législateur : il fonde le grande temple de Phtah à Memphis et régle le
@@ -20096,7 +20095,7 @@ A. MARIETTE BEY. Avant Propos, p. 40. Alexandrie, 1872.
 
 {nbsp}
 
-[[note_257]][link:#noteref_257[257]] See
+[[note_257]][<<noteref_257,257>>] See
 Opening Address of Professor R. OWEN, C.B., etc. etc., Report of
 Proceedings of the Second International Congress of Orientalists,
 Ethnological Section : London, 1874. Also a paper on "The Ethnology of
@@ -20105,7 +20104,7 @@ Institute, vol. iv. No. 1, p. 246 : Lond. 1874.
 
 {nbsp}
 
-[[note_258]][link:#noteref_258[258]] M.
+[[note_258]][<<noteref_258,258>>] M.
 Mariette, in his great work on the excavations at Abydus, observes that
 these seven vaulted sanctuaries resemble sarcophagi of the form most
 commonly in use ; namely, oblong boxes with vaulted lids. Two sarcophagi
@@ -20147,7 +20146,7 @@ in the Temple of Gournah.
 
 {nbsp}
 
-[[note_259]][link:#noteref_259[259]] These
+[[note_259]][<<noteref_259,259>>] These
 are all representations of minor Gods commonly figured in the funereal
 papyri, but very rarely seen in the Temple sculptures. The frog Goddess,
 for instance, is Hek, and symbolises eternity. She is a very ancient
@@ -20158,7 +20157,7 @@ stands in this connection as only a deified symbol.
 
 {nbsp}
 
-[[note_260]][link:#noteref_260[260]] Rameses II is
+[[note_260]][<<noteref_260,260>>] Rameses II is
 here shown with the side-lock of youth. This Temple,
 founded by Seti I, was carried on through the time when Rameses the
 prince was associated with his father upon the throne, and was completed
@@ -20168,7 +20167,7 @@ Speos of Bayt-el-Welly.
 
 {nbsp}
 
-[[note_261]][link:#noteref_261[261]] These
+[[note_261]][<<noteref_261,261>>] These
 seventy-six Pharaohs (represented by their cartouches) were probably
 either princes born of families originally from Abydus, or were
 sovereigns who had acquired a special title to veneration at this place
@@ -20187,19 +20186,19 @@ outline of the Tablet.
 
 {nbsp}
 
-[[note_262]][link:#noteref_262[262]] See
+[[note_262]][<<noteref_262,262>>] See
 Itinéraire de la Haute Egypte : A. MARIETTE BEY: p. 147 Alex. 1872.
 
 {nbsp}
 
-[[note_263]][link:#noteref_263[263]] Ibid.
+[[note_263]][<<noteref_263,263>>] Ibid.
 +++p+++. 148, The hope here expressed was, however, not fulfilled ; tombs of
 the IVth or Vth Dynasties being, I believe, the earliest discovered.
 +++[Note to Second Edition.]+++
 
 {nbsp}
 
-[[note_264]][link:#noteref_264[264]] "It
+[[note_264]][<<noteref_264,264>>] "It
 is said that these persons, as well as the Sheykh, make use of certain
 words (that is, repeat prayers and invocations) on the day preceding
 this performance, to enable them to endure without injury the tread of
@@ -20212,13 +20211,13 @@ chap. xxiv. p. 453. Lond. 1860.
 
 {nbsp}
 
-[[note_265]][link:#noteref_265[265]] This
+[[note_265]][<<noteref_265,265>>] This
 barbarous rite has been abolished by the present Khedive [Note to Second
 Edition.]
 
 {nbsp}
 
-[[note_266]][link:#noteref_266[266]] See
+[[note_266]][<<noteref_266,266>>] See
 Egypt of the Pharaohs and the Khedive, J. B. ZINCKE, chap. ix: p. 72.
 Lond. 1873. Also La Sculpture Egyptienne, par E. SOLDI, p. 57. Paris,
 +++1876+++. Also The Ethnology of Egypt, by PROFESSOR OWEN, C.B. Journal of
@@ -20227,19 +20226,19 @@ personage was Ra-em-ka.
 
 {nbsp}
 
-[[note_267]][link:#noteref_267[267]] It is
+[[note_267]][<<noteref_267,267>>] It is
 in the Great Vestibule that we find the statue of Ti. See chap. iv. p.
 link:#page_59[59].
 
 {nbsp}
 
-[[note_268]][link:#noteref_268[268]] There
+[[note_268]][<<noteref_268,268>>] There
 is no evidence to show that the statues of Sepa and Nesa in the Louvre
 are older than the IVth Dynasty.
 
 {nbsp}
 
-[[note_269]][link:#noteref_269[269]] "Enfin nous
+[[note_269]][<<noteref_269,269>>] "Enfin nous
 signalerons l'importance des statues de Meydoum au point de
 vue ethnographique. Si la race Egyptienne était à cette époque celle
 dont les deux statues nous offrent le type, il faut convenir qu'elle ne
@@ -20268,14 +20267,14 @@ seq.
 
 {nbsp}
 
-[[note_270]][link:#noteref_270[270]] The
+[[note_270]][<<noteref_270,270>>] The
 word pyramid, for which so many derivations have been suggested, is
 shown in the Geometrical Papyrus of the British Museum to be distinctly
 Egyptian, and is written Per-em-us.
 
 {nbsp}
 
-[[note_271]][link:#noteref_271[271]] "On
+[[note_271]][<<noteref_271,271>>] "On
 sait par une stèle du musée de Boulaq, que le grand Sphinx est antérior
 au Rois Chéops de la IVe Dynastie." Dic. d'Arch. Egyptienne : Article
 Sphinx. P. PIERRET. Paris, 1875.
@@ -20308,7 +20307,7 @@ architecturally employed, as at Karnak, Wady Sabooah, Tanis, etc. etc.
 
 {nbsp}
 
-[[note_272]][link:#noteref_272[272]] It is
+[[note_272]][<<noteref_272,272>>] It is
 certainly not a Temple. It may be a mastaba, or votive chapel. It looks
 most like a tomb. It is entirely built of plain and highly-polished
 monoliths of alabaster and red granite, laid square and simply, like a
@@ -20327,7 +20326,7 @@ Khafra, whose own mummy would of course be buried in his Pyramid.
 
 {nbsp}
 
-[[note_273]][link:#noteref_273[273]] This
+[[note_273]][<<noteref_273,273>>] This
 letter appeared in 'The Times' of March 18th, 1874.
 
 [[notes#calibre_pb_36]]
