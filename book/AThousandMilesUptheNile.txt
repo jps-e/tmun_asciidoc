@@ -385,7 +385,7 @@ The Secret of The Sphinx.
 
 {nbsp}
 
-link:#_chapter_i[CHAPTER I.]
+<<_chapter_i,CHAPTER I.>>
 
 CAIRO AND THE GREAT PYRAMID.
 
@@ -394,8 +394,8 @@ Bazaars—Dahabeeyahs—Ghizeh—The Pyramids.
 
 {nbsp}
 
-// link:#chapter_02#filepos66490[CHAPTER II.]
-link:#_chapter_ii[CHAPTER II.]
+// link:#chapter_02#filepos66490,CHAPTER II.]
+<<_chapter_ii,CHAPTER II.>>
 
 CAIRO AND THE MECCA PILGRIMAGE.
 
@@ -406,8 +406,8 @@ Road.
 
 {nbsp}
 
-// link:#chapter_03#filepos104226[CHAPTER III.]
-link:#_chapter_iii[CHAPTER III.]
+// link:#chapter_03#filepos104226,CHAPTER III.]
+<<_chapter_iii,CHAPTER III.>>
 
 CAIRO TO BEDRESHAYN.
 
@@ -416,7 +416,7 @@ crew—The Dahabeeyah and the Nile sailor—Native music—Bedreshayn.
 
 {nbsp}
 
-link:#_chapter_iv[CHAPTER IV.]
+<<_chapter_iv,CHAPTER IV.>>
 
 SAKKÂRAH AND MEMPHIS.
 
@@ -426,7 +426,7 @@ raid—The Tomb of Ti—The Fallen Colossus—Memphis.
 
 {nbsp}
 
-link:#_chapter_v[CHAPTER V.]
+<<_chapter_v,CHAPTER V.>>
 
 BEDRESHAYN TO MINIEH.
 
@@ -437,7 +437,7 @@ provisions—The Dôm palm—Fortune-telling—Ophthalmia.
 
 {nbsp}
 
-link:#_chapter_vi[CHAPTER VI.]
+<<_chapter_vi,CHAPTER VI.>>
 
 MINIEH TO SIÛT.
 
@@ -448,7 +448,7 @@ pottery—Ancient tombs—View over the plain—Biblical legend.
 
 {nbsp}
 
-link:#_chapter_vii[CHAPTER VII.]
+<<_chapter_vii,CHAPTER VII.>>
 
 SIÛT TO DENDERAH.
 
@@ -457,7 +457,7 @@ Syad—Forced labour—Temple of Denderah—Cleopatra—Benighted.
 
 {nbsp}
 
-link:#_chapter_viii[CHAPTER VIII.]
+<<_chapter_viii,CHAPTER VIII.>>
 
 THEBES AND KARNAK.
 
@@ -468,7 +468,7 @@ world of ruins.
 
 {nbsp}
 
-link:#_chapter_ix[CHAPTER IX.]
+<<_chapter_ix,CHAPTER IX.>>
 
 THEBES TO ASSÛAN.
 
@@ -478,7 +478,7 @@ Fellâh—The pylons of Edfu—An exciting race—The Philæ wins by a length.
 
 {nbsp}
 
-link:#_chapter_x[CHAPTER X.]
+<<_chapter_x,CHAPTER X.>>
 
 ASSÛAN AND ELEPHANTINE.
 
@@ -489,7 +489,7 @@ the Quarry—A death in the town.
 
 {nbsp}
 
-link:#_chapter_xi[CHAPTER XI.]
+<<_chapter_xi,CHAPTER XI.>>
 
 THE CATARACT AND THE DESERT.
 
@@ -498,7 +498,7 @@ Painter's vocabulary—Mahatta—Ancient bed of the Nile—Abyssinian Caravan.
 
 {nbsp}
 
-link:#_chapter_xii[CHAPTER XII.]
+<<_chapter_xii,CHAPTER XII.>>
 
 PHILÆ.
 
@@ -508,7 +508,7 @@ Rock—View from the roof of the Temple.
 
 {nbsp}
 
-link:#_chapter_xiii[CHAPTER XIII.]
+<<_chapter_xiii,CHAPTER XIII.>>
 
 PHILÆ TO KOROSKO.
 
@@ -517,7 +517,7 @@ views—Volcanic cones—Dakkeh—Korosko—Letters from home.
 
 {nbsp}
 
-link:#_chapter_iv[CHAPTER XIV.]
+<<_chapter_iv,CHAPTER XIV.>>
 
 KOROSKO TO ABOU SIMBEL.
 
@@ -527,7 +527,7 @@ Sakkieh—Arrival at Abou Simbel by moonlight.
 
 {nbsp}
 
-link:#_chapter_xv[CHAPTER XV.]
+<<_chapter_xv,CHAPTER XV.>>
 
 RAMESES THE GREAT.
 
@@ -537,7 +537,7 @@ Moses—Tomb of Osymandias—Character of Rameses the Great.
 
 {nbsp}
 
-link:#_chapter_xvi[CHAPTER XVI.]
+<<_chapter_xvi,CHAPTER XVI.>>
 
 ABOU SIMBEL.
 
@@ -548,7 +548,7 @@ Colossus—The sufferings of the sketcher.
 
 {nbsp}
 
-link:#_chapter_xvii[CHAPTER XVII.]
+<<_chapter_xvii,CHAPTER XVII.>>
 
 THE SECOND CATARACT.
 
@@ -559,7 +559,7 @@ Nile.
 
 {nbsp}
 
-link:#_chapter_xviii[CHAPTER XVIII.]
+<<_chapter_xviii,CHAPTER XVIII.>>
 
 DISCOVERIES AT ABOU SIMBEL.
 
@@ -570,7 +570,7 @@ Chamber—Inscriptions.
 
 {nbsp}
 
-link:#_chapter_xix[CHAPTER XIX.]
+<<_chapter_xix,CHAPTER XIX.>>
 
 BACK THROUGH NUBIA.
 
@@ -583,7 +583,7 @@ of Philæ.
 
 {nbsp}
 
-link:#_chapter_xx[CHAPTER XX.]
+<<_chapter_xx,CHAPTER XX.>>
 
 SILSILIS AND EDFU.
 
@@ -592,7 +592,7 @@ perfect of Egyptian temples—View from the pylons—Sand columns.
 
 {nbsp}
 
-link:#_chapter_xxi[CHAPTER XXI.]
+<<_chapter_xxi,CHAPTER XXI.>>
 
 THEBES.
 
@@ -605,7 +605,7 @@ fantasia—The Coptic Church at Luxor—A Coptic service—A Coptic Bishop.
 
 {nbsp}
 
-link:#_chapter_xxii[CHAPTER XXII.]
+<<_chapter_xxii,CHAPTER XXII.>>
 
 ABYDUS AND CAIRO.
 
