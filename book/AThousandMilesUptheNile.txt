@@ -16695,8 +16695,7 @@ divine disposer and organiser of the world. Adored throughout Egypt.
 
 Amen-Ra :—Of human form, crowned with a flat-topped cap and two long
 straight plumes ; clothed in the schenti ; his flesh sometimes painted
-blue. There are various forms of this god (see footnote, p.
-<<note_135,341>>),
+blue. There are various forms of this god (see footnote, p.  <<note_135,341>>),
 but he is mostly generally described as King of the Gods. Chief Deity of
 Thebes.
 
@@ -17825,8 +17824,7 @@ two-and-sixpence English.
 {nbsp}
 
 [[note_64]][<<noteref_64,64>>] See
-link:#note_56[previous
-note].
+<<note_56, previous note>>.
 
 {nbsp}
 
@@ -18031,8 +18029,7 @@ Sesotris.—G. MASPERO, Paris, 1867.
 {nbsp}
 
 [[note_79]][<<noteref_79,79>>] See
-link:#page_139[chap.
-viii. p. 139].
+<<page_139, chap. viii. p. 139>>.
 
 {nbsp}
 
@@ -18597,10 +18594,8 @@ the eastern horizon.
 {nbsp}
 
 [[note_118]][<<noteref_118,118>>] See
-link:#page_139[chap.
-viii, pp. 139-140] ; also
-link:#page_420[chap.
-xxi, p. 420].
+<<page_139, chap. viii>>, pp. 139-140 ; also
+<<page_420, chap. xxi>>, p. 420.
 
 {nbsp}
 
@@ -18729,8 +18724,7 @@ north of the Second Cataract?
 {nbsp}
 
 [[note_125]][<<noteref_125,125>>] See
-link:#note_111[footnote,
-p. 290].
+<<note_111, footnote>>, p. 290.
 
 {nbsp}
 
@@ -19012,8 +19006,7 @@ travellers carried off some sculptured tablets of great archæological
 interest, after which act of spoliation the entrance was sanded up by
 order of Mariette Bey. See also, with regard to the probably date of the
 earthquake at this place,
-link:#page_350[chap.
-xviii. p. 350].
+<<page_350, chap. xviii. p. 350>>.
 
 {nbsp}
 
@@ -19078,8 +19071,8 @@ Scientific and Literary Society, Nov. 8, 1875. Privately printed.
 {nbsp}
 
 [[note_164]][<<noteref_164,164>>] See
-link:#page_181[chap. x.
-p. 181]. Dakkeh (the Pselcis of the Greeks and Romans, the Pselk of the
+<<page_181, chap. x. p. 181>>. Dakkeh (the Pselcis of the Greeks and
+Romans, the Pselk of the
 Egyptians) was at one time regarded as the confine of Egypt and
 Ethiopia, and would seem to have been a great military station. The
 inscribed potsherds here are chiefly receipts and accounts of soldiers'
@@ -19107,8 +19100,8 @@ des Peuples de l'Orient. Chap. iii. p. 113.
 
 At Kobban also was found the famous stela of Rameses II, called the
 Stela of Dakkeh ; see
-link:#page_265[chap. xv.
-p. 265]. In this inscription, a cast from which is at the Louvre,
+<<page_265, chap. xv. p. 265>>. In this inscription, a cast from which
+is at the Louvre,
 Rameses II is stated to have caused an artesian well to be made in the
 desert between this place and Gebel Oellaky, in order to facilitate the
 working of the gold mines of those parts.
@@ -19165,8 +19158,7 @@ ultramarine. There are also traces of gilding on many of the figures.
 {nbsp}
 
 [[note_169]][<<noteref_169,169>>] See
-link:#page_221[chap.
-xii. p. 221].
+<<page_221, chap. xii. p. 221>>.
 
 {nbsp}
 
@@ -19249,8 +19241,7 @@ Arch. P. PIERRET. Paris, 1875.
 {nbsp}
 
 [[note_179]][<<noteref_179,179>>] See
-link:#page_203[chap. xi.
-p. 203].
+<<page_203, chap. xi. p. 203>>.
 
 {nbsp}
 
@@ -19350,8 +19341,7 @@ year from the Temples of Philæ for a trip into Ethiopia.
 {nbsp}
 
 [[note_192]][<<noteref_192,192>>] See
-link:#_appendix_iii[APPENDIX
-III], Religious Belief of the Ancient Egyptians.
+<<_appendix_iii, APPENDIX III>>, Religious Belief of the Ancient Egyptians.
 
 {nbsp}
 
@@ -19749,8 +19739,7 @@ east.
 {nbsp}
 
 [[note_225]][<<noteref_225,225>>] Kheper, the scarab deity. See
-link:#page_96[chap. vi.
-p. 96].
+<<page_96, chap. vi. p. 96>>.
 
 {nbsp}
 
@@ -19915,9 +19904,8 @@ Lond. 1871.
 [[note_237]][<<noteref_237,237>>] The
 old French House is now swept away, with the rest of the modern Arab
 buildings which encumbered the ruins of the Temple of Luxor (see
-footnote, pp.
-link:#note_40[143,
-144]). I sketched it on the spot, and my sketch was reproduced as a
+footnote, pp. <<note_40, 143, 144]>>. I sketched
+it on the spot, and my sketch was reproduced as a
 whole-page illustration for the first edition of this book. Although the
 scene is now completely changed, that plate is re-issued with the
 present edition as a memento of the past, and as a fragment of recent
@@ -20019,9 +20007,8 @@ Clement of Alexandria (A.D. 211), the hieroglyphic style had become
 obsolete. The secret of reading hieroglyphs, however, was not lost till
 the time of the fall of the Eastern Empire. How the lost key was
 recovered by Champollion is told in a quotation from Mariette Bey, in
-the footnote to p.
-link:#note_56[211],
-chapter xii. of this book. Of the relation of Coptic to Egyptian,
+the footnote to p. <<note_56, 211>>, chapter xii. of this book. Of the
+relation of Coptic to Egyptian,
 Champollion says: "La langue égyptienne antique ne différait en rien de
 la langue appelée vulgairement Copte ou Cophte. . . . Les mots égyptiens
 écrits en caractères hieroglyphiques sur les monuments les plus anciens
@@ -20242,7 +20229,7 @@ personage was Ra-em-ka.
 
 [[note_267]][<<noteref_267,267>>] It is
 in the Great Vestibule that we find the statue of Ti. See chap. iv. p.
-link:#page_59[59].
+<<page_59, 59>>.
 
 {nbsp}
 
