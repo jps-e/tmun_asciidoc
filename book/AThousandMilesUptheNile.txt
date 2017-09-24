@@ -7,7 +7,7 @@
 // [[titlepage.xhtml]]
 
 {nbsp}
-
+[[great_rock-cut_temple]]
 image:images/00001.jpg[image]
 
 {nbsp}
@@ -41,7 +41,7 @@ WITH UPWARDS OF SEVENTY ILLUSTRATIONS ENGRAVED ON WOOD BY G. PEARSON
 AFTER FINISHED DRAWINGS EXECUTED ON THE SPOT BY THE AUTHOR.
 
 {nbsp}
-
+[[gertassee]]
 image:images/00002.jpg[image]
 
 {nbsp}
@@ -356,6 +356,7 @@ own tale as the artist chooses.
 
 {nbsp}
 
+[[secret_of_the_sphinx]]
 image:images/00003.jpg[image]
 
 {nbsp}
@@ -623,15 +624,15 @@ Sphinx—The view from the Top—The end.
 
 // link:#_appendices[APPENDICES.]
 
-link:#_appendix_i[I.] A.  M'Callum, Esq., to the Editor of 'THE TIMES'
+<<_appendix_i, I.>> A.  M'Callum, Esq., to the Editor of 'THE TIMES'
 
-link:#_appendix_ii[II.] The Egyptian Pantheon
+<<_appendix_ii, II.>> The Egyptian Pantheon
 
-link:#_appendix_iii[III.] The Religious Belief of the Egyptians
+<<_appendix_iii, III.>> The Religious Belief of the Egyptians
 
-link:#_appendix_iv[IV.] Egyptian Chronology
+<<_appendix_iv, IV.>> Egyptian Chronology
 
-link:#_appendix_v[V.] Contemporary Chronology of Egypt, Mesopotamia, and
+<<_appendix_v, V.>> Contemporary Chronology of Egypt, Mesopotamia, and
   Babylon
 
 {nbsp}
@@ -649,165 +650,170 @@ link:#_appendix_v[V.] Contemporary Chronology of Egypt, Mesopotamia, and
 
 {nbsp}
 
-GREAT ROCK-CUT TEMPLE, ABOU SIMBEL, NUBIA (Frontispiece).
+<<great_rock-cut_temple, GREAT ROCK-CUT TEMPLE>>, ABOU SIMBEL,
+NUBIA (Frontispiece).
 
-GERTÁSSEE (Title-page).
+<<gertassee, GERTÁSSEE>> (Title-page).
 
-THE SECRET OF THE SPHINX. After a Painting by ELIHU VEDDER, Esq.
+<<secret_of_the_sphinx, THE SECRET OF THE SPHINX>>. After a Painting
+by ELIHU VEDDER, Esq.
 
-CAIRO DONKEY
+<<cairo_donkey, CAIRO DONKEY>>
 
-TUNIS MARKET, CAIRO
+<<tunis_market, TUNIS MARKET>>, CAIRO
 
-CARPET BAZAAR, CAIRO
+<<carpet_bazaar, CARPET BAZAAR>>, CAIRO
 
-NATIVE CANGIAS
+<<native_cangias, NATIVE CANGIAS>>
 
-HEAD OF TI
+<<head_of_ti, HEAD OF TI>>
 
-MITRÂHÎNEH
+<<mitrahineh, MITRÂHÎNEH>>
 
-THE SHÂDÛF
+<<shaduf, THE SHÂDÛF>>
 
-"HOLY SHEYKH COTTON"
+"<<holy_sheykh_cotton, HOLY SHEYKH COTTON>>"
 
-MARKET BOAT MINIEH
+<<market_boat_minieh, MARKET BOAT MINIEH>>
 
-GEBEL ABUFAYDA
+<<gebel_abufayd, GEBEL ABUFAYDA>>
 
-RIVER-SIDE TOMBS NEAR SIÛT
+<<river-side_tombs_near_siut, RIVER-SIDE TOMBS NEAR SIÛT>>
 
-SIÛT
+<<siut, SIÛT>>
 
-GIRGEH
+<<girgeh, GIRGEH>>
 
-KASR ES SYAD
+<<kasr_es_syad, KASR ES SYAD>>
 
-DENDERAH
+<<denderah, DENDERAH>>
 
-CLEOPATRA
+<<cleopatra, CLEOPATRA>>
 
-SHEYKH SELÎM
+<<sheykh_selim, SHEYKH SELÎM>>
 
-COLONNADE OF HOREMHEB, FROM A PHOTOGRAPH BY BRUGSCH-BEY
+<<colonnade_of_horemheb, COLONNADE OF HOREMHEB>>, FROM A PHOTOGRAPH BY
+BRUGSCH-BEY
 
-TEMPLE OF LUXOR
+<<temple_of_luxor, TEMPLE OF LUXOR>>
 
-HYPOSTYLE HALL, KARNAK
+<<hypostyle_hall, HYPOSTYLE HALL>>, KARNAK
 
-TEMPLE OF ESNEH
+<<temple_of_esneh, TEMPLE OF ESNEH>>
 
-NATIVE BOAT, ASSÛAN
+<<native_boat_assuan, NATIVE BOAT>>, ASSÛAN
 
-CAMEL AT ASSÛAN
+<<camel_at_assuan, CAMEL AT ASSÛAN>>
 
-SOUDAN TRADERS AT MAHATTA
+<<soudan_traders_at_mahatta, SOUDAN TRADERS AT MAHATTA>>
 
-PHARAOH'S BED, PHILÆ
+<<pharaohs_bed, PHARAOH'S BED, PHILÆ>>
 
-GRAND COLONNADE, PHILÆ
+<<grand_colonnade, GRAND COLONNADE, PHILÆ>>
 
-PAINTED COLUMNS, PORTICO OF LARGE TEMPLE, PHILÆ
+<<painted_columns, PAINTED COLUMNS>>, PORTICO OF LARGE TEMPLE, PHILÆ
 
-EARLY CHRISTIAN SHRINE, PHILÆ
+<<early_christian_shrine, EARLY CHRISTIAN SHRINE>>, PHILÆ
 
-SHRINES OF OSIRIS, 1, 2, and 3
+<<shrines_of_osiris, SHRINES OF OSIRIS>>, 1, 2, and 3
 
-RESURRECTION OF OSIRIS
+<<resurrection_of_osiris, RESURRECTION OF OSIRIS>>
 
-INSCRIBED MONOLITHIC ROCK, PHILÆ
+<<inscribed_monolithic_rock, INSCRIBED MONOLITHIC ROCK>>, PHILÆ
 
-TEMPLE OF DAKKEH, NUBIA
+<<temple_of_dakkeh, TEMPLE OF DAKKEH>>, NUBIA
 
-NUBIAN JEWELLERY
+<<nubian_jewellery, NUBIAN JEWELLERY>>
 
-TEMPLE OF DERR, NUBIA
+<<temple_of_derr, TEMPLE OF DERR>>, NUBIA
 
-SAKKIEH, OR WATER-WHEEL
+<<sakkieh, SAKKIEH>>, OR WATER-WHEEL
 
-CARTOUCHES OF RAMESES THE GREAT
+<<cartouches_of_rameses, CARTOUCHES OF RAMESES THE GREAT>>
 
-RAMESES THE GREAT (Bayt-el-Welly)
+<<rameses_the_great_bayt_el_welly, RAMESES THE GREAT (Bayt-el-Welly)>>
 
-RAMESES THE GREAT (Abydus)
+<<rameses_the_great_abydus, RAMESES THE GREAT (Abydus)>>
 
-RAMESES THE GREAT (Abou Simbel)
+<<rameses_the_great_abou_simbel, RAMESES THE GREAT (Abou Simbel)>>
 
-PROFILE OF RAMESES II (From the Southernmost Colossus ; Abou Simbel)
+<<profile_of_rameses_ii, PROFILE OF RAMESES II>> (From the Southernmost
+Colossus ; Abou Simbel)
 
-SMALLER TEMPLE, ABOU SIMBEL, NUBIA
+<<smaller_temple_abou_simbel, SMALLER TEMPLE>>, ABOU SIMBEL, NUBIA
 
-CLEANING THE COLOSSUS
+<<cleaning_the_colossus, CLEANING THE COLOSSUS>>
 
-WADY HALFEH
+<<wady_halfeh, WADY HALFEH>>
 
-THE ROCK OF ABUSÎR
+<<the_rock_of_abusir, THE ROCK OF ABUSÎR>>
 
-ENTRANCE OF SPEOS
+<<entrance_of_speos, ENTRANCE OF SPEOS>>
 
-GROUND-PLAN
+<<ground_plan, GROUND-PLAN>>
 
-PATTERN OF CORNICE
+<<pattern_of_cornice, PATTERN OF CORNICE>>
 
-STANDARD OF HORUS AROËRIS
+<<standard_of_horus_aroeris, STANDARD OF HORUS AROËRIS>>
 
-RAMESES II OF SPEOS
+<<rameses_ii_of_speos, RAMESES II OF SPEOS>>
 
-TEMPLE OF AMADA
+<<temple_of_amada, TEMPLE OF AMADA>>
 
-TEMPLE OF WADY SABOOAH
+<<temple_of_wady_sabooah, TEMPLE OF WADY SABOOAH>>
 
-HEAD-DRESS OF A KING
+<<head_dress_of_a_king, HEAD-DRESS OF A KING>>
 
-TEMPLE OF GERF HOSSAYN, NUBIA
+<<temple_of_gerf_hossayn, TEMPLE OF GERF HOSSAYN>>, NUBIA
 
-TEMPLE OF DENDOOR
+<<temple_of_dendoor, TEMPLE OF DENDOOR>>
 
-HEAD-DRESSES OF KINGS
+<<head_dresses_of_kings, HEAD-DRESSES OF KINGS>>
 
-TEMPLE OF KALABSHEH, NUBIA
+<<temple_of_kalabsheh, TEMPLE OF KALABSHEH>>, NUBIA
 
-RUINED TEMPLE AT TAFAH, NUBIA
+<<ruined_temple_at_tafah, RUINED TEMPLE AT TAFAH>>, NUBIA
 
-TEMPLE OF DABÔD
+<<temple_of_dabod, TEMPLE OF DABÔD>>
 
-RUINED CONVENT (COPTIC) NEAR PHILÆ
+<<ruined_convent_coptic, RUINED CONVENT (COPTIC)>> NEAR PHILÆ
 
-PHILÆ FROM THE SOUTH
+<<philae_from_the_south, PHILÆ FROM THE SOUTH>>
 
-NUBIAN WOMAN AND CHILD
+<<nubian_woman_and_child, NUBIAN WOMAN AND CHILD>>
 
-TEMPLE OF KOM OMBO, UPPER EGYPT
+<<temple_of_kom_ombo, TEMPLE OF KOM OMBO>>, UPPER EGYPT
 
-TA-UR-T (SILSILIS)
+<<ta_ur_t_silsilis, TA-UR-T (SILSILIS)>>
 
-TA-UR-T (PHILÆ)
+<<ta_ur_t_silsilis, TA-UR-T (PHILÆ)>>
 
-THE LOVELY ARAB MAIDEN
+<<the_lovely_arab_maiden, THE LOVELY ARAB MAIDEN>>
 
-DIGGING FOR MUMMIES
+<<digging_for_mummies, DIGGING FOR MUMMIES>>
 
-OSIRIDE COURT AND FALLEN COLOSSUS, RAMESSEUM, THEBES
+<<osiride_court_and_fallen_colossus, OSIRIDE COURT AND FALLEN COLOSSUS>>,
+RAMESSEUM, THEBES
 
-PALACE ENTRANCE—MEDINET HABU
+<<palace_entrance_medinet_habu, PALACE ENTRANCE—MEDINET HABU>>
 
-VASES AND GOBLETS, MEDINET HABU
+<<vases_and_goblets, VASES AND GOBLETS>>, MEDINET HABU
 
-OSIRIDE COURT, MEDINET HABU
+<<osiride_court, OSIRIDE COURT>>, MEDINET HABU
 
-THE "FRENCH HOUSE." LUXOR
+THE <<french_house, "FRENCH HOUSE." LUXOR>>
 
-COLUMNS OF AMENHOTEP III (LUXOR)
+<<columns_of_amenhotep_iii, COLUMNS OF AMENHOTEP III (LUXOR)>>
 
-SAKKIEH AT SIÛT
+<<sakkieh_at_siut, SAKKIEH AT SIÛT>>
 
-"IN THE NAME OF THE PROPHET—CAKES!"
+<<in_the_name_of_the_prophet_cakes, "IN THE NAME OF THE PROPHET—CAKES!">>
 
-PRINCE RA-HOTEP AND PRINCESS NEFER-T
+<<prince_ra_hotep_and_princess_nefer_t, PRINCE RA-HOTEP AND PRINCESS NEFER-T>>
 
-SPHINX AND PYRAMIDS
+<<sphinx_and_pyramids, SPHINX AND PYRAMIDS>>
 
-BROKEN SISTRUM
+<<broken_sistrum, BROKEN SISTRUM>>
 
 {nbsp}
 
@@ -930,6 +936,7 @@ painted.
 
 {nbsp}
 
+[[cairo_donkey]]
 image:images/00004.jpg[image]
 
 {nbsp}
@@ -1037,6 +1044,7 @@ sponges.
 
 {nbsp}
 
+[[tunis_market]]
 image:images/00005.jpg[image]
 
 {nbsp}
@@ -1089,6 +1097,7 @@ in some Christmas piece of Oriental pageantry.
 
 {nbsp}
 
+[[carpet_bazaar]]
 image:images/00006.jpg[image]
 
 {nbsp}
@@ -2335,6 +2344,7 @@ instruments.
 
 {nbsp}
 
+[[native_cangias]]
 image:images/00007.jpg[image]
 
 {nbsp}
@@ -2898,6 +2908,7 @@ action of the wind.
 
 {nbsp}
 
+[[head_of_ti]]
 image:images/00008.jpg[image]
 
 {nbsp}
@@ -3141,6 +3152,7 @@ once more at home and at rest.
 
 {nbsp}
 
+[[mitrahineh]]
 image:images/00009.jpg[image]
 
 {nbsp}
@@ -3299,6 +3311,7 @@ mummified four or five thousand years ago.
 
 {nbsp}
 
+[[shaduf]]
 image:images/00010.jpg[image]
 
 {nbsp}
@@ -3473,6 +3486,7 @@ and swims off to repeat the same performance on board the Bagstones.
 
 {nbsp}
 
+[[holy_sheykh_cotton]]
 image:images/00011.jpg[image]
 
 {nbsp}
@@ -3794,7 +3808,7 @@ their train was supposed to be due, the rest of our party arrived at
 Minieh.
 
 {nbsp}
-
+[[market_boat_minieh]]
 image:images/00012.jpg[image]
 
 {nbsp}
@@ -3967,7 +3981,7 @@ from their haunts, and peer as we pass into the dim recesses of many a
 rock-cut tomb excavated just above the level of the inundation.
 
 {nbsp}
-
+[[gebel_abufayd]]
 image:images/00013.jpg[image]
 
 {nbsp}
@@ -4183,7 +4197,7 @@ tone, that it looks more like an air-drawn mirage than a piece of the
 world we live in.
 
 {nbsp}
-
+[[river-side_tombs_near_siut]]
 image:images/00014.jpg[image]
 
 {nbsp}
@@ -4205,7 +4219,7 @@ minarets, lying back in the plain, at the foot of a great mountain
 pierced with tombs.
 
 {nbsp}
-
+[[siut]]
 image:images/00015.jpg[image]
 
 {nbsp}
@@ -4568,7 +4582,7 @@ they shout ; they gesticulate ; the captain salaams ; the steersman
 waves his hand ; all eyes are turned towards the shore.
 
 {nbsp}
-
+[[girgeh]]
 image:images/00016.jpg[image]
 
 {nbsp}
@@ -4628,7 +4642,7 @@ stone structures whatever, save the broken shaft of one small granite
 column.
 
 {nbsp}
-
+[[kasr_es_syad]]
 image:images/00017.jpg[image]
 
 {nbsp}
@@ -4769,7 +4783,7 @@ convenient point, and finding neither donkeys nor guides at hand, took
 an escort of three or four sailors, and set off on foot.
 
 {nbsp}
-
+[[denderah]]
 image:images/00018.jpg[image]
 
 {nbsp}
@@ -4905,7 +4919,7 @@ merciless iconoclasts, and hacked away the face of every figure within
 easy reach both inside and outside the building.
 
 {nbsp}
-
+[[cleopatra]]
 image:images/00019.jpg[image]
 
 {nbsp}
@@ -5209,7 +5223,7 @@ being heard by those in the boats ; and as thoroughly and undeniably
 lost as the Babes in the Wood.
 
 {nbsp}
-
+[[sheykh_selim]]
 image:images/00020.jpg[image]
 
 {nbsp}
@@ -5310,7 +5324,7 @@ had time to clear off, up comes the Bagstones in gallant form ;
 whereupon the dahabeeyahs blaze away again as before.
 
 {nbsp}
-
+[[colonnade_of_horemheb]]
 image:images/00021.jpg[image]
 
 {nbsp}
@@ -5421,7 +5435,7 @@ The King, attended by his fan-bearers, returns in state, and the priests
 burn incense before him.
 
 {nbsp}
-
+[[temple_of_luxor]]
 image:images/00022.jpg[image]
 
 {nbsp}
@@ -5768,7 +5782,7 @@ years and more. It would take not six men, but a dozen to measure round
 the curved lip of that stupendous lily.
 
 {nbsp}
-
+[[hypostyle_hall]]
 image:images/00023.jpg[image]
 
 {nbsp}
@@ -6148,7 +6162,7 @@ Bes,[[noteref_45]]<<note_45,[45]>>
 the grotesque god of mirth and jollity.
 
 {nbsp}
-
+[[temple_of_esneh]]
 image:images/00024.jpg[image]
 
 {nbsp}
@@ -6576,7 +6590,7 @@ snug corner to moor in. And so ends our memorable race of nearly
 sixty-eight miles from Edfû to Assûan.
 
 {nbsp}
-
+[[native_boat_assuan]]
 image:images/00025.jpg[image]
 
 {nbsp}
@@ -7301,7 +7315,7 @@ short work with their dead. He was to be buried, they said, to-morrow
 morning, three hours after sunrise.
 
 {nbsp}
-
+[[camel_at_assuan]]
 image:images/00026.jpg[image]
 
 {nbsp}
@@ -7599,7 +7613,7 @@ inundation. If their wicked old timbers could have spoken, they might
 have told us many a black and bloody tale.
 
 {nbsp}
-
+[[soudan_traders_at_mahatta]]
 image:images/00027.jpg[image]
 
 {nbsp}
@@ -7719,7 +7733,7 @@ punting ; so that it was past mid-day before the Philæ lay moored at
 last in the shadow of the holy island to which she owed her name.
 
 {nbsp}
-
+[[pharaohs_bed]]
 image:images/00028.jpg[image]
 
 {nbsp}
@@ -7794,7 +7808,7 @@ sculptures, are as perfect, or very nearly as perfect, as in the days of
 the Ptolemies who built them.
 
 {nbsp}
-
+[[grand_colonnade]]
 image:images/00029.jpg[image]
 
 {nbsp}
@@ -7990,7 +8004,7 @@ Greek cross cut deep into the side of the shaft stamps upon each pillar
 the seal of Christian worship.
 
 {nbsp}
-
+[[painted_columns]]
 image:images/00030.jpg[image]
 
 {nbsp}
@@ -8017,7 +8031,7 @@ and over the niche which some unskilled but pious hand has decorated
 with rude Byzantine carvings, the Greek cross is again conspicuous.
 
 {nbsp}
-
+[[early_christian_shrine]]
 image:images/00031.jpg[image]
 
 {nbsp}
@@ -8281,7 +8295,7 @@ to the God ; his legs and feet lie at full length in a pylon-shaped
 mausoleum.
 
 {nbsp}
-
+[[shrines_of_osiris]]
 image:images/00032.jpg[image]
 
 {nbsp}
@@ -8311,7 +8325,7 @@ divine
 sisters.[[noteref_68]]<<note_68,[68]>>
 
 {nbsp}
-
+[[resurrection_of_osiris]]
 image:images/00034.jpg[image]
 
 {nbsp}
@@ -8397,7 +8411,7 @@ Some of these are older by a thousand years and more than the temples on
 the island opposite.
 
 {nbsp}
-
+[[inscribed_monolithic_rock]]
 image:images/00035.jpg[image]
 
 {nbsp}
@@ -8697,7 +8711,7 @@ women snatching up handfuls of dust, and scattering it upon their heads.
 We hear their wild wail long after the procession is out of sight.
 
 {nbsp}
-
+[[temple_of_dakkeh]]
 image:images/00036.jpg[image]
 
 {nbsp}
@@ -8762,7 +8776,7 @@ first Nubian post-office. It was only ten days since we had received our
 last budget at Assûan ; but it seemed like ten weeks.
 
 {nbsp}
-
+[[nubian_jewellery]]
 image:images/00037.jpg[image]
 
 {nbsp}
@@ -9110,7 +9124,7 @@ boat, is quite unharmed ; and even the colour is yet fresh upon a
 full-length figure of Hathor close by.
 
 {nbsp}
-
+[[temple_of_derr]]
 image:images/00038.jpg[image]
 
 {nbsp}
@@ -9242,7 +9256,7 @@ into the middle of the river, and lie off at a point as nearly as
 possible equidistant from our two nearest enemies.
 
 {nbsp}
-
+[[sakkieh]]
 image:images/00039.jpg[image]
 
 {nbsp}
@@ -9436,7 +9450,7 @@ style[[noteref_74]]<<note_74,[74]>>
 of Rameses, beloved of Amen.
 
 {nbsp}
-
+[[cartouches_of_rameses]]
 image:images/00040.jpg[image]
 
 {nbsp}
@@ -10048,7 +10062,7 @@ lacks as yet the fulness and repose of the later portraits, we recognise
 all the distinctive traits of the older Rameses.
 
 {nbsp}
-
+[[rameses_the_great_bayt_el_welly]]
 image:images/00041.jpg[image]
 
 {nbsp}
@@ -10059,7 +10073,7 @@ beard, and looks some three or four years older than in the previous
 portrait.
 
 {nbsp}
-
+[[rameses_the_great_abydus]]
 image:images/00042.jpg[image]
 
 {nbsp}
@@ -10080,7 +10094,7 @@ If he now raised his arm to slay, it would be with the stern placidity
 of a destroying angel.
 
 {nbsp}
-
+[[rameses_the_great_abou_simbel]]
 image:images/00043.jpg[image]
 
 {nbsp}
@@ -10096,7 +10110,7 @@ even in Nubia ; but no traveller who refuses to encounter this small
 hardship need believe that he has seen the faces of the colossi.
 
 {nbsp}
-
+[[profile_of_rameses_ii]]
 image:images/00044.jpg[image]
 
 {nbsp}
@@ -10345,7 +10359,7 @@ with them ; the Queen her daughters, the King his sons—infants of ten
 feet high, whose heads just reach to the parental knee.
 
 {nbsp}
-
+[[smaller_temple_abou_simbel]]
 image:images/00046.jpg[image]
 
 {nbsp}
@@ -10757,7 +10771,7 @@ swarming all over the huge head, just as the carvers may have swarmed
 over it in the days when Rameses was king.
 
 {nbsp}
-
+[[cleaning_the_colossus]]
 image:images/00047.jpg[image]
 
 {nbsp}
@@ -11005,7 +11019,7 @@ been three days doing these six miles : at which rate of progress they
 might reasonably hope to reach Cairo in about a year and a month.
 
 {nbsp}
-
+[[wady_halfeh]]
 image:images/00048.jpg[image]
 
 {nbsp}
@@ -11282,7 +11296,7 @@ doorway. We are at home once more. Let us eat, drink, rest, and be merry
 again.
 
 {nbsp}
-
+[[the_rock_of_abusir]]
 image:images/00049.jpg[image]
 
 {nbsp}
@@ -11532,7 +11546,7 @@ the brilliancy of the colour was marred where the men had leaned their
 backs, all wet with perspiration, against the walls.
 
 {nbsp}
-
+[[entrance_of_speos]]
 image:images/00050.jpg[image]
 
 {nbsp}
@@ -11781,7 +11795,7 @@ the rubbish begins at the end next the Nile, is impossible. This part is
 therefore left indefinite in the ground-plan.
 
 {nbsp}
-
+[[ground_plan]]
 image:images/00051.jpg[image]
 
 {nbsp}
@@ -11804,7 +11818,7 @@ transferred to those walls from the palette of the painter. All below
 that level, however, was dimmed and damaged.
 
 {nbsp}
-
+[[pattern_of_cornice]]
 image:images/00052.jpg[image]
 
 {nbsp}
@@ -11850,7 +11864,7 @@ Horus Aroëris separates these two
 subjects.[[noteref_133]]<<note_133,[133]>>
 
 {nbsp}
-
+[[standard_of_horus_aroeris]]
 image:images/00053.jpg[image]
 
 {nbsp}
@@ -11899,7 +11913,7 @@ visible. He carries in one hand the ankh, and in the other the
 greyhound-headed sceptre.
 
 {nbsp}
-
+[[rameses_ii_of_speos]]
 image:images/00055.jpg[image]
 
 {nbsp}
@@ -12179,13 +12193,13 @@ Even this seems to be doubtful. In the adytum there is no trace of any
 altar—no fragment of stone dais or sculptured image—no granite shrine,
 as at Philæ—no sacred recess, as at Denderah. The standard of Horus
 Aroëris, engraven on page
-link:#page_340[340],
+<<page_340,340>>,
 occupies the centre place upon the wall facing the entrance, and
 occupies it, not as a tutelary divinity, but as a decorative device to
 separate the two large subjects already described. Again, the Gods
 represented in these subjects are Ra and Amen-Ra, the tutelary Gods of
 the Great Temple ; but if we turn to the dedicatory inscription on page
-link:#page_344[344] we
+<<page_344, 344>> we
 find that Thoth, whose image never occurs at all upon the
 walls[[noteref_151]]<<note_151,[151]>>
 (unless as one of the little Gods in the cornice), is really the
@@ -12469,7 +12483,7 @@ towards close of day, see the great view for the last time in the glory
 of sunset.
 
 {nbsp}
-
+[[temple_of_amada]]
 image:images/00058.jpg[image]
 
 {nbsp}
@@ -12535,7 +12549,7 @@ before ; but the song that it pours so lavishly from its tiny throat is
 as sweet and brilliant as a canary's.
 
 {nbsp}
-
+[[temple_of_wady_sabooah]]
 image:images/00059.jpg[image]
 
 {nbsp}
@@ -12751,7 +12765,7 @@ thing, in short, as regards scupturesque style, is the Ptolemaic
 out-Ptolemied.
 
 {nbsp}
-
+[[head_dress_of_a_king]]
 image:images/00060.jpg[image]
 
 {nbsp}
@@ -12892,7 +12906,7 @@ Sabooah, the work of provincial sculptors ; just as at Abou Simbel one
 recognises the master-style of the artists of the Theban Ramesseum.
 
 {nbsp}
-
+[[temple_of_gerf_hossayn]]
 image:images/00061.jpg[image]
 
 {nbsp}
@@ -12914,7 +12928,7 @@ transparent wings, and little pink feet, and the prettiest mousey mouth
 imaginable.
 
 {nbsp}
-
+[[temple_of_dendoor]]
 image:images/00062.jpg[image]
 
 {nbsp}
@@ -12976,7 +12990,7 @@ pass, as it were, from an oratory in the Great House of Pharaoh to the
 presence-chamber of the Cæsars.
 
 {nbsp}
-
+[[head_dresses_of_kings]]
 image:images/00063.jpg[image]
 
 {nbsp}
@@ -13010,7 +13024,7 @@ those spaces by the artist. Here the sculptor has carried it a stage
 farther ; yonder the painter has begun to colour it.
 
 {nbsp}
-
+[[temple_of_kalabsheh]]
 image:images/00064.jpg[image]
 
 {nbsp}
@@ -13109,7 +13123,7 @@ effected by human means without the aid of powerful rams, fire, or
 gunpowder ; any of which must have left unmistakable traces.
 
 {nbsp}
-
+[[ruined_temple_at_tafah]]
 image:images/00065.jpg[image]
 
 {nbsp}
@@ -13201,7 +13215,7 @@ brink of a cliff overhanging the river. Take it as you will, from above
 or below, looking north or looking south, it makes a charming sketch.
 
 {nbsp}
-
+[[temple_of_dabod]]
 image:images/00066.jpg[image]
 
 {nbsp}
@@ -13252,7 +13266,7 @@ aim was true. "Every shot," said we, "means a bird." We little dreamed
 that one of those shots meant a baby.
 
 {nbsp}
-
+[[ruined_convent_coptic]]
 image:images/00067.jpg[image]
 
 {nbsp}
@@ -13437,7 +13451,7 @@ place to which solitude adds an inexpressible touch of pathos and
 remoteness.
 
 {nbsp}
-
+[[philae_from_the_south]]
 image:images/00068.jpg[image]
 
 {nbsp}
@@ -13474,7 +13488,7 @@ but dark, I at last bid them farewell, fearing lest I may behold them no
 more.
 
 {nbsp}
-
+[[nubian_woman_and_child]]
 image:images/00069.jpg[image]
 
 {nbsp}
@@ -13629,7 +13643,7 @@ hang so much longer. A day must soon come when it will collapse with a
 crash, and thunder down like its fellow.
 
 {nbsp}
-
+[[temple_of_kom_ombo]]
 image:images/00070.jpg[image]
 
 {nbsp}
@@ -13723,7 +13737,7 @@ Mammisi. But the grotesque elegance of her attire at Silsilis, is, I
 imagine, quite unique.
 
 {nbsp}
-
+[[ta_ur_t_silsilis]]
 image:images/00071.jpg[image]
 
 {nbsp}
@@ -14083,7 +14097,7 @@ them looks like rich plum-cake.
 {nbsp}
 
 {nbsp}
-
+[[the_lovely_arab_maiden]]
 image:images/00072.jpg[image]
 
 {nbsp}
@@ -14246,7 +14260,7 @@ put it aside without opening it. The mummy-case was then raised upright,
 hoisted to the brink of the pit, and laid upon the ground.
 
 {nbsp}
-
+[[digging_for_mummies]]
 image:images/00073.jpg[image]
 
 {nbsp}
@@ -14430,7 +14444,7 @@ Orontes ; the city is once more Kadesh ; the king is once more Rameses
 II ; and the incidents are again the incidents of the poem of Pentaur.
 
 {nbsp}
-
+[[osiride_court_and_fallen_colossus]]
 image:images/00074.jpg[image]
 
 {nbsp}
@@ -14583,7 +14597,7 @@ the present day, was erected by Rameses III, namely, this little
 pavilion at Medinet Habu.
 
 {nbsp}
-
+[[palace_entrance_medinet_habu]]
 image:images/00075.jpg[image]
 
 {nbsp}
@@ -14624,7 +14638,7 @@ for the thumb to rest in, just like the lid of a German beer-mug of the
 present day.
 
 {nbsp}
-
+[[vases_and_goblets]]
 image:images/00076.jpg[image]
 
 {nbsp}
@@ -14784,7 +14798,7 @@ opposite, one looks across the Hypæthral Court, and catches a glimpse of
 the ruined Hall of Pillars beyond.
 
 {nbsp}
-
+[[osiride_court]]
 image:images/00077.jpg[image]
 
 {nbsp}
@@ -15300,7 +15314,7 @@ built partly against and partly over the Temple of Luxor, has its place
 in history.
 
 {nbsp}
-
+[[french_house]]
 image:images/00078.jpg[image]
 
 {nbsp}
@@ -15326,7 +15340,7 @@ walls were furnished with a few cheap prints and a pair of tin sconces.
 All was very bare and comfortless.
 
 {nbsp}
-
+[[columns_of_amenhotep_iii]]
 image:images/00079.jpg[image]
 
 {nbsp}
@@ -16257,7 +16271,7 @@ the rail at Bibbeh and went on to Cairo, leaving the Philæ to follow as
 fast as wind and weather might permit.
 
 {nbsp}
-
+[[sakkieh_at_siut]]
 image:images/00080.jpg[image]
 
 {nbsp}
@@ -16286,7 +16300,7 @@ and generally ending the day's work with a drive on the Shubra road, or
 a stroll round the Esbekiyeh Gardens.
 
 {nbsp}
-
+[[in_the_name_of_the_prophet_cakes]]
 image:images/00081.jpg[image]
 
 {nbsp}
@@ -16397,7 +16411,7 @@ manufacture.[[noteref_269]]<<note_269,[269]>>
 {nbsp}
 
 {nbsp}
-
+[[prince_ra_hotep_and_princess_nefer_t]]
 image:images/00082.jpg[image]
 
 {nbsp}
@@ -16517,7 +16531,7 @@ graves[[noteref_270]]<<note_270,[270]>>
 in all the world—and they are nothing more.
 
 {nbsp}
-
+[[sphinx_and_pyramids]]
 image:images/00083.jpg[image]
 
 {nbsp}
@@ -16570,7 +16584,7 @@ at last into that faint far distance beyond which lie Thebes, and Philæ,
 and Abou Simbel.
 
 {nbsp}
-
+[[broken_sistrum]]
 image:images/00084.jpg[image]
 
 {nbsp}
@@ -19380,7 +19394,7 @@ found by Mariette on some small gold tablets at Tanis.
 [[note_197]][<<noteref_197,197>>] Letter XIV. p. 235,
 Letters d'Egypte ; Paris, 1868. See also chapter
 xviii. of the present work ; p.
-link:#page_349[349].
+<<page_349, 349>>.
 
 {nbsp}
 
