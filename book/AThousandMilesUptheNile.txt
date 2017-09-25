@@ -16589,8 +16589,15 @@ image:images/00084.jpg[image]
 
 {nbsp}
 
-//= APPENDICES
-{nbsp}
+[glossary]
+= Example Glossary
+
+[glossary]
+A glossary term::
+  The corresponding (indented) definition.
+
+A second glossary term::
+  The corresponding (indented) definition.
 
 [appendix]
 = APPENDIX I.
