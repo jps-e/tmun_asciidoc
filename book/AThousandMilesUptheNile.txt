@@ -82,7 +82,8 @@ A MIDSUMMER RAMBLE IN THE DOLOMITES.
 
 {nbsp}
 
-// {nbsp}
+include::glossary.txt[]
+
 [preface]
 == PREFACE TO THE SECOND EDITION.
 
@@ -16588,16 +16589,6 @@ and Abou Simbel.
 image:images/00084.jpg[image]
 
 {nbsp}
-
-[glossary]
-= Example Glossary
-
-[glossary]
-A glossary term::
-  The corresponding (indented) definition.
-
-A second glossary term::
-  The corresponding (indented) definition.
 
 [appendix]
 = APPENDIX I.
