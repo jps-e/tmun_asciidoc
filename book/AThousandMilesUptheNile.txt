@@ -1,4 +1,4 @@
-= A THOUSAND MILES UP THE NILE
+= A THOUSAND MILES UP THE NILE (glossary)
 :author: AMELIA B. EDWARDS
 :doctype: book
 :toc:
